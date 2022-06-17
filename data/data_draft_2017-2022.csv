@@ -1,0 +1,1541 @@
+season,team,round,pick,pfr_name,side,category,position,day_of_birth,age,RAS,college,conference,top_executive
+2017,CLE,1,1,Myles Garrett,D,DL,DE,1995-12-29,21.68,9.99,NA,NA,Sashi Brown
+2017,CHI,1,2,Mitch Trubisky,O,QB,QB,1994-08-20,23.03,8.51,NA,NA,Ryan Pace
+2017,SF,1,3,Solomon Thomas,D,DL,DE,1995-08-26,22.02,9.71,NA,NA,John Lynch
+2017,JAX,1,4,Leonard Fournette,O,RB,RB,1995-01-18,22.62,8.04,NA,NA,David Caldwell
+2017,TEN,1,5,Corey Davis,O,WR,WR,1995-01-11,22.64,NA,NA,NA,Jon Robinson
+2017,NYJ,1,6,Jamal Adams,D,DB,S,1995-10-17,21.88,7.1,NA,NA,Mike Maccagnan
+2017,LAC,1,7,Mike Williams,O,WR,WR,1994-10-04,22.91,7.24,NA,NA,Tom Telesco
+2017,CAR,1,8,Christian McCaffrey,O,RB,RB,1996-06-07,21.23,8.52,NA,NA,Dave Gettleman
+2017,CIN,1,9,John Ross,O,WR,WR,1995-11-27,21.76,9.51,NA,NA,Duke Tobin
+2017,KC,1,10,Patrick Mahomes,O,QB,QB,1995-09-17,21.96,8.22,NA,NA,Brett Veach
+2017,NO,1,11,Marshon Lattimore,D,DB,CB,1996-05-20,21.28,9.99,NA,NA,Mickey Loomis
+2017,HOU,1,12,Deshaun Watson,O,QB,QB,1995-09-14,21.97,9.24,NA,NA,Rick Smith
+2017,ARI,1,13,Haason Reddick,D,LB,LB,1994-09-22,22.94,9.07,NA,NA,Steve Keim
+2017,PHI,1,14,Derek Barnett,D,DL,DE,1996-06-25,21.19,5.19,NA,NA,Howie Roseman
+2017,IND,1,15,Malik Hooker,D,DB,S,1996-04-02,21.42,NA,NA,NA,Chris Ballard
+2017,BAL,1,16,Marlon Humphrey,D,DB,CB,1996-07-08,21.15,9.54,NA,NA,Ozzie Newsome
+2017,WAS,1,17,Jonathan Allen,D,DL,DE,1995-01-16,22.63,7.74,NA,NA,Bruce Allen
+2017,TEN,1,18,Adoree' Jackson,D,DB,CB,1995-09-18,21.95,8.77,NA,NA,Jon Robinson
+2017,TB,1,19,O.J. Howard,O,TE,TE,1994-11-18,22.79,9.77,NA,NA,Jason Licht
+2017,DEN,1,20,Garett Bolles,O,OL,T,1992-05-27,25.26,9.45,NA,NA,John Elway
+2017,DET,1,21,Jarrad Davis,D,LB,LB,1994-11-16,22.79,9.07,NA,NA,Bob Quinn
+2017,MIA,1,22,Charles Harris,D,LB,LB,1995-03-06,22.49,4.25,NA,NA,Chris Grier
+2017,NYG,1,23,Evan Engram,O,TE,TE,1994-09-02,23,9.11,NA,NA,Jerry Reese
+2017,OAK,1,24,Gareon Conley,D,DB,CB,1995-06-29,22.18,9.23,NA,NA,Reggie McKenzie
+2017,CLE,1,25,Jabrill Peppers,D,DB,S,1995-10-04,21.91,9.14,NA,NA,Sashi Brown
+2017,ATL,1,26,Takkarist McKinley,D,DL,DE,1995-11-02,21.83,6.85,NA,NA,Thomas Dimitroff
+2017,BUF,1,27,Tre'Davious White,D,DB,CB,1995-01-16,22.63,6.46,NA,NA,Brandon Beane
+2017,DAL,1,28,Taco Charlton,D,DL,DE,1994-11-07,22.82,8.17,NA,NA,Jerry Jones
+2017,CLE,1,29,David Njoku,O,TE,TE,1996-07-10,21.14,9.32,NA,NA,Sashi Brown
+2017,PIT,1,30,T.J. Watt,D,LB,LB,1994-10-11,22.89,9.92,NA,NA,Kevin Colbert
+2017,SF,1,31,Reuben Foster,D,LB,LB,1994-04-04,23.41,NA,NA,NA,John Lynch
+2017,NO,1,32,Ryan Ramczyk,O,OL,T,1994-04-22,23.36,NA,NA,NA,Mickey Loomis
+2017,GB,2,33,Kevin King,D,DB,CB,1995-05-05,22.33,9.94,NA,NA,Ted Thompson
+2017,JAX,2,34,Cam Robinson,O,OL,T,1995-10-09,21.9,7.98,NA,NA,David Caldwell
+2017,SEA,2,35,Malik McDowell,D,DL,DT,1996-06-20,21.2,9.03,NA,NA,John Schneider
+2017,ARI,2,36,Budda Baker,D,DB,S,1996-01-10,21.64,6.37,NA,NA,Steve Keim
+2017,BUF,2,37,Zay Jones,O,WR,WR,1995-03-30,22.43,9.71,NA,NA,Brandon Beane
+2017,LAC,2,38,Forrest Lamp,O,OL,G,1994-02-20,23.53,9.12,NA,NA,Tom Telesco
+2017,NYJ,2,39,Marcus Maye,D,DB,S,1993-03-09,24.48,6.03,NA,NA,Mike Maccagnan
+2017,CAR,2,40,Curtis Samuel,O,WR,WR,1996-08-11,21.06,7.46,NA,NA,Dave Gettleman
+2017,MIN,2,41,Dalvin Cook,O,RB,RB,1995-08-10,22.06,4.65,NA,NA,Rick Spielman
+2017,NO,2,42,Marcus Williams,D,DB,S,1996-09-08,20.98,8.16,NA,NA,Mickey Loomis
+2017,PHI,2,43,Sidney Jones,D,DB,CB,1996-05-21,21.28,5.72,NA,NA,Howie Roseman
+2017,LA,2,44,Gerald Everett,O,TE,TE,1994-06-25,23.19,8.98,NA,NA,Les Snead
+2017,CHI,2,45,Adam Shaheen,O,TE,TE,1994-10-24,22.86,8.67,NA,NA,Ryan Pace
+2017,IND,2,46,Quincy Wilson,D,DB,CB,1996-08-16,21.04,7.35,NA,NA,Chris Ballard
+2017,BAL,2,47,Tyus Bowser,D,LB,LB,1995-05-23,22.28,9.74,NA,NA,Ozzie Newsome
+2017,CIN,2,48,Joe Mixon,O,RB,RB,1996-07-24,21.11,9.46,NA,NA,Duke Tobin
+2017,WAS,2,49,Ryan Anderson,D,LB,LB,1994-08-12,23.06,2.01,NA,NA,Bruce Allen
+2017,TB,2,50,Justin Evans,D,DB,S,1995-08-26,22.02,7.14,NA,NA,Jason Licht
+2017,DEN,2,51,DeMarcus Walker,D,DL,DE,1994-09-30,22.92,3.19,NA,NA,John Elway
+2017,CLE,2,52,DeShone Kizer,O,QB,QB,1996-01-03,21.66,4.99,NA,NA,Sashi Brown
+2017,DET,2,53,Teez Tabor,D,DB,CB,1995-12-31,21.67,4.12,NA,NA,Bob Quinn
+2017,MIA,2,54,Raekwon McMillan,D,LB,LB,1995-11-17,21.79,NA,NA,NA,Chris Grier
+2017,NYG,2,55,Dalvin Tomlinson,D,DL,DT,1994-02-28,23.51,4.62,NA,NA,Jerry Reese
+2017,OAK,2,56,Obi Melifonwu,D,DB,S,1994-04-05,23.41,9.89,NA,NA,Reggie McKenzie
+2017,HOU,2,57,Zach Cunningham,D,LB,LB,1994-12-02,22.75,8.67,NA,NA,Rick Smith
+2017,SEA,2,58,Ethan Pocic,O,OL,C,1995-08-05,22.08,7.76,NA,NA,John Schneider
+2017,KC,2,59,Tanoh Kpassagnon,D,DL,DE,1994-06-14,23.22,7.38,NA,NA,Brett Veach
+2017,DAL,2,60,Chidobe Awuzie,D,DB,CB,1995-05-24,22.28,9.64,NA,NA,Jerry Jones
+2017,GB,2,61,Josh Jones,D,DB,S,1994-09-20,22.95,9.3,NA,NA,Ted Thompson
+2017,PIT,2,62,Juju Smith-Schuster,O,WR,WR,1996-11-22,20.77,7.33,NA,NA,Kevin Colbert
+2017,BUF,2,63,Dion Dawkins,O,OL,G,1994-04-26,23.35,8.8,NA,NA,Brandon Beane
+2017,CAR,2,64,Taylor Moton,O,OL,G,1994-08-14,23.05,8.46,NA,NA,Dave Gettleman
+2017,CLE,3,65,Larry Ogunjobi,D,DL,DT,1994-06-03,23.25,8.46,NA,NA,Sashi Brown
+2017,SF,3,66,Ahkello Witherspoon,D,DB,CB,1995-03-21,22.45,9.88,NA,NA,John Lynch
+2017,NO,3,67,Alvin Kamara,O,RB,RB,1995-07-25,22.11,8.08,NA,NA,Mickey Loomis
+2017,JAX,3,68,Dawuane Smoot,D,DL,DE,1995-03-02,22.5,6.5,NA,NA,David Caldwell
+2017,LA,3,69,Cooper Kupp,O,WR,WR,1993-06-15,24.21,5,NA,NA,Les Snead
+2017,MIN,3,70,Pat Elflein,O,OL,C,1994-07-06,23.16,2.21,NA,NA,Rick Spielman
+2017,LAC,3,71,Dan Feeney,O,OL,G,1994-05-29,23.26,7.72,NA,NA,Tom Telesco
+2017,TEN,3,72,Taywan Taylor,O,WR,WR,1995-03-02,22.5,8.7,NA,NA,Jon Robinson
+2017,CIN,3,73,Jordan Willis,D,LB,LB,1995-05-02,22.34,9.88,NA,NA,Duke Tobin
+2017,BAL,3,74,Chris Wormley,D,DL,DE,1993-10-25,23.85,9.73,NA,NA,Ozzie Newsome
+2017,ATL,3,75,Duke Riley,D,LB,LB,1994-08-09,23.06,8.55,NA,NA,Thomas Dimitroff
+2017,NO,3,76,Alex Anzalone,D,LB,LB,1994-09-22,22.94,8.03,NA,NA,Mickey Loomis
+2017,CAR,3,77,Daeshon Hall,D,DL,DE,1995-06-14,22.22,9.22,NA,NA,Dave Gettleman
+2017,BAL,3,78,Tim Williams,D,LB,LB,1993-11-12,23.8,6.96,NA,NA,Ozzie Newsome
+2017,NYJ,3,79,ArDarius Stewart,O,WR,WR,1993-12-08,23.73,5.89,NA,NA,Mike Maccagnan
+2017,IND,3,80,Tarell Basham,D,DL,DE,1994-03-18,23.46,8.2,NA,NA,Chris Ballard
+2017,WAS,3,81,Fabian Moreau,D,DB,CB,1994-04-09,23.4,9.98,NA,NA,Bruce Allen
+2017,DEN,3,82,Carlos Henderson,O,WR,WR,1994-12-19,22.7,5.75,NA,NA,John Elway
+2017,NE,3,83,Derek Rivers,D,DL,DE,1994-05-09,23.32,9.67,NA,NA,Bill Belichick
+2017,TB,3,84,Chris Godwin,O,WR,WR,1996-02-27,21.51,9.66,NA,NA,Jason Licht
+2017,NE,3,85,Antonio Garcia,O,OL,T,1993-12-10,23.73,7.29,NA,NA,Bill Belichick
+2017,KC,3,86,Kareem Hunt,O,RB,RB,1995-08-06,22.07,5.16,NA,NA,Brett Veach
+2017,NYG,3,87,Davis Webb,O,QB,QB,1995-01-22,22.61,9.39,NA,NA,Jerry Reese
+2017,OAK,3,88,Eddie Vanderdoes,D,DL,DT,1994-10-13,22.89,9.26,NA,NA,Reggie McKenzie
+2017,HOU,3,89,D'Onta Foreman,O,RB,RB,1996-04-24,21.36,7.82,NA,NA,Rick Smith
+2017,SEA,3,90,Shaquill Griffin,D,DB,DB,1995-07-20,22.12,9.87,NA,NA,John Schneider
+2017,LA,3,91,John Johnson,D,DB,S,1995-12-19,21.7,7.93,NA,NA,Les Snead
+2017,DAL,3,92,Jourdan Lewis,D,DB,CB,1995-08-31,22,5.02,NA,NA,Jerry Jones
+2017,GB,3,93,Montravius Adams,D,DL,DT,1995-07-24,22.11,7.89,NA,NA,Ted Thompson
+2017,PIT,3,94,Cameron Sutton,D,DB,CB,1995-02-27,22.51,6.15,NA,NA,Kevin Colbert
+2017,SEA,3,95,Delano Hill,D,DB,S,1995-11-26,21.77,7.91,NA,NA,John Schneider
+2017,DET,3,96,Kenny Golladay,O,WR,WR,1993-11-03,23.83,8.95,NA,NA,Bob Quinn
+2017,MIA,3,97,Cordrea Tankersley,D,DB,CB,1993-11-19,23.78,6.86,NA,NA,Chris Grier
+2017,ARI,3,98,Chad Williams,O,WR,WR,1994-10-19,22.87,9.01,NA,NA,Steve Keim
+2017,PHI,3,99,Rasul Douglas,D,DB,CB,1994-08-29,23.01,6.93,NA,NA,Howie Roseman
+2017,TEN,3,100,Jonnu Smith,O,TE,TE,1995-08-22,22.03,8.29,NA,NA,Jon Robinson
+2017,DEN,3,101,Brendan Langley,D,DB,CB,1994-10-16,22.88,8.78,NA,NA,John Elway
+2017,SEA,3,102,Nazair Jones,D,DL,DT,1994-12-13,22.72,3.75,NA,NA,John Schneider
+2017,NO,3,103,Trey Hendrickson,D,LB,LB,1994-12-05,22.74,9.53,NA,NA,Mickey Loomis
+2017,SF,3,104,C.J. Beathard,O,QB,QB,1993-11-16,23.79,7.67,NA,NA,John Lynch
+2017,PIT,3,105,James Conner,O,RB,RB,1995-05-05,22.33,4.33,NA,NA,Kevin Colbert
+2017,SEA,3,106,Amara Darboh,O,WR,WR,1994-02-01,23.58,9.6,NA,NA,John Schneider
+2017,TB,3,107,Kendell Beckwith,D,LB,LB,1994-12-02,22.75,NA,NA,NA,Jason Licht
+2017,GB,4,108,Vince Biegel,D,LB,LB,1993-07-22,24.11,8.81,NA,NA,Ted Thompson
+2017,MIN,4,109,Jaleel Johnson,D,DL,DT,1994-07-22,23.11,1.87,NA,NA,Rick Spielman
+2017,JAX,4,110,Dede Westbrook,O,WR,WR,1993-11-21,23.78,4.84,NA,NA,David Caldwell
+2017,SEA,4,111,Tedric Thompson,D,DB,S,1995-01-20,22.61,3.38,NA,NA,John Schneider
+2017,CHI,4,112,Eddie Jackson,D,DB,S,1993-12-10,23.73,NA,NA,NA,Ryan Pace
+2017,LAC,4,113,Rayshawn Jenkins,D,DB,S,1994-01-25,23.6,9.42,NA,NA,Tom Telesco
+2017,WAS,4,114,Samaje Perine,O,RB,RB,1995-09-16,21.96,4.94,NA,NA,Bruce Allen
+2017,ARI,4,115,Dorian Johnson,O,OL,G,1994-10-21,22.86,5.81,NA,NA,Steve Keim
+2017,CIN,4,116,Carl Lawson,D,LB,LB,1995-06-29,22.18,8.57,NA,NA,Duke Tobin
+2017,LA,4,117,Josh Reynolds,O,WR,WR,1995-02-16,22.54,9.1,NA,NA,Les Snead
+2017,PHI,4,118,Mack Hollins,O,WR,WR,1993-09-16,23.96,NA,NA,NA,Howie Roseman
+2017,CHI,4,119,Tarik Cohen,O,RB,RB,1995-07-26,22.1,3.92,NA,NA,Ryan Pace
+2017,MIN,4,120,Ben Gedeon,D,LB,LB,1994-10-16,22.88,8.47,NA,NA,Rick Spielman
+2017,SF,4,121,Joe Williams,O,RB,RB,1993-09-04,23.99,7.78,NA,NA,John Lynch
+2017,BAL,4,122,Nico Siragusa,O,OL,G,1994-05-10,23.31,9.24,NA,NA,Ozzie Newsome
+2017,WAS,4,123,Montae Nicholson,D,DB,S,1995-12-04,21.74,9.73,NA,NA,Bruce Allen
+2017,DET,4,124,Jalen Reeves-Maybin,D,LB,LB,1995-01-31,22.58,5.5,NA,NA,Bob Quinn
+2017,LA,4,125,Samson Ebukam,D,LB,LB,1995-05-09,22.32,9.8,NA,NA,Les Snead
+2017,CLE,4,126,Howard Wilson,D,DB,CB,1995-10-30,21.84,6.17,NA,NA,Sashi Brown
+2017,DET,4,127,Michael Roberts,O,TE,TE,1994-05-07,23.32,5.23,NA,NA,Bob Quinn
+2017,CIN,4,128,Josh Malone,O,WR,WR,1996-03-21,21.45,7.03,NA,NA,Duke Tobin
+2017,OAK,4,129,David Sharpe,O,OL,T,1995-10-21,21.86,2.81,NA,NA,Reggie McKenzie
+2017,HOU,4,130,Julie'n Davenport,O,OL,T,1995-01-09,22.64,5.19,NA,NA,Rick Smith
+2017,NE,4,131,Deatrich Wise Jr.,D,DL,DE,1994-07-26,23.1,8.18,NA,NA,Bill Belichick
+2017,PHI,4,132,Donnel Pumphrey,O,RB,RB,1994-12-06,22.74,4.01,NA,NA,Howie Roseman
+2017,DAL,4,133,Ryan Switzer,O,WR,WR,1994-11-04,22.83,4.83,NA,NA,Jerry Jones
+2017,GB,4,134,Jamaal Williams,O,RB,RB,1995-04-03,22.41,4.55,NA,NA,Ted Thompson
+2017,PIT,4,135,Joshua Dobbs,O,QB,QB,1995-01-26,22.6,9.6,NA,NA,Kevin Colbert
+2017,ATL,4,136,Sean Harlow,O,OL,G,1995-03-28,22.43,5.99,NA,NA,Thomas Dimitroff
+2017,IND,4,137,Zach Banner,O,OL,T,1993-12-25,23.69,1.44,NA,NA,Chris Ballard
+2017,CIN,4,138,Ryan Glasgow,D,DL,DT,1993-09-30,23.92,4.18,NA,NA,Duke Tobin
+2017,KC,4,139,Jehu Chesson,O,WR,WR,1993-12-29,23.67,7.95,NA,NA,Brett Veach
+2017,NYG,4,140,Wayne Gallman,O,RB,RB,1994-10-01,22.92,6.3,NA,NA,Jerry Reese
+2017,NYJ,4,141,Chad Hansen,O,WR,WR,1995-01-18,22.62,7.39,NA,NA,Mike Maccagnan
+2017,HOU,4,142,Carlos Watkins,D,DL,DT,1993-12-05,23.74,5.69,NA,NA,Rick Smith
+2017,IND,4,143,Marlon Mack,O,RB,RB,1996-03-07,21.49,8.78,NA,NA,Chris Ballard
+2017,IND,4,144,Grover Stewart,D,DL,DT,1993-10-20,23.87,7.79,NA,NA,Chris Ballard
+2017,DEN,5,145,Jake Butt,O,TE,TE,1995-07-11,22.14,NA,NA,NA,John Elway
+2017,SF,5,146,George Kittle,O,TE,TE,1993-10-09,23.9,9.52,NA,NA,John Lynch
+2017,CHI,5,147,Jordan Morgan,O,OL,G,1994-05-13,23.3,3.1,NA,NA,Ryan Pace
+2017,JAX,5,148,Blair Brown,D,LB,LB,1994-05-27,23.27,8.99,NA,NA,David Caldwell
+2017,ATL,5,149,Damontae Kazee,D,DB,CB,1993-06-05,24.24,3.32,NA,NA,Thomas Dimitroff
+2017,NYJ,5,150,Jordan Leggett,O,TE,TE,1995-01-31,22.58,7.9,NA,NA,Mike Maccagnan
+2017,LAC,5,151,Desmond King,D,DB,S,1994-12-14,22.72,6.6,NA,NA,Tom Telesco
+2017,CAR,5,152,Corn Elder,D,DB,CB,1994-10-09,22.9,1.97,NA,NA,Dave Gettleman
+2017,CIN,5,153,Jake Elliott,S,K,K,1995-01-21,22.61,NA,NA,NA,Duke Tobin
+2017,WAS,5,154,Jeremy Sprinkle,O,TE,TE,1994-08-10,23.06,5.66,NA,NA,Bruce Allen
+2017,TEN,5,155,Jayon Brown,D,LB,LB,1995-02-26,22.51,3.96,NA,NA,Jon Robinson
+2017,ATL,5,156,Brian Hill,O,RB,RB,1995-11-09,21.81,7.4,NA,NA,Thomas Dimitroff
+2017,ARI,5,157,Will Holden,O,OL,T,1993-09-14,23.96,6.75,NA,NA,Steve Keim
+2017,IND,5,158,Nate Hairston,D,DB,CB,1994-06-30,23.17,5.35,NA,NA,Chris Ballard
+2017,BAL,5,159,Jermaine Eluemunor,O,OL,G,1994-12-13,22.72,6.98,NA,NA,Ozzie Newsome
+2017,CLE,5,160,Roderick Johnson,O,OL,T,1995-11-28,21.76,7.38,NA,NA,Sashi Brown
+2017,IND,5,161,Anthony Walker,D,LB,LB,1995-08-08,22.07,6.74,NA,NA,Chris Ballard
+2017,TB,5,162,Jeremy McNichols,O,RB,RB,1995-12-26,21.68,8.38,NA,NA,Jason Licht
+2017,BUF,5,163,Matt Milano,D,LB,LB,1994-07-28,23.1,6.95,NA,NA,Brandon Beane
+2017,MIA,5,164,Isaac Asiata,O,OL,G,1992-12-29,24.67,5.41,NA,NA,Chris Grier
+2017,DET,5,165,Jamal Agnew,D,DB,CB,1995-04-03,22.41,8.1,NA,NA,Bob Quinn
+2017,PHI,5,166,Shelton Gibson,O,WR,WR,1994-03-20,23.45,3.98,NA,NA,Howie Roseman
+2017,NYG,5,167,Avery Moss,D,DL,DE,1994-11-16,22.79,6.34,NA,NA,Jerry Reese
+2017,OAK,5,168,Marquel Lee,D,LB,LB,1995-10-21,21.86,7.29,NA,NA,Reggie McKenzie
+2017,HOU,5,169,Treston Decoud,D,DB,S,1993-08-01,24.08,1.93,NA,NA,Rick Smith
+2017,MIN,5,170,Rodney Adams,O,WR,WR,1994-09-15,22.96,6.02,NA,NA,Rick Spielman
+2017,BUF,5,171,Nathan Peterman,O,QB,QB,1994-05-04,23.33,6.88,NA,NA,Brandon Beane
+2017,DEN,5,172,Isaiah McKenzie,O,WR,WR,1995-04-09,22.4,6.37,NA,NA,John Elway
+2017,PIT,5,173,Brian Allen,D,DB,DB,1993-10-21,23.86,9.03,NA,NA,Kevin Colbert
+2017,ATL,5,174,Eric Saubert,O,TE,TE,1994-05-01,23.34,7.7,NA,NA,Thomas Dimitroff
+2017,GB,5,175,DeAngelo Yancey,O,WR,WR,1994-11-18,22.79,9.08,NA,NA,Ted Thompson
+2017,CIN,5,176,JJ Dielman,O,OL,C,1993-12-16,23.71,NA,NA,NA,Duke Tobin
+2017,SF,5,177,Trent Taylor,O,WR,WR,1994-04-30,23.34,4,NA,NA,John Lynch
+2017,MIA,5,178,Davon Godchaux,D,DL,DT,1994-11-11,22.81,2.52,NA,NA,Chris Grier
+2017,ARI,5,179,T.J. Logan,O,RB,RB,1994-09-03,23,7.56,NA,NA,Steve Keim
+2017,MIN,5,180,Danny Isidora,O,OL,G,1994-06-05,23.24,6.57,NA,NA,Rick Spielman
+2017,NYJ,5,181,Dylan Donahue,D,DL,DL,1992-08-20,25.03,6.67,NA,NA,Mike Maccagnan
+2017,GB,5,182,Aaron Jones,O,RB,RB,1994-12-02,22.75,9.21,NA,NA,Ted Thompson
+2017,KC,5,183,Ukeme Eligwe,D,LB,LB,1994-04-27,23.35,8.42,NA,NA,Brett Veach
+2017,PHI,5,184,Nathan Gerry,D,DB,S,1995-02-23,22.52,6,NA,NA,Howie Roseman
+2017,CLE,6,185,Caleb Brantley,D,DL,DT,1994-09-02,23,4.79,NA,NA,Sashi Brown
+2017,BAL,6,186,Chuck Clark,D,DB,DB,1995-04-19,22.37,8.81,NA,NA,Ozzie Newsome
+2017,SEA,6,187,Michael Tyson,D,DB,S,1993-07-27,24.1,6.25,NA,NA,John Schneider
+2017,NYJ,6,188,Elijah McGuire,O,RB,RB,1994-06-01,23.25,4.62,NA,NA,Mike Maccagnan
+2017,LA,6,189,Tanzel Smart,D,DL,DT,1994-11-06,22.82,2.13,NA,NA,Les Snead
+2017,LAC,6,190,Sam Tevi,O,OL,T,1994-11-15,22.8,5.81,NA,NA,Tom Telesco
+2017,DAL,6,191,Xavier Woods,D,DB,S,1995-07-26,22.1,7.61,NA,NA,Jerry Jones
+2017,CAR,6,192,Alex Armah,O,RB,RB,1994-05-17,23.29,8.52,NA,NA,Dave Gettleman
+2017,CIN,6,193,Jordan Evans,D,LB,LB,1995-01-27,22.6,9.47,NA,NA,Duke Tobin
+2017,MIA,6,194,Vincent Taylor,D,DL,DT,1994-01-05,23.66,6.52,NA,NA,Chris Grier
+2017,BUF,6,195,Tanner Vallejo,D,LB,LB,1994-12-16,22.71,6.3,NA,NA,Brandon Beane
+2017,NO,6,196,Al-Quadin Muhammad,D,DL,DE,1995-03-28,22.43,4.08,NA,NA,Mickey Loomis
+2017,NYJ,6,197,Jeremy Clark,D,DB,CB,1994-06-29,23.18,NA,NA,NA,Mike Maccagnan
+2017,SF,6,198,D.J. Jones,D,DL,DT,1995-01-19,22.62,6.76,NA,NA,John Lynch
+2017,WAS,6,199,Chase Roullier,O,OL,C,1993-08-23,24.02,3.29,NA,NA,Bruce Allen
+2017,NYG,6,200,Adam Bisnowaty,O,OL,T,1993-12-14,23.72,4.48,NA,NA,Jerry Reese
+2017,MIN,6,201,Bucky Hodges,O,TE,TE,1995-08-08,22.07,9.76,NA,NA,Rick Spielman
+2017,SF,6,202,Pita Taumoepenu,D,LB,LB,1994-03-09,23.48,6.46,NA,NA,John Lynch
+2017,DEN,6,203,De'Angelo Henderson,O,RB,RB,1992-11-24,24.77,5.66,NA,NA,John Elway
+2017,NYJ,6,204,Derrick Jones,D,DB,CB,1994-12-04,22.74,6.96,NA,NA,Mike Maccagnan
+2017,DET,6,205,Jeremiah Ledbetter,D,DL,DE,1994-06-02,23.25,9.34,NA,NA,Bob Quinn
+2017,LA,6,206,Sam Rogers,O,RB,RB,1995-04-12,22.39,2.13,NA,NA,Les Snead
+2017,CIN,6,207,Brandon Wilson,O,RB,RB,1994-07-27,23.1,8.99,NA,NA,Duke Tobin
+2017,ARI,6,208,Rudy Ford,D,DB,S,1994-11-01,22.83,9.23,NA,NA,Steve Keim
+2017,WAS,6,209,Robert Davis,O,WR,WR,1995-04-02,22.42,9.79,NA,NA,Bruce Allen
+2017,SEA,6,210,Justin Senior,O,OL,T,1994-07-08,23.15,0.67,NA,NA,John Schneider
+2017,NE,6,211,Conor McDermott,O,OL,T,1992-10-19,24.87,8.7,NA,NA,Bill Belichick
+2017,GB,6,212,Kofi Amichia,O,OL,C,1994-07-29,23.09,9.82,NA,NA,Ted Thompson
+2017,PIT,6,213,Colin Holba,S,LS,LS,1994-07-08,23.15,9.38,NA,NA,Kevin Colbert
+2017,PHI,6,214,Elijah Qualls,D,DL,DT,1995-02-11,22.55,7.55,NA,NA,Howie Roseman
+2017,DET,6,215,Brad Kaaya,O,QB,QB,1995-09-03,22,NA,NA,NA,Bob Quinn
+2017,DAL,6,216,Marquez White,D,DB,CB,1994-10-29,22.84,3.76,NA,NA,Jerry Jones
+2017,TEN,6,217,Corey Levin,O,OL,OL,1994-08-12,23.06,8.36,NA,NA,Jon Robinson
+2017,KC,6,218,Leon McQuay,D,DB,S,1994-11-21,22.78,NA,NA,NA,Brett Veach
+2017,MIN,7,219,Stacy Coley,O,WR,WR,1994-05-13,23.3,4.46,NA,NA,Rick Spielman
+2017,MIN,7,220,Ifeadi Odenigbo,D,DL,DL,1994-04-08,23.4,8.05,NA,NA,Rick Spielman
+2017,OAK,7,221,Shalom Luani,D,DB,S,1994-08-05,23.07,4.79,NA,NA,Reggie McKenzie
+2017,JAX,7,222,Jalen Myrick,D,DB,CB,1995-02-27,22.51,8.64,NA,NA,David Caldwell
+2017,TB,7,223,Stevie Tu'ikolovatu,D,DL,NT,1991-06-28,26.18,0.84,NA,NA,Jason Licht
+2017,CLE,7,224,Zane Gonzalez,S,K,K,1995-05-07,22.32,NA,NA,NA,Sashi Brown
+2017,LAC,7,225,Isaac Rochell,D,DL,DT,1995-04-22,22.36,6.25,NA,NA,Tom Telesco
+2017,SEA,7,226,David Moore,O,WR,WR,1995-01-15,22.63,8.99,NA,NA,John Schneider
+2017,TEN,7,227,Josh Carraway,D,LB,LB,1994-04-13,23.39,6.17,NA,NA,Jon Robinson
+2017,DAL,7,228,Joey Ivie,D,DL,DT,1995-01-22,22.61,4.12,NA,NA,Jerry Jones
+2017,SF,7,229,Adrian Colbert,D,DB,DB,1993-10-06,23.9,5.03,NA,NA,John Lynch
+2017,WAS,7,230,Josh Harvey-Clemons,D,DB,S,1994-02-20,23.53,3.36,NA,NA,Bruce Allen
+2017,OAK,7,231,Jylan Ware,O,OL,T,1993-10-16,23.88,9.57,NA,NA,Reggie McKenzie
+2017,MIN,7,232,Elijah Lee,D,LB,LB,1996-02-08,21.56,7.6,NA,NA,Rick Spielman
+2017,CAR,7,233,Harrison Butker,S,K,K,1995-07-14,22.14,NA,NA,NA,Dave Gettleman
+2017,LA,7,234,Ejuan Price,D,DL,DE,1993-01-30,24.59,5.42,NA,NA,Les Snead
+2017,WAS,7,235,Joshua Holsey,D,DB,DB,1994-06-25,23.19,5.24,NA,NA,Bruce Allen
+2017,TEN,7,236,Brad Seaton,O,OL,T,1993-11-23,23.77,5,NA,NA,Jon Robinson
+2017,MIA,7,237,Isaiah Ford,O,WR,WR,1996-02-09,21.56,5.06,NA,NA,Chris Grier
+2017,GB,7,238,Devante Mays,O,RB,RB,1994-05-26,23.27,7.66,NA,NA,Ted Thompson
+2017,DAL,7,239,Noah Brown,O,WR,WR,1996-01-06,21.65,6.88,NA,NA,Jerry Jones
+2017,JAX,7,240,Marquez Williams,O,RB,RB,1994-07-16,23.13,4.24,NA,NA,David Caldwell
+2017,TEN,7,241,Khalfani Muhammad,O,RB,RB,1994-09-26,22.93,7.52,NA,NA,Jon Robinson
+2017,OAK,7,242,Elijah Hood,O,RB,RB,1996-04-22,21.36,5.69,NA,NA,Reggie McKenzie
+2017,HOU,7,243,Kyle Fuller,O,OL,C,1994-03-04,23.5,5.17,NA,NA,Rick Smith
+2017,OAK,7,244,Treyvon Hester,D,DL,DT,1992-09-21,24.94,7.16,NA,NA,Reggie McKenzie
+2017,MIN,7,245,Jack Tocho,D,DB,CB,1995-11-02,21.83,7.91,NA,NA,Rick Spielman
+2017,DAL,7,246,Jordan Carrell,D,DL,DT,1994-06-30,23.17,6.49,NA,NA,Jerry Jones
+2017,GB,7,247,Malachi Dupre,O,WR,WR,1995-10-12,21.89,7.2,NA,NA,Ted Thompson
+2017,PIT,7,248,Keion Adams,D,LB,LB,1995-06-08,22.23,8.35,NA,NA,Kevin Colbert
+2017,SEA,7,249,Chris Carson,O,RB,RB,1994-09-16,22.96,7.92,NA,NA,John Schneider
+2017,DET,7,250,Pat O'Connor,D,DL,DE,1993-11-01,23.83,7.37,NA,NA,Bob Quinn
+2017,CIN,7,251,Mason Schreck,O,TE,TE,1993-11-04,23.82,7.87,NA,NA,Duke Tobin
+2017,CLE,7,252,Matthew Dayes,O,RB,RB,1994-09-03,23,1.74,NA,NA,Sashi Brown
+2017,DEN,7,253,Chad Kelly,O,QB,QB,1994-03-26,23.44,NA,NA,NA,John Elway
+2018,CLE,1,1,Baker Mayfield,O,QB,QB,1995-04-14,23.38,4.73,NA,NA,John Dorsey
+2018,NYG,1,2,Saquon Barkley,O,RB,RB,1997-02-09,21.56,9.97,NA,NA,Dave Gettleman
+2018,NYJ,1,3,Sam Darnold,O,QB,QB,1997-06-05,21.24,5.63,NA,NA,Mike Maccagnan
+2018,CLE,1,4,Denzel Ward,D,DB,CB,1997-04-28,21.34,9.69,NA,NA,John Dorsey
+2018,DEN,1,5,Bradley Chubb,D,DL,DE,1996-06-24,22.19,9.52,NA,NA,John Elway
+2018,IND,1,6,Quenton Nelson,O,OL,G,1996-03-19,22.45,9.67,NA,NA,Chris Ballard
+2018,BUF,1,7,Josh Allen,O,QB,QB,1996-05-21,22.28,9.67,NA,NA,Brandon Beane
+2018,CHI,1,8,Roquan Smith,D,LB,LB,1997-04-08,21.4,8.58,NA,NA,Ryan Pace
+2018,SF,1,9,Mike McGlinchey,O,OL,T,1995-01-12,23.64,NA,NA,NA,John Lynch
+2018,ARI,1,10,Josh Rosen,O,QB,QB,1997-02-10,21.56,6.89,NA,NA,Steve Keim
+2018,MIA,1,11,Minkah Fitzpatrick,D,DB,S,1996-11-17,21.79,8.48,NA,NA,Chris Grier
+2018,TB,1,12,Vita Vea,D,DL,DT,1995-02-05,23.57,9.53,NA,NA,Jason Licht
+2018,WAS,1,13,Da'Ron Payne,D,DL,DT,1997-05-27,21.26,8.56,NA,NA,Bruce Allen
+2018,NO,1,14,Marcus Davenport,D,DL,DE,1996-09-04,21.99,9.66,NA,NA,Mickey Loomis
+2018,OAK,1,15,Kolton Miller,O,OL,T,1995-10-09,22.9,9.99,NA,NA,Reggie McKenzie
+2018,BUF,1,16,Tremaine Edmunds,D,LB,LB,1998-05-02,20.33,9.74,NA,NA,Brandon Beane
+2018,LAC,1,17,Derwin James,D,DB,S,1996-08-03,22.08,9.35,NA,NA,Tom Telesco
+2018,GB,1,18,Jaire Alexander,D,DB,CB,1997-02-09,21.56,9.54,NA,NA,Brian Gutekunst
+2018,DAL,1,19,Leighton Vander Esch,D,LB,LB,1996-02-08,22.56,9.98,NA,NA,Jerry Jones
+2018,DET,1,20,Frank Ragnow,O,OL,C,1996-05-17,22.29,9.93,NA,NA,Bob Quinn
+2018,CIN,1,21,Billy Price,O,OL,C,1994-10-11,23.89,NA,NA,NA,Duke Tobin
+2018,TEN,1,22,Rashaan Evans,D,LB,LB,1995-11-08,22.81,5.15,NA,NA,Jon Robinson
+2018,NE,1,23,Isaiah Wynn,O,OL,T,1995-12-09,22.73,NA,NA,NA,Bill Belichick
+2018,CAR,1,24,D.J. Moore,O,WR,WR,1997-04-14,21.38,9.65,NA,NA,Marty Hurney
+2018,BAL,1,25,Hayden Hurst,O,TE,TE,1993-08-24,25.02,7.59,NA,NA,Ozzie Newsome
+2018,ATL,1,26,Calvin Ridley,O,WR,WR,1994-12-20,23.7,5.14,NA,NA,Thomas Dimitroff
+2018,SEA,1,27,Rashaad Penny,O,RB,RB,1996-02-02,22.58,7.28,NA,NA,John Schneider
+2018,PIT,1,28,Terrell Edmunds,D,LB,LB,1997-01-20,21.61,9.89,NA,NA,Kevin Colbert
+2018,JAX,1,29,Taven Bryan,D,DL,DT,1996-03-11,22.48,9.91,NA,NA,David Caldwell
+2018,MIN,1,30,Mike Hughes,D,DB,CB,1997-02-11,21.55,7.75,NA,NA,Rick Spielman
+2018,NE,1,31,Sony Michel,O,RB,RB,1995-02-17,23.54,8.96,NA,NA,Bill Belichick
+2018,BAL,1,32,Lamar Jackson,O,QB,QB,1997-01-07,21.65,NA,NA,NA,Ozzie Newsome
+2018,CLE,2,33,Austin Corbett,O,OL,C,1995-09-05,22.99,8.42,NA,NA,John Dorsey
+2018,NYG,2,34,Will Hernandez,O,OL,G,1995-09-02,23,8.85,NA,NA,Dave Gettleman
+2018,CLE,2,35,Nick Chubb,O,RB,RB,1995-12-27,22.68,9.15,NA,NA,John Dorsey
+2018,IND,2,36,Darius Leonard,D,LB,LB,1995-07-27,23.1,4.9,NA,NA,Chris Ballard
+2018,IND,2,37,Braden Smith,O,OL,G,1996-03-25,22.44,9.72,NA,NA,Chris Ballard
+2018,TB,2,38,Ronald Jones II,O,RB,RB,1997-08-03,21.08,6.55,NA,NA,Jason Licht
+2018,CHI,2,39,James Daniels,O,OL,C,1997-09-13,20.97,9.24,NA,NA,Ryan Pace
+2018,DEN,2,40,Courtland Sutton,O,WR,WR,1995-10-10,22.89,9.81,NA,NA,John Elway
+2018,TEN,2,41,Harold Landry,D,LB,LB,1996-06-05,22.24,9.47,NA,NA,Jon Robinson
+2018,MIA,2,42,Mike Gesicki,O,TE,TE,1995-10-03,22.91,9.97,NA,NA,Chris Grier
+2018,DET,2,43,Kerryon Johnson,O,RB,RB,1997-06-30,21.17,7.1,NA,NA,Bob Quinn
+2018,SF,2,44,Dante Pettis,O,WR,WR,1995-10-23,22.86,7.96,NA,NA,John Lynch
+2018,GB,2,45,Josh Jackson,D,DB,CB,1996-04-03,22.41,9.27,NA,NA,Brian Gutekunst
+2018,KC,2,46,Breeland Speaks,D,DL,DE,1995-12-18,22.7,8.97,NA,NA,Brett Veach
+2018,ARI,2,47,Christian Kirk,O,WR,WR,1996-11-18,21.79,6.25,NA,NA,Steve Keim
+2018,LAC,2,48,Uchenna Nwosu,D,LB,LB,1996-12-28,21.68,8.55,NA,NA,Tom Telesco
+2018,PHI,2,49,Dallas Goedert,O,TE,TE,1995-01-03,23.66,9.51,NA,NA,Howie Roseman
+2018,DAL,2,50,Connor Williams,O,OL,T,1997-05-12,21.31,9.15,NA,NA,Jerry Jones
+2018,CHI,2,51,Anthony Miller,O,WR,WR,1994-10-09,23.9,9.27,NA,NA,Ryan Pace
+2018,IND,2,52,Kemoko Turay,D,LB,LB,1995-07-11,23.14,9.33,NA,NA,Chris Ballard
+2018,TB,2,53,M.J. Stewart,D,DB,CB,1995-09-16,22.96,6.22,NA,NA,Jason Licht
+2018,CIN,2,54,Jessie Bates III,D,DB,S,1997-02-26,21.51,7.18,NA,NA,Duke Tobin
+2018,CAR,2,55,Donte Jackson,D,DB,CB,1995-11-08,22.81,7.03,NA,NA,Marty Hurney
+2018,NE,2,56,Duke Dawson,D,DB,CB,1995-10-13,22.89,6.45,NA,NA,Bill Belichick
+2018,OAK,2,57,P.J. Hall,D,DL,DT,1995-04-05,23.41,8.77,NA,NA,Reggie McKenzie
+2018,ATL,2,58,Isaiah Oliver,D,DB,CB,1996-09-30,21.92,8.73,NA,NA,Thomas Dimitroff
+2018,WAS,2,59,Derrius Guice,O,RB,RB,1997-06-21,21.2,7.39,NA,NA,Bruce Allen
+2018,PIT,2,60,James Washington,O,WR,WR,1996-04-02,22.41,5.56,NA,NA,Kevin Colbert
+2018,JAX,2,61,DJ Chark,O,WR,WR,1996-09-23,21.94,9.94,NA,NA,David Caldwell
+2018,MIN,2,62,Brian O'Neill,O,OL,T,1995-09-15,22.96,9.6,NA,NA,Rick Spielman
+2018,TB,2,63,Carlton Davis,D,DB,CB,1996-12-31,21.67,6.37,NA,NA,Jason Licht
+2018,IND,2,64,Tyquan Lewis,D,DL,DE,1995-01-30,23.59,9.54,NA,NA,Chris Ballard
+2018,OAK,3,65,Brandon Parker,O,OL,T,1995-10-21,22.86,6.66,NA,NA,Reggie McKenzie
+2018,NYG,3,66,Lorenzo Carter,D,DL,DE,1995-12-10,22.73,10,NA,NA,Dave Gettleman
+2018,CLE,3,67,Chad Thomas,D,DL,DE,1995-10-12,22.89,4.56,NA,NA,John Dorsey
+2018,HOU,3,68,Justin Reid,D,DB,S,1997-02-15,21.54,9.63,NA,NA,Brian Gaine
+2018,NYG,3,69,B.J. Hill,D,DL,DT,1995-04-20,23.37,8.75,NA,NA,Dave Gettleman
+2018,SF,3,70,Fred Warner,D,LB,LB,1996-11-19,21.78,9.67,NA,NA,John Lynch
+2018,DEN,3,71,Royce Freeman,O,RB,RB,1996-02-24,22.52,8.27,NA,NA,John Elway
+2018,NYJ,3,72,Nathan Shepherd,D,DL,DT,1993-10-09,24.9,9.21,NA,NA,Mike Maccagnan
+2018,MIA,3,73,Jerome Baker,D,LB,LB,1996-12-25,21.68,9.26,NA,NA,Chris Grier
+2018,WAS,3,74,Geron Christian,O,OL,T,1996-09-10,21.97,2.71,NA,NA,Bruce Allen
+2018,KC,3,75,Derrick Nnadi,D,DL,DT,1996-05-09,22.31,1.21,NA,NA,Brett Veach
+2018,PIT,3,76,Mason Rudolph,O,QB,QB,1995-07-17,23.13,4.06,NA,NA,Kevin Colbert
+2018,CIN,3,77,Sam Hubbard,D,DL,DE,1995-06-29,23.18,7.39,NA,NA,Duke Tobin
+2018,CIN,3,78,Malik Jefferson,D,LB,LB,1996-11-15,21.79,9.78,NA,NA,Duke Tobin
+2018,SEA,3,79,Rasheem Green,D,DL,DT,1997-05-15,21.3,9.08,NA,NA,John Schneider
+2018,HOU,3,80,Martinas Rankin,O,OL,T,1994-10-20,23.87,NA,NA,NA,Brian Gaine
+2018,DAL,3,81,Michael Gallup,O,WR,WR,1996-03-04,22.49,5.89,NA,NA,Jerry Jones
+2018,DET,3,82,Tracy Walker,D,DB,S,1995-02-01,23.58,6.88,NA,NA,Bob Quinn
+2018,BAL,3,83,Orlando Brown,O,OL,T,1996-05-02,22.33,0.72,NA,NA,Ozzie Newsome
+2018,LAC,3,84,Justin Jones,D,DL,DT,1996-08-28,22.01,5.95,NA,NA,Tom Telesco
+2018,CAR,3,85,Rashaan Gaulden,D,DB,CB,1995-01-23,23.61,2.27,NA,NA,Marty Hurney
+2018,BAL,3,86,Mark Andrews,O,TE,TE,1995-09-06,22.99,7.3,NA,NA,Ozzie Newsome
+2018,OAK,3,87,Arden Key,D,DL,DE,1996-05-03,22.33,6.39,NA,NA,Reggie McKenzie
+2018,GB,3,88,Oren Burks,D,LB,LB,1995-03-21,23.45,9.73,NA,NA,Brian Gutekunst
+2018,LA,3,89,Joseph Noteboom,O,OL,T,1995-06-19,23.2,8.5,NA,NA,Les Snead
+2018,ATL,3,90,Deadrin Senat,D,DL,DT,1994-07-22,24.11,3.79,NA,NA,Thomas Dimitroff
+2018,NO,3,91,Tre'Quan Smith,O,WR,WR,1996-01-07,22.65,6.86,NA,NA,Mickey Loomis
+2018,PIT,3,92,Chukwuma Okorafor,O,OL,T,1997-08-08,21.07,4.13,NA,NA,Kevin Colbert
+2018,JAX,3,93,Ronnie Harrison,D,DB,S,1997-04-18,21.37,7.46,NA,NA,David Caldwell
+2018,TB,3,94,Alex Cappa,O,OL,T,1995-01-27,23.59,2.94,NA,NA,Jason Licht
+2018,SF,3,95,Tarvarius Moore,D,DB,S,1996-08-16,22.04,9.26,NA,NA,John Lynch
+2018,BUF,3,96,Harrison Phillips,D,DL,DT,1996-01-25,22.6,8.11,NA,NA,Brandon Beane
+2018,ARI,3,97,Mason Cole,O,OL,C,1996-03-28,22.43,5.25,NA,NA,Steve Keim
+2018,HOU,3,98,Jordan Akins,O,TE,TE,1992-04-19,26.37,6.92,NA,NA,Brian Gaine
+2018,DEN,3,99,Isaac Yiadom,D,DB,CB,1996-02-20,22.53,6.13,NA,NA,John Elway
+2018,KC,3,100,Dorian O'Daniel,D,LB,LB,1994-09-04,23.99,7.42,NA,NA,Brett Veach
+2018,CAR,4,101,Ian Thomas,O,TE,TE,1996-06-06,22.24,9.33,NA,NA,Marty Hurney
+2018,MIN,4,102,Jalyn Holmes,D,DL,DE,1996-01-25,22.6,6.81,NA,NA,Rick Spielman
+2018,HOU,4,103,Keke Coutee,O,WR,WR,1997-01-14,21.63,5.65,NA,NA,Brian Gaine
+2018,IND,4,104,Nyheim Hines,O,RB,RB,1996-11-12,21.8,5.69,NA,NA,Chris Ballard
+2018,CLE,4,105,Antonio Callaway,O,WR,WR,1997-01-09,21.64,6.22,NA,NA,John Dorsey
+2018,DEN,4,106,Josey Jewell,D,LB,LB,1994-12-25,23.69,5.67,NA,NA,John Elway
+2018,NYJ,4,107,Christopher Herndon IV,O,TE,TE,1996-02-23,22.52,4.99,NA,NA,Mike Maccagnan
+2018,NYG,4,108,Kyle Lauletta,O,QB,QB,1995-03-17,23.46,8.36,NA,NA,Dave Gettleman
+2018,WAS,4,109,Troy Apke,D,DB,S,1995-04-11,23.39,9.94,NA,NA,Bruce Allen
+2018,OAK,4,110,Nick Nelson,D,DB,CB,1996-10-16,21.88,8.28,NA,NA,Reggie McKenzie
+2018,LA,4,111,Brian Allen,O,OL,C,1995-10-11,22.89,4.08,NA,NA,Les Snead
+2018,CIN,4,112,Mark Walton,O,RB,RB,1997-03-29,21.43,4.56,NA,NA,Duke Tobin
+2018,DEN,4,113,DaeSean Hamilton,O,WR,WR,1995-03-10,23.48,8.09,NA,NA,John Elway
+2018,DET,4,114,Da'Shawn Hand,D,DL,DE,1995-11-14,22.8,8.9,NA,NA,Bob Quinn
+2018,CHI,4,115,Joel Iyiegbuniwe,D,LB,LB,1995-10-12,22.89,7.76,NA,NA,Ryan Pace
+2018,DAL,4,116,Dorance Armstrong Jr.,D,DL,DE,1997-06-10,21.23,5.9,NA,NA,Jerry Jones
+2018,TB,4,117,Jordan Whitehead,D,DB,S,1997-03-18,21.46,5.18,NA,NA,Jason Licht
+2018,BAL,4,118,Anthony Averett,D,DB,CB,1994-11-30,23.75,5.9,NA,NA,Ozzie Newsome
+2018,LAC,4,119,Kyzir White,D,DB,S,1996-03-24,22.44,7.52,NA,NA,Tom Telesco
+2018,SEA,4,120,Will Dissly,O,TE,TE,1996-07-08,22.15,3.79,NA,NA,John Schneider
+2018,BUF,4,121,Taron Johnson,D,DB,CB,1996-07-27,22.1,6.29,NA,NA,Brandon Beane
+2018,BAL,4,122,Kenny Young,D,LB,LB,1994-11-15,23.79,7.49,NA,NA,Ozzie Newsome
+2018,MIA,4,123,Durham Smythe,O,TE,TE,1995-08-09,23.06,6.22,NA,NA,Chris Grier
+2018,KC,4,124,Armani Watts,D,DB,S,1996-03-19,22.45,4.07,NA,NA,Brett Veach
+2018,PHI,4,125,Avonte Maddox,D,DB,CB,1996-03-31,22.42,8.87,NA,NA,Howie Roseman
+2018,ATL,4,126,Ito Smith,O,RB,RB,1995-09-11,22.97,6.26,NA,NA,Thomas Dimitroff
+2018,NO,4,127,Rick Leonard,O,OL,T,1996-11-22,21.77,NA,NA,NA,Mickey Loomis
+2018,SF,4,128,Kentavius Street,D,DL,DT,1996-05-08,22.32,7.71,NA,NA,John Lynch
+2018,JAX,4,129,Will Richardson,O,OL,T,1996-01-04,22.66,5.98,NA,NA,David Caldwell
+2018,PHI,4,130,Josh Sweat,D,DL,DE,1997-03-29,21.43,9.71,NA,NA,Howie Roseman
+2018,MIA,4,131,Kalen Ballage,O,RB,RB,1995-12-22,22.69,9.12,NA,NA,Chris Grier
+2018,BAL,4,132,Jaleel Scott,O,WR,WR,1995-02-23,23.52,7.6,NA,NA,Ozzie Newsome
+2018,GB,4,133,J'Mon Moore,O,WR,WR,1995-05-23,23.28,8.43,NA,NA,Brian Gutekunst
+2018,ARI,4,134,Chase Edmonds,O,RB,RB,1996-04-13,22.38,7.91,NA,NA,Steve Keim
+2018,LA,4,135,John Franklin-Myers,D,DL,DE,1996-09-26,21.93,8.3,NA,NA,Les Snead
+2018,CAR,4,136,Marquis Haynes,D,LB,LB,1993-12-16,24.71,7.21,NA,NA,Marty Hurney
+2018,DAL,4,137,Dalton Schultz,O,TE,TE,1996-07-11,22.14,7.14,NA,NA,Jerry Jones
+2018,GB,5,138,Cole Madison,O,OL,G,1994-12-20,23.7,4.58,NA,NA,Brian Gutekunst
+2018,NYG,5,139,R.J. McIntosh,D,DL,DT,1996-06-02,22.25,3.38,NA,NA,Dave Gettleman
+2018,OAK,5,140,Maurice Hurst Jr.,D,DL,DT,1995-05-09,23.32,7.74,NA,NA,Reggie McKenzie
+2018,SEA,5,141,Shaquem Griffin,D,LB,LB,1995-07-20,23.12,8.32,NA,NA,John Schneider
+2018,SF,5,142,D.J. Reed,D,DB,CB,1996-11-11,21.8,6.6,NA,NA,John Lynch
+2018,NE,5,143,Ja'Whaun Bentley,D,LB,LB,1996-08-24,22.02,6.2,NA,NA,Bill Belichick
+2018,TB,5,144,Justin Watson,O,WR,WR,1996-04-04,22.41,9.6,NA,NA,Jason Licht
+2018,CHI,5,145,Bilal Nichols,D,DL,DT,1996-09-14,21.96,9.73,NA,NA,Ryan Pace
+2018,SEA,5,146,Tre Flowers,D,DB,S,1995-06-02,23.25,8.54,NA,NA,John Schneider
+2018,LA,5,147,Micah Kiser,D,LB,LB,1995-01-25,23.6,8.43,NA,NA,Les Snead
+2018,PIT,5,148,Marcus Allen,D,DB,S,1996-08-07,22.07,8.22,NA,NA,Kevin Colbert
+2018,SEA,5,149,Michael Dickson,S,P,P,1996-01-04,22.66,NA,NA,NA,John Schneider
+2018,CLE,5,150,Genard Avery,D,LB,LB,1995-04-26,23.35,9.29,NA,NA,John Dorsey
+2018,CIN,5,151,Davontae Harris,D,DB,CB,1995-01-21,23.61,7.77,NA,NA,Duke Tobin
+2018,TEN,5,152,Dane Cruikshank,D,DB,CB,1995-04-27,23.35,9.71,NA,NA,Jon Robinson
+2018,DET,5,153,Tyrell Crosby,O,OL,T,1995-09-05,22.99,7.1,NA,NA,Bob Quinn
+2018,BUF,5,154,Siran Neal,D,DB,CB,1994-08-04,24.08,7.23,NA,NA,Brandon Beane
+2018,LAC,5,155,Scott Quessenberry,O,OL,C,1995-03-23,23.44,9.17,NA,NA,Tom Telesco
+2018,DEN,5,156,Troy Fumagalli,O,TE,TE,1995-02-17,23.54,NA,NA,NA,John Elway
+2018,MIN,5,157,Tyler Conklin,O,TE,TE,1995-07-30,23.09,7.69,NA,NA,Rick Spielman
+2018,CIN,5,158,Andrew Brown,D,DL,DE,1995-12-30,22.67,8.91,NA,NA,Duke Tobin
+2018,IND,5,159,Daurice Fountain,O,WR,WR,1995-12-22,22.69,8,NA,NA,Chris Ballard
+2018,LA,5,160,Ogbonnia Okoronkwo,D,DL,DE,1995-04-24,23.36,8.69,NA,NA,Les Snead
+2018,CAR,5,161,Jermaine Carter Jr.,D,LB,LB,1995-01-14,23.63,4.57,NA,NA,Marty Hurney
+2018,BAL,5,162,Jordan Lasley,O,WR,WR,1996-11-13,21.8,4.49,NA,NA,Ozzie Newsome
+2018,WAS,5,163,Tim Settle,D,DL,DT,1997-07-11,21.14,0.89,NA,NA,Bruce Allen
+2018,NO,5,164,Natrell Jamerson,D,DB,S,1995-12-15,22.71,8.21,NA,NA,Mickey Loomis
+2018,PIT,5,165,Jaylen Samuels,O,TE,TE,1996-07-20,22.12,7.93,NA,NA,Kevin Colbert
+2018,BUF,5,166,Wyatt Teller,O,OL,G,1994-11-21,23.78,8.79,NA,NA,Brandon Beane
+2018,MIN,5,167,Daniel Carlson,S,K,K,1995-01-23,23.61,NA,NA,NA,Rick Spielman
+2018,SEA,5,168,Jamarco Jones,O,OL,T,1996-06-04,22.24,0.53,NA,NA,John Schneider
+2018,IND,5,169,Jordan Wilkins,O,RB,RB,1994-07-18,24.12,7.78,NA,NA,Chris Ballard
+2018,CIN,5,170,Darius Phillips,D,DB,CB,1995-06-26,23.18,3.61,NA,NA,Duke Tobin
+2018,DAL,5,171,Mike White,O,QB,QB,1995-03-25,23.44,2.2,NA,NA,Jerry Jones
+2018,GB,5,172,JK Scott,S,P,P,1995-10-30,22.84,NA,NA,NA,Brian Gutekunst
+2018,OAK,5,173,Johnny Townsend,S,P,P,1995-02-14,23.55,NA,NA,NA,Reggie McKenzie
+2018,GB,5,174,Marquez Valdes-Scantling,O,WR,WR,1994-10-10,23.89,9.27,NA,NA,Brian Gutekunst
+2018,CLE,6,175,Damion Ratley,O,WR,WR,1995-04-16,23.38,9.03,NA,NA,John Dorsey
+2018,LA,6,176,John Kelly,O,RB,RB,1996-10-04,21.91,4.45,NA,NA,Les Snead
+2018,HOU,6,177,Duke Ejiofor,D,DL,DE,1995-04-24,23.36,NA,NA,NA,Brian Gaine
+2018,NE,6,178,Christian Sam,D,LB,LB,1996-06-07,22.23,7.53,NA,NA,Bill Belichick
+2018,NYJ,6,179,Parry Nickerson,D,DB,CB,1994-10-11,23.89,5.79,NA,NA,Mike Maccagnan
+2018,NYJ,6,180,Folorunso Fatukasi,D,DL,DT,1995-03-04,23.5,8.57,NA,NA,Mike Maccagnan
+2018,CHI,6,181,Kylie Fitts,D,DL,DE,1994-10-11,23.89,9.59,NA,NA,Ryan Pace
+2018,ARI,6,182,Christian Campbell,D,DB,CB,1995-11-27,22.76,9.48,NA,NA,Steve Keim
+2018,DEN,6,183,Sam Jones,O,OL,G,1996-02-21,22.53,4.88,NA,NA,John Elway
+2018,SF,6,184,Marcell Harris,D,DB,S,1994-06-09,24.23,NA,NA,NA,John Lynch
+2018,IND,6,185,Deon Cain,O,WR,WR,1996-08-09,22.06,6.48,NA,NA,Chris Ballard
+2018,SEA,6,186,Jacob Martin,D,LB,LB,1995-12-11,22.72,8.31,NA,NA,John Schneider
+2018,BUF,6,187,Ray-Ray McCloud,O,WR,WR,1996-10-15,21.88,3.73,NA,NA,Brandon Beane
+2018,CLE,6,188,Simeon Thomas,D,DB,CB,1993-09-22,24.94,7.29,NA,NA,John Dorsey
+2018,NO,6,189,Kamrin Moore,D,DB,CB,1996-10-01,21.92,5.47,NA,NA,Mickey Loomis
+2018,BAL,6,190,DeShon Elliott,D,DB,S,1997-04-21,21.36,5.18,NA,NA,Ozzie Newsome
+2018,LAC,6,191,Dylan Cantrell,O,WR,WR,1994-06-29,24.18,9.86,NA,NA,Tom Telesco
+2018,LA,6,192,Jamil Demby,O,OL,T,1996-06-20,22.2,2.25,NA,NA,Les Snead
+2018,DAL,6,193,Chris Covington,D,LB,LB,1996-01-03,22.66,7.41,NA,NA,Jerry Jones
+2018,ATL,6,194,Russell Gage,O,WR,WR,1996-01-22,22.61,8.01,NA,NA,Thomas Dimitroff
+2018,LA,6,195,Sebastian Joseph,D,DL,DT,1995-03-21,23.45,9.44,NA,NA,Les Snead
+2018,KC,6,196,Tremon Smith,O,WR,WR,1996-07-20,22.12,8.06,NA,NA,Brett Veach
+2018,WAS,6,197,Shaun Dion Hamilton,D,LB,LB,1995-09-11,22.97,NA,NA,NA,Bruce Allen
+2018,KC,6,198,Kahlil McKenzie,D,DL,DT,1997-01-03,21.66,6,NA,NA,Brett Veach
+2018,TEN,6,199,Luke Falk,O,QB,QB,1994-12-28,23.68,NA,NA,NA,Jon Robinson
+2018,ATL,6,200,Foyesade Oluokun,D,DB,S,1995-08-02,23.08,9.16,NA,NA,Thomas Dimitroff
+2018,NO,6,201,Boston Scott,O,RB,RB,1995-04-27,23.35,8.85,NA,NA,Mickey Loomis
+2018,TB,6,202,Jack Cichy,D,LB,LB,1995-05-05,23.33,7.84,NA,NA,Jason Licht
+2018,JAX,6,203,Tanner Lee,O,QB,QB,1995-02-14,23.55,6.31,NA,NA,David Caldwell
+2018,NYJ,6,204,Trenton Cannon,O,RB,RB,1994-07-23,24.11,9.07,NA,NA,Mike Maccagnan
+2018,LA,6,205,Trevon Young,D,DL,DE,1995-04-01,23.42,8.75,NA,NA,Les Snead
+2018,PHI,6,206,Matt Pryor,O,OL,T,1994-12-16,23.71,2.8,NA,NA,Howie Roseman
+2018,GB,6,207,Equanimeous St.Brown,O,WR,WR,1996-09-30,21.92,9.84,NA,NA,Brian Gutekunst
+2018,DAL,6,208,Cedrick Wilson,O,WR,WR,1995-11-20,22.78,6.88,NA,NA,Jerry Jones
+2018,MIA,6,209,Cornell Armstrong,D,DB,CB,1995-09-22,22.94,9.14,NA,NA,Chris Grier
+2018,NE,6,210,Braxton Berrios,O,WR,WR,1995-10-06,22.9,5.69,NA,NA,Bill Belichick
+2018,HOU,6,211,Jordan Thomas,O,TE,TE,1996-08-02,22.08,3.93,NA,NA,Brian Gaine
+2018,BAL,6,212,Greg Senat,O,OL,T,1994-09-08,23.98,5.9,NA,NA,Ozzie Newsome
+2018,MIN,6,213,Colby Gossett,O,OL,G,1995-06-23,23.19,7.42,NA,NA,Rick Spielman
+2018,HOU,6,214,Peter Kalambayi,D,LB,LB,1995-06-26,23.18,8.82,NA,NA,Brian Gaine
+2018,BAL,6,215,Bradley Bozeman,O,OL,C,1994-11-24,23.77,1.19,NA,NA,Ozzie Newsome
+2018,OAK,6,216,Azeem Victor,D,LB,LB,1995-09-19,22.95,6.15,NA,NA,Reggie McKenzie
+2018,DEN,6,217,Keishawn Bierria,D,LB,LB,1995-07-26,23.1,4.32,NA,NA,John Elway
+2018,MIN,6,218,Ade Aruna,D,DL,DE,1994-04-27,24.35,8.59,NA,NA,Rick Spielman
+2018,NE,7,219,Danny Etling,O,QB,QB,1994-07-22,24.11,8.31,NA,NA,Bill Belichick
+2018,SEA,7,220,Alex McGough,O,QB,QB,1995-11-19,22.78,7.82,NA,NA,John Schneider
+2018,IND,7,221,Matthew Adams,D,LB,LB,1995-12-12,22.72,7.2,NA,NA,Chris Ballard
+2018,HOU,7,222,Jermaine Kelly,D,DB,CB,1995-02-26,23.51,7.74,NA,NA,Brian Gaine
+2018,SF,7,223,Jullian Taylor,D,DL,DT,1995-01-30,23.59,9.87,NA,NA,John Lynch
+2018,CHI,7,224,Javon Wims,O,WR,WR,1994-09-11,23.97,5.45,NA,NA,Ryan Pace
+2018,MIN,7,225,Devante Downs,D,LB,LB,1995-10-18,22.87,NA,NA,NA,Rick Spielman
+2018,DEN,7,226,David Williams,O,RB,RB,1994-06-17,24.21,4.75,NA,NA,John Elway
+2018,MIA,7,227,Quentin Poling,D,LB,LB,1994-08-17,24.04,9.65,NA,NA,Chris Grier
+2018,OAK,7,228,Marcell Ateman,O,WR,WR,1994-09-16,23.96,5.2,NA,NA,Reggie McKenzie
+2018,MIA,7,229,Jason Sanders,S,K,K,1995-11-16,22.79,NA,NA,NA,Chris Grier
+2018,JAX,7,230,Leon Jacobs,D,LB,LB,1995-10-03,22.91,8.75,NA,NA,David Caldwell
+2018,LA,7,231,Travin Howard,D,LB,LB,1996-05-10,22.31,8.03,NA,NA,Les Snead
+2018,GB,7,232,James Looney,D,DL,DE,1995-05-15,23.3,9.75,NA,NA,Brian Gutekunst
+2018,PHI,7,233,Jordan Mailata,O,OL,T,1997-03-31,21.42,NA,NA,NA,Howie Roseman
+2018,CAR,7,234,Andre Smith,D,LB,LB,1997-04-20,21.37,5.71,NA,NA,Marty Hurney
+2018,IND,7,235,Zaire Franklin,D,LB,LB,1996-07-02,22.17,9.64,NA,NA,Chris Ballard
+2018,DAL,7,236,Bo Scarbrough,O,RB,RB,1994-09-29,23.92,9.25,NA,NA,Jerry Jones
+2018,DET,7,237,Nick Bawden,O,RB,RB,1996-06-22,22.19,7.94,NA,NA,Bob Quinn
+2018,BAL,7,238,Zach Sieler,D,DL,DE,1995-09-07,22.98,7.36,NA,NA,Ozzie Newsome
+2018,GB,7,239,Hunter Bradley,S,LS,LS,1994-05-21,24.28,9.03,NA,NA,Brian Gutekunst
+2018,SF,7,240,Richie James,O,WR,WR,1995-09-05,22.99,6,NA,NA,John Lynch
+2018,WAS,7,241,Greg Stroman,D,DB,CB,1996-03-08,22.48,3.92,NA,NA,Bruce Allen
+2018,CAR,7,242,Kendrick Norton,D,DL,DT,1997-06-07,21.23,4.27,NA,NA,Marty Hurney
+2018,NE,7,243,Keion Crossen,D,DB,CB,1996-04-17,22.37,8.37,NA,NA,Bill Belichick
+2018,LA,7,244,Justin Lawler,D,DL,DE,1994-12-23,23.69,2.43,NA,NA,Les Snead
+2018,NO,7,245,Will Clapp,O,OL,C,1995-12-10,22.73,3.78,NA,NA,Mickey Loomis
+2018,PIT,7,246,Joshua Frazier,D,DL,DT,1995-11-06,22.82,1.75,NA,NA,Kevin Colbert
+2018,JAX,7,247,Logan Cooke,S,P,P,1995-07-28,23.1,NA,NA,NA,David Caldwell
+2018,GB,7,248,Kendall Donnerson,D,LB,LB,1996-04-22,22.36,9.89,NA,NA,Brian Gutekunst
+2018,CIN,7,249,Logan Woodside,O,QB,QB,1995-01-27,23.59,6.04,NA,NA,Duke Tobin
+2018,NE,7,250,Ryan Izzo,O,TE,TE,1995-12-21,22.7,4.51,NA,NA,Bill Belichick
+2018,LAC,7,251,Justin Jackson,O,RB,RB,1996-04-22,22.36,8.84,NA,NA,Tom Telesco
+2018,CIN,7,252,Rod Taylor,O,OL,G,1994-10-26,23.85,6.22,NA,NA,Duke Tobin
+2018,CIN,7,253,Auden Tate,O,WR,WR,1997-02-03,21.57,1.84,NA,NA,Duke Tobin
+2018,ARI,7,254,Korey Cunningham,O,OL,T,1995-05-17,23.29,9.87,NA,NA,Steve Keim
+2018,BUF,7,255,Austin Proehl,O,WR,WR,1996-06-17,22.21,3.63,NA,NA,Brandon Beane
+2018,WAS,7,256,Trey Quinn,O,WR,WR,1995-12-07,22.74,7.02,NA,NA,Bruce Allen
+2019,ARI,1,1,Kyler Murray,O,QB,QB,1997-08-07,22.07,NA,NA,NA,Steve Keim
+2019,SF,1,2,Nick Bosa,D,DL,DE,1997-10-23,21.86,9.44,NA,NA,John Lynch
+2019,NYJ,1,3,Quinnen Williams,D,DL,DT,1997-12-05,21.74,9.84,NA,NA,Mike Maccagnan
+2019,OAK,1,4,Clelin Ferrell,D,DL,DE,1997-05-17,22.29,NA,NA,NA,Mike Mayock
+2019,TB,1,5,Devin White,D,LB,LB,1998-02-17,21.54,9.32,NA,NA,Jason Licht
+2019,NYG,1,6,Daniel Jones,O,QB,QB,1997-05-27,22.26,8.11,NA,NA,Dave Gettleman
+2019,JAX,1,7,Josh Allen,D,LB,LB,1997-07-13,22.14,9.74,NA,NA,David Caldwell
+2019,DET,1,8,T.J. Hockenson,O,TE,TE,1997-07-03,22.16,9.19,NA,NA,Bob Quinn
+2019,BUF,1,9,Ed Oliver,D,DL,DT,1997-12-12,21.72,9.87,NA,NA,Brandon Beane
+2019,PIT,1,10,Devin Bush,D,LB,LB,1998-08-18,21.04,9.33,NA,NA,Kevin Colbert
+2019,CIN,1,11,Jonah Williams,O,OL,G,1997-11-17,21.79,5.49,NA,NA,Duke Tobin
+2019,GB,1,12,Rashan Gary,D,LB,LB,1997-12-03,21.74,9.95,NA,NA,Brian Gutekunst
+2019,MIA,1,13,Christian Wilkins,D,DL,DT,1995-12-20,23.7,8.56,NA,NA,Chris Grier
+2019,ATL,1,14,Chris Lindstrom,O,OL,G,1997-02-28,22.51,9.85,NA,NA,Thomas Dimitroff
+2019,WAS,1,15,Dwayne Haskins,O,QB,QB,1997-05-03,22.33,3.47,NA,NA,Bruce Allen
+2019,CAR,1,16,Brian Burns,D,DL,DE,1998-04-23,21.36,9.9,NA,NA,Marty Hurney
+2019,NYG,1,17,Dexter Lawrence,D,DL,DT,1997-11-12,21.8,9.86,NA,NA,Dave Gettleman
+2019,MIN,1,18,Garrett Bradbury,O,OL,C,1995-06-20,24.2,9.96,NA,NA,Rick Spielman
+2019,TEN,1,19,Jeffery Simmons,D,DL,DT,1997-07-28,22.09,NA,NA,NA,Jon Robinson
+2019,DEN,1,20,Noah Fant,O,TE,TE,1997-11-20,21.78,9.89,NA,NA,John Elway
+2019,GB,1,21,Darnell Savage,D,DB,S,1997-07-30,22.09,8.36,NA,NA,Brian Gutekunst
+2019,PHI,1,22,Andre Dillard,O,OL,T,1995-10-03,23.91,9.8,NA,NA,Howie Roseman
+2019,HOU,1,23,Tytus Howard,O,OL,T,1996-05-23,23.27,6.32,NA,NA,Bill O'Brien
+2019,OAK,1,24,Josh Jacobs,O,RB,RB,1998-02-11,21.55,5.7,NA,NA,Mike Mayock
+2019,BAL,1,25,Marquise Brown,O,WR,WR,1997-06-04,22.24,NA,NA,NA,Eric DeCosta
+2019,WAS,1,26,Montez Sweat,D,DL,DE,1996-09-04,22.99,9.9,NA,NA,Bruce Allen
+2019,OAK,1,27,Johnathan Abram,D,DB,S,1996-10-25,22.85,7.01,NA,NA,Mike Mayock
+2019,LAC,1,28,Jerry Tillery,D,DL,DT,1996-10-08,22.9,9.72,NA,NA,Tom Telesco
+2019,SEA,1,29,L.J. Collier,D,DL,DE,1995-09-12,23.97,3.25,NA,NA,John Schneider
+2019,NYG,1,30,Deandre Baker,D,DB,CB,1994-09-04,24.99,4.58,NA,NA,Dave Gettleman
+2019,ATL,1,31,Kaleb McGary,O,OL,T,1995-02-22,24.52,9.83,NA,NA,Thomas Dimitroff
+2019,NE,1,32,N'Keal Harry,O,WR,WR,1997-12-17,21.71,8.45,NA,NA,Bill Belichick
+2019,ARI,2,33,Byron Murphy,D,DB,CB,1998-01-18,21.62,6.43,NA,NA,Steve Keim
+2019,IND,2,34,Rock Ya-Sin,D,DB,CB,1996-05-23,23.27,6.17,NA,NA,Chris Ballard
+2019,JAX,2,35,Jawaan Taylor,O,OL,T,1997-11-25,21.77,NA,NA,NA,David Caldwell
+2019,SF,2,36,Deebo Samuel,O,WR,WR,1996-01-15,23.63,7.92,NA,NA,John Lynch
+2019,CAR,2,37,Greg Little,O,OL,T,1997-11-04,21.82,3.61,NA,NA,Marty Hurney
+2019,BUF,2,38,Cody Ford,O,OL,T,1996-12-28,22.67,6.33,NA,NA,Brandon Beane
+2019,TB,2,39,Sean Bunting,D,DB,CB,1997-06-19,22.2,9.64,NA,NA,Jason Licht
+2019,OAK,2,40,Trayvon Mullen,D,DB,CB,1997-09-20,21.95,7.46,NA,NA,Mike Mayock
+2019,DEN,2,41,Dalton Risner,O,OL,T,1995-07-13,24.14,7.67,NA,NA,John Elway
+2019,DEN,2,42,Drew Lock,O,QB,QB,1996-11-10,22.81,9.36,NA,NA,John Elway
+2019,DET,2,43,Jahlani Tavai,D,LB,LB,1996-09-28,22.92,4.13,NA,NA,Bob Quinn
+2019,GB,2,44,Elgton Jenkins,O,OL,C,1995-12-26,23.68,9.34,NA,NA,Brian Gutekunst
+2019,NE,2,45,JoeJuan Williams,D,DB,CB,1997-12-06,21.74,8.08,NA,NA,Bill Belichick
+2019,CLE,2,46,Greedy Williams,D,DB,CB,1997-12-03,21.74,8.5,NA,NA,John Dorsey
+2019,SEA,2,47,Marquise Blair,D,DB,S,1997-07-18,22.12,8.32,NA,NA,John Schneider
+2019,NO,2,48,Erik McCoy,O,OL,C,1997-08-27,22.01,8.97,NA,NA,Mickey Loomis
+2019,IND,2,49,Ben Banogu,D,LB,LB,1996-01-19,23.62,9.7,NA,NA,Chris Ballard
+2019,MIN,2,50,Irv Smith Jr.,O,TE,TE,1998-08-09,21.06,4.8,NA,NA,Rick Spielman
+2019,TEN,2,51,A.J. Brown,O,WR,WR,1997-06-30,22.17,8.6,NA,NA,Jon Robinson
+2019,CIN,2,52,Drew Sample,O,TE,TE,1996-04-16,23.38,9.01,NA,NA,Duke Tobin
+2019,PHI,2,53,Miles Sanders,O,RB,RB,1997-05-01,22.34,9.49,NA,NA,Howie Roseman
+2019,HOU,2,54,Lonnie Johnson Jr.,D,DB,CB,1995-11-04,23.82,9.4,NA,NA,Bill O'Brien
+2019,HOU,2,55,Max Scharping,O,OL,T,1996-08-10,23.06,8.84,NA,NA,Bill O'Brien
+2019,KC,2,56,Mecole Hardman,O,WR,WR,1998-03-12,21.47,8.3,NA,NA,Brett Veach
+2019,PHI,2,57,JJ Arcega-Whiteside,O,WR,WR,1996-12-31,22.67,6.16,NA,NA,Howie Roseman
+2019,DAL,2,58,Trysten Hill,D,DL,DT,1998-03-25,21.44,9.53,NA,NA,Jerry Jones
+2019,IND,2,59,Parris Campbell,O,WR,WR,1997-07-16,22.13,9.76,NA,NA,Chris Ballard
+2019,LAC,2,60,Nasir Adderley,D,DB,S,1997-05-31,22.25,7.13,NA,NA,Tom Telesco
+2019,LA,2,61,Taylor Rapp,D,DB,S,1997-12-22,21.69,5.66,NA,NA,Les Snead
+2019,ARI,2,62,Andy Isabella,O,WR,WR,1996-11-18,22.78,7.27,NA,NA,Steve Keim
+2019,KC,2,63,Juan Thornhill,D,DB,S,1995-10-19,23.87,9.75,NA,NA,Brett Veach
+2019,SEA,2,64,D.K. Metcalf,O,WR,WR,1997-12-14,21.71,9.66,NA,NA,John Schneider
+2019,ARI,3,65,Zach Allen,D,DL,DE,1997-08-20,22.03,5.16,NA,NA,Steve Keim
+2019,PIT,3,66,Diontae Johnson,O,WR,WR,1996-07-05,23.16,4.21,NA,NA,Kevin Colbert
+2019,SF,3,67,Jalen Hurd,O,WR,WR,1996-01-23,23.61,8.22,NA,NA,John Lynch
+2019,NYJ,3,68,Jachai Polite,D,LB,LB,1997-03-30,22.42,1.78,NA,NA,Mike Maccagnan
+2019,JAX,3,69,Josh Oliver,O,TE,TE,1997-03-21,22.45,8.19,NA,NA,David Caldwell
+2019,LA,3,70,Darrell Henderson,O,RB,RB,1997-08-19,22.03,7.71,NA,NA,Les Snead
+2019,DEN,3,71,Dre'Mont Jones,D,DL,DT,1997-01-05,22.65,6.15,NA,NA,John Elway
+2019,CIN,3,72,Germaine Pratt,D,LB,LB,1996-05-21,23.28,8.5,NA,NA,Duke Tobin
+2019,CHI,3,73,David Montgomery,O,RB,RB,1997-06-07,22.23,5.21,NA,NA,Ryan Pace
+2019,BUF,3,74,Devin Singletary,O,RB,RB,1997-09-03,21.99,1.73,NA,NA,Brandon Beane
+2019,GB,3,75,Jace Sternberger,O,TE,TE,1996-06-26,23.18,5.2,NA,NA,Brian Gutekunst
+2019,WAS,3,76,Terry McLaurin,O,WR,WR,1995-09-15,23.96,9.57,NA,NA,Bruce Allen
+2019,NE,3,77,Chase Winovich,D,DL,DE,1995-04-19,24.37,8.62,NA,NA,Bill Belichick
+2019,MIA,3,78,Michael Deiter,O,OL,G,1996-09-03,22.99,5.64,NA,NA,Chris Grier
+2019,LA,3,79,David Long,D,DB,CB,1998-02-06,21.57,9.2,NA,NA,Les Snead
+2019,CLE,3,80,Sione Takitaki,D,LB,LB,1995-06-08,24.23,9.08,NA,NA,John Dorsey
+2019,DET,3,81,Will Harris,D,DB,S,1995-12-19,23.7,9.66,NA,NA,Bob Quinn
+2019,TEN,3,82,Nate Davis,O,OL,G,1996-09-23,22.94,6.17,NA,NA,Jon Robinson
+2019,PIT,3,83,Justin Layne,D,DB,CB,1998-01-12,21.63,8.97,NA,NA,Kevin Colbert
+2019,KC,3,84,Khalen Saunders,D,DL,DT,1996-08-09,23.06,7.57,NA,NA,Brett Veach
+2019,BAL,3,85,Jaylon Ferguson,D,DL,DE,1995-12-14,23.72,5.46,NA,NA,Eric DeCosta
+2019,HOU,3,86,Kahale Warring,O,TE,TE,1997-03-23,22.44,9.4,NA,NA,Bill O'Brien
+2019,NE,3,87,Damien Harris,O,RB,RB,1997-02-11,22.55,6.4,NA,NA,Bill Belichick
+2019,SEA,3,88,Cody Barton,D,LB,LB,1996-11-13,22.8,9.29,NA,NA,John Schneider
+2019,IND,3,89,Bobby Okereke,D,LB,LB,1996-07-29,23.09,8.4,NA,NA,Chris Ballard
+2019,DAL,3,90,Connor McGovern,O,OL,G,1997-11-03,21.83,9.77,NA,NA,Jerry Jones
+2019,LAC,3,91,Trey Pipkins,O,OL,T,1996-09-05,22.99,8.86,NA,NA,Tom Telesco
+2019,NYJ,3,92,Chuma Edoga,O,OL,T,1997-05-25,22.27,7.79,NA,NA,Mike Maccagnan
+2019,BAL,3,93,Miles Boykin,O,WR,WR,1996-10-12,22.89,9.94,NA,NA,Eric DeCosta
+2019,TB,3,94,Jamel Dean,D,DB,CB,1996-10-15,22.88,9.93,NA,NA,Jason Licht
+2019,NYG,3,95,Oshane Ximines,D,DL,DE,1996-12-07,22.73,7.02,NA,NA,Dave Gettleman
+2019,BUF,3,96,Dawson Knox,O,TE,TE,1996-11-14,22.8,9.25,NA,NA,Brandon Beane
+2019,LA,3,97,Bobby Evans,O,OL,T,1997-03-24,22.44,7.35,NA,NA,Les Snead
+2019,JAX,3,98,Quincy Williams,D,DB,S,1996-08-28,23.01,6.27,NA,NA,David Caldwell
+2019,TB,3,99,Mike Edwards,D,DB,S,1996-05-18,23.29,7.5,NA,NA,Jason Licht
+2019,CAR,3,100,Will Grier,O,QB,QB,1995-04-03,24.41,7.21,NA,NA,Marty Hurney
+2019,NE,3,101,Yodny Cajuste,O,OL,T,1996-02-21,23.53,NA,NA,NA,Bill Belichick
+2019,MIN,3,102,Alexander Mattison,O,RB,RB,1998-06-19,21.2,6.85,NA,NA,Rick Spielman
+2019,ARI,4,103,Hakeem Butler,O,WR,WR,1996-05-16,23.29,9.47,NA,NA,Steve Keim
+2019,CIN,4,104,Ryan Finley,O,QB,QB,1994-12-26,24.68,7.84,NA,NA,Duke Tobin
+2019,NYJ,4,105,Chauncey Gardner-Johnson,D,DB,S,1997-12-20,21.7,7.88,NA,NA,Mike Maccagnan
+2019,OAK,4,106,Maxx Crosby,D,DL,DE,1997-08-22,22.03,9.65,NA,NA,Mike Mayock
+2019,TB,4,107,Anthony Nelson,D,DL,DE,1997-03-04,22.49,9.49,NA,NA,Jason Licht
+2019,NYG,4,108,Julian Love,D,DB,CB,1998-03-19,21.45,7.06,NA,NA,Dave Gettleman
+2019,IND,4,109,Khari Willis,D,DB,S,1996-05-07,23.32,6.42,NA,NA,Chris Ballard
+2019,SF,4,110,Mitch Wishnowsky,S,P,P,1992-03-03,27.5,9.8,NA,NA,John Lynch
+2019,ATL,4,111,Kendall Sheffield,D,DB,CB,1996-05-30,23.26,9.73,NA,NA,Thomas Dimitroff
+2019,WAS,4,112,Bryce Love,O,RB,RB,1997-07-08,22.15,NA,NA,NA,Bruce Allen
+2019,BAL,4,113,Justice Hill,O,RB,RB,1997-11-14,21.8,9.34,NA,NA,Eric DeCosta
+2019,MIN,4,114,Dru Samia,O,OL,G,1997-08-22,22.03,7.67,NA,NA,Rick Spielman
+2019,CAR,4,115,Christian Miller,D,LB,LB,1996-06-16,23.21,6.85,NA,NA,Marty Hurney
+2019,TEN,4,116,Amani Hooker,D,DB,S,1998-06-14,21.22,9.11,NA,NA,Jon Robinson
+2019,DET,4,117,Austin Bryant,D,DL,DE,1996-11-12,22.8,NA,NA,NA,Bob Quinn
+2019,NE,4,118,Hjalte Froholdt,O,OL,G,1996-08-20,23.03,9.07,NA,NA,Bill Belichick
+2019,CLE,4,119,Sheldrick Redwine,D,DB,S,1996-11-06,22.82,8.61,NA,NA,John Dorsey
+2019,SEA,4,120,Gary Jennings Jr.,O,WR,WR,1997-03-07,22.49,9.04,NA,NA,John Schneider
+2019,TEN,4,121,Trevon Wesco,O,TE,TE,1995-09-12,23.97,5.91,NA,NA,Jon Robinson
+2019,PIT,4,122,Benny Snell Jr.,O,RB,RB,1998-02-26,21.51,3.48,NA,NA,Kevin Colbert
+2019,BAL,4,123,Ben Powers,O,OL,G,1996-10-29,22.84,4.72,NA,NA,Eric DeCosta
+2019,SEA,4,124,Phil Haynes,O,OL,G,1995-10-19,23.87,9.26,NA,NA,John Schneider
+2019,CIN,4,125,Renell Wren,D,DL,DT,1995-10-23,23.86,9.74,NA,NA,Duke Tobin
+2019,CHI,4,126,Riley Ridley,O,WR,WR,1996-07-21,23.11,4.57,NA,NA,Ryan Pace
+2019,BAL,4,127,Iman Marshall,D,DB,CB,1997-02-27,22.51,5.25,NA,NA,Eric DeCosta
+2019,DAL,4,128,Tony Pollard,O,RB,RB,1997-04-30,22.34,7.21,NA,NA,Jerry Jones
+2019,OAK,4,129,Isaiah Johnson,D,DB,CB,1995-12-20,23.7,9.74,NA,NA,Mike Mayock
+2019,LAC,4,130,Drue Tranquill,D,LB,LB,1995-08-15,24.05,9.87,NA,NA,Tom Telesco
+2019,WAS,4,131,Wes Martin,O,OL,G,1996-05-09,23.31,7.83,NA,NA,Bruce Allen
+2019,SEA,4,132,Ugochukwu Amadi,D,DB,S,1997-05-16,22.29,4.65,NA,NA,John Schneider
+2019,NE,4,133,Jarrett Stidham,O,QB,QB,1996-08-08,23.06,5.48,NA,NA,Bill Belichick
+2019,LA,4,134,Greg Gaines,D,DL,DT,1996-05-06,23.32,6.28,NA,NA,Les Snead
+2019,ATL,4,135,John Cominsky,D,DL,DE,1995-11-22,23.78,9.42,NA,NA,Thomas Dimitroff
+2019,CIN,4,136,Michael Jordan,O,OL,G,1998-01-25,21.6,7.97,NA,NA,Duke Tobin
+2019,OAK,4,137,Foster Moreau,O,TE,TE,1997-05-06,22.32,9.47,NA,NA,Mike Mayock
+2019,PHI,4,138,Shareef Miller,D,DL,DE,1997-03-14,22.47,6.18,NA,NA,Howie Roseman
+2019,ARI,5,139,Deionte Thompson,D,DB,S,1997-02-11,22.55,NA,NA,NA,Steve Keim
+2019,JAX,5,140,Ryquell Armstead,O,RB,RB,1996-10-30,22.84,7.74,NA,NA,David Caldwell
+2019,PIT,5,141,Zach Gentry,O,TE,TE,1996-09-10,22.97,2.51,NA,NA,Kevin Colbert
+2019,SEA,5,142,Ben Burr-Kirven,D,LB,LB,1997-09-08,21.98,8.96,NA,NA,John Schneider
+2019,NYG,5,143,Ryan Connelly,D,LB,LB,1995-10-23,23.86,7.81,NA,NA,Dave Gettleman
+2019,IND,5,144,Marvell Tell III,D,DB,S,1996-08-02,23.08,9.28,NA,NA,Chris Ballard
+2019,TB,5,145,Matt Gay,S,K,K,1994-03-15,25.46,NA,NA,NA,Jason Licht
+2019,DET,5,146,Amani Oruwariye,D,DB,CB,1996-02-09,23.56,8.52,NA,NA,Bob Quinn
+2019,BUF,5,147,Vosean Joseph,D,LB,LB,1997-12-15,21.71,0.22,NA,NA,Brandon Beane
+2019,SF,5,148,Dre Greenlaw,D,LB,LB,1997-05-27,22.26,4.98,NA,NA,John Lynch
+2019,OAK,5,149,Hunter Renfrow,O,WR,WR,1995-12-21,23.7,2.94,NA,NA,Mike Mayock
+2019,GB,5,150,Kingsley Keke,D,DL,DT,1996-09-26,22.93,8,NA,NA,Brian Gutekunst
+2019,MIA,5,151,Andrew Van Ginkel,D,LB,LB,1995-07-01,24.17,9.26,NA,NA,Chris Grier
+2019,ATL,5,152,Qadree Ollison,O,RB,RB,1996-09-08,22.98,4.49,NA,NA,Thomas Dimitroff
+2019,WAS,5,153,Ross Pierschbacher,O,OL,G,1995-06-05,24.24,4.94,NA,NA,Bruce Allen
+2019,CAR,5,154,Jordan Scarlett,O,RB,RB,1996-02-09,23.56,4.74,NA,NA,Marty Hurney
+2019,CLE,5,155,Mack Wilson,D,LB,LB,1998-02-14,21.54,5.24,NA,NA,John Dorsey
+2019,DEN,5,156,Justin Hollins,D,LB,LB,1996-01-15,23.63,9.69,NA,NA,John Elway
+2019,NYJ,5,157,Blake Cashman,D,LB,LB,1996-05-10,23.31,9.52,NA,NA,Mike Maccagnan
+2019,DAL,5,158,Michael Jackson,D,DB,CB,1997-01-10,22.64,8.81,NA,NA,Jerry Jones
+2019,NE,5,159,Byron Cowart,D,DL,DT,1996-05-20,23.28,6.43,NA,NA,Bill Belichick
+2019,BAL,5,160,Daylon Mack,D,DL,DT,1997-02-23,22.52,4.16,NA,NA,Eric DeCosta
+2019,HOU,5,161,Charles Omenihu,D,DL,DE,1997-08-20,22.03,6.22,NA,NA,Bill O'Brien
+2019,MIN,5,162,Cameron Smith,D,LB,LB,1997-03-26,22.43,8.34,NA,NA,Rick Spielman
+2019,NE,5,163,Jake Bailey,S,P,P,1997-06-18,22.2,NA,NA,NA,Bill Belichick
+2019,IND,5,164,E.J. Speed,D,LB,LB,1995-06-01,24.25,9.19,NA,NA,Chris Ballard
+2019,DAL,5,165,Joe Jackson,D,DL,DE,1996-12-20,22.7,2.52,NA,NA,Jerry Jones
+2019,LAC,5,166,Easton Stick,O,QB,QB,1995-09-15,23.96,9.47,NA,NA,Tom Telesco
+2019,PHI,5,167,Clayton Thorson,O,QB,QB,1995-06-15,24.21,NA,NA,NA,Howie Roseman
+2019,TEN,5,168,D'Andre Walker,D,LB,LB,1997-01-23,22.6,NA,NA,NA,Jon Robinson
+2019,LA,5,169,David Edwards,O,OL,T,1997-03-20,22.45,4.75,NA,NA,Les Snead
+2019,CLE,5,170,Austin Seibert,S,K,K,1996-11-15,22.79,NA,NA,NA,John Dorsey
+2019,NYG,5,171,Darius Slayton,O,WR,WR,1997-01-12,22.63,8.92,NA,NA,Dave Gettleman
+2019,ATL,5,172,Jordan Miller,D,DB,CB,1997-02-08,22.56,5.2,NA,NA,Thomas Dimitroff
+2019,WAS,5,173,Cole Holcomb,D,LB,LB,1996-07-30,23.09,9.64,NA,NA,Bruce Allen
+2019,ARI,6,174,KeeSean Johnson,O,WR,WR,1996-10-09,22.89,3.21,NA,NA,Steve Keim
+2019,PIT,6,175,Sutton Smith,D,DL,DE,1996-03-22,23.44,5.59,NA,NA,Kevin Colbert
+2019,SF,6,176,Kaden Smith,O,TE,TE,1997-04-24,22.35,3.84,NA,NA,John Lynch
+2019,NO,6,177,Saquan Hampton,D,DB,S,1995-12-12,23.72,9.11,NA,NA,Mickey Loomis
+2019,JAX,6,178,Gardner Minshew,O,QB,QB,1996-05-16,23.29,5.95,NA,NA,David Caldwell
+2019,ARI,6,179,Lamont Gaillard,O,OL,C,1996-02-08,23.56,4.85,NA,NA,Steve Keim
+2019,NYG,6,180,Corey Ballentine,D,DB,CB,1996-04-13,23.38,9.35,NA,NA,Dave Gettleman
+2019,BUF,6,181,Jaquan Johnson,D,DB,CB,1995-11-06,23.82,3.46,NA,NA,Brandon Beane
+2019,CIN,6,182,Trayveon Williams,O,RB,RB,1997-10-18,21.87,4.66,NA,NA,Duke Tobin
+2019,SF,6,183,Justin Skule,O,OL,T,1996-11-23,22.77,7.16,NA,NA,John Lynch
+2019,DET,6,184,Travis Fulgham,O,WR,WR,1995-09-13,23.97,8.01,NA,NA,Bob Quinn
+2019,GB,6,185,Ka'dar Hollman,D,DB,CB,1994-09-18,24.95,9.22,NA,NA,Brian Gutekunst
+2019,DET,6,186,Ty Johnson,O,RB,RB,1997-09-17,21.95,9.75,NA,NA,Bob Quinn
+2019,DEN,6,187,Juwann Winfree,O,WR,WR,1996-09-04,22.99,7.16,NA,NA,John Elway
+2019,TEN,6,188,David Long Jr.,D,LB,LB,1996-10-12,22.89,3.3,NA,NA,Jon Robinson
+2019,CLE,6,189,Drew Forbes,O,OL,T,1997-01-18,22.62,9.8,NA,NA,John Dorsey
+2019,MIN,6,190,Armon Watts,D,DL,DT,1996-07-22,23.11,3.73,NA,NA,Rick Spielman
+2019,MIN,6,191,Marcus Epps,D,DB,S,1996-01-27,23.59,8.52,NA,NA,Rick Spielman
+2019,PIT,6,192,Isaiah Buggs,D,DL,DT,1996-08-24,23.02,1.91,NA,NA,Kevin Colbert
+2019,MIN,6,193,Oli Udoh,O,OL,T,1997-02-14,22.54,8.14,NA,NA,Rick Spielman
+2019,GB,6,194,Dexter Williams,O,RB,RB,1997-01-06,22.65,8.15,NA,NA,Brian Gutekunst
+2019,HOU,6,195,Xavier Crawford,D,DB,CB,1995-12-10,23.73,4.7,NA,NA,Bill O'Brien
+2019,NYJ,6,196,Blessuan Austin,D,DB,CB,1996-07-19,23.12,6.57,NA,NA,Mike Maccagnan
+2019,BAL,6,197,Trace McSorley,O,QB,QB,1995-08-23,24.02,8.29,NA,NA,Eric DeCosta
+2019,SF,6,198,Tim Harris,D,DB,CB,1995-07-31,24.09,8.91,NA,NA,John Lynch
+2019,IND,6,199,Gerri Green,D,DL,DE,1995-09-14,23.96,8.08,NA,NA,Chris Ballard
+2019,LAC,6,200,Emeke Egbule,D,LB,LB,1996-10-13,22.88,7.28,NA,NA,Tom Telesco
+2019,KC,6,201,Rashad Fenton,D,DB,CB,1997-02-17,22.54,4.48,NA,NA,Brett Veach
+2019,MIA,6,202,Isaiah Prince,O,OL,T,1997-07-29,22.09,7.64,NA,NA,Chris Grier
+2019,ATL,6,203,Marcus Green,O,WR,WR,1996-08-13,23.05,7.24,NA,NA,Thomas Dimitroff
+2019,SEA,6,204,Travis Homer,O,RB,RB,1998-08-07,21.07,8.35,NA,NA,John Schneider
+2019,CHI,6,205,Duke Shelley,D,DB,CB,1996-10-08,22.9,3.17,NA,NA,Ryan Pace
+2019,WAS,6,206,Kelvin Harmon,O,WR,WR,1996-12-15,22.71,4.91,NA,NA,Bruce Allen
+2019,PIT,6,207,Ulysees Gilbert III,D,LB,LB,1997-08-09,22.06,8.25,NA,NA,Kevin Colbert
+2019,TB,6,208,Scott Miller,O,WR,WR,1997-07-31,22.09,7.74,NA,NA,Jason Licht
+2019,SEA,6,209,Demarcus Christmas,D,DL,DT,1995-07-04,24.16,3.32,NA,NA,John Schneider
+2019,CIN,6,210,Deshaun Davis,D,LB,LB,1995-12-31,23.67,2.65,NA,NA,Duke Tobin
+2019,CIN,6,211,Rodney Anderson,O,RB,RB,1996-09-12,22.97,NA,NA,NA,Duke Tobin
+2019,CAR,6,212,Dennis Daley,O,OL,T,1996-08-07,23.07,3.92,NA,NA,Marty Hurney
+2019,DAL,6,213,Donovan Wilson,D,DB,S,1995-02-21,24.53,6.96,NA,NA,Jerry Jones
+2019,KC,6,214,Darwin Thompson,O,RB,RB,1997-02-12,22.55,8.02,NA,NA,Brett Veach
+2019,TB,7,215,Terry Beckner,D,DL,DT,1997-03-02,22.5,2.17,NA,NA,Jason Licht
+2019,KC,7,216,Nick Allegretti,O,OL,G,1996-04-21,23.36,7.56,NA,NA,Brett Veach
+2019,MIN,7,217,Kris Boyd,D,DB,CB,1996-09-12,22.97,9.14,NA,NA,Rick Spielman
+2019,DAL,7,218,Mike Weber,O,RB,RB,1997-08-25,22.02,7.05,NA,NA,Jerry Jones
+2019,PIT,7,219,Derwin Gray,O,OL,T,1995-05-10,24.31,3.07,NA,NA,Kevin Colbert
+2019,HOU,7,220,Cullen Gillaspia,O,RB,RB,1995-05-12,24.31,8.43,NA,NA,Bill O'Brien
+2019,CLE,7,221,Donnie Lewis Jr.,D,DB,CB,1996-07-21,23.11,NA,NA,NA,John Dorsey
+2019,CHI,7,222,Kerrith Whyte Jr.,O,RB,RB,1996-10-31,22.83,8.6,NA,NA,Ryan Pace
+2019,CIN,7,223,Jordan Brown,D,DB,CB,1996-03-26,23.43,8.12,NA,NA,Duke Tobin
+2019,DET,7,224,Isaac Nauta,O,TE,TE,1997-05-21,22.28,1.56,NA,NA,Bob Quinn
+2019,BUF,7,225,Darryl Johnson Jr.,D,DL,DE,1997-04-04,22.41,6.74,NA,NA,Brandon Beane
+2019,GB,7,226,Ty Summers,D,LB,LB,1995-12-31,23.67,9.71,NA,NA,Brian Gutekunst
+2019,WAS,7,227,Jimmy Moreland,D,DB,CB,1995-08-26,24.02,6.18,NA,NA,Bruce Allen
+2019,BUF,7,228,Tommy Sweeney,O,TE,TE,1995-07-01,24.17,5.93,NA,NA,Brandon Beane
+2019,DET,7,229,P.J. Johnson,D,DL,DE,1996-06-14,23.21,0.87,NA,NA,Bob Quinn
+2019,OAK,7,230,Quinton Bell,D,DL,DE,1996-05-09,23.31,9.89,NA,NA,Mike Mayock
+2019,NO,7,231,Alize Mack,O,TE,TE,1997-03-29,22.43,8.54,NA,NA,Mickey Loomis
+2019,NYG,7,232,George Asafo-Adjei,O,OL,T,1997-01-12,22.63,9.06,NA,NA,Dave Gettleman
+2019,MIA,7,233,Chandler Cox,O,RB,RB,1996-07-29,23.09,3.83,NA,NA,Chris Grier
+2019,MIA,7,234,Myles Gaskin,O,RB,RB,1997-02-15,22.54,5.97,NA,NA,Chris Grier
+2019,JAX,7,235,Dontavius Russell,D,DL,DT,1995-09-18,23.95,3.35,NA,NA,David Caldwell
+2019,SEA,7,236,John Ursua,O,WR,WR,1994-01-17,25.62,6.45,NA,NA,John Schneider
+2019,CAR,7,237,Terry Godwin,O,WR,WR,1996-10-23,22.86,5.28,NA,NA,Marty Hurney
+2019,CHI,7,238,Stephen Denmark,D,DB,CB,1996-04-20,23.36,9.36,NA,NA,Ryan Pace
+2019,MIN,7,239,Dillon Mitchell,O,WR,WR,1997-05-16,22.29,7.96,NA,NA,Rick Spielman
+2019,IND,7,240,Jackson Barton,O,OL,T,1995-08-08,24.07,8.3,NA,NA,Chris Ballard
+2019,DAL,7,241,Jalen Jelks,D,DL,DE,1996-08-03,23.08,4.86,NA,NA,Jerry Jones
+2019,LAC,7,242,Cortez Broughton,D,DL,DT,1996-09-02,23,8.14,NA,NA,Tom Telesco
+2019,LA,7,243,Nick Scott,D,DB,S,1995-05-17,24.29,9.22,NA,NA,Les Snead
+2019,NO,7,244,Kaden Elliss,D,LB,LB,1995-07-10,24.15,8.54,NA,NA,Mickey Loomis
+2019,NYG,7,245,Chris Slayton,D,DL,DT,1996-08-06,23.07,7.58,NA,NA,Dave Gettleman
+2019,IND,7,246,Javon Patterson,O,OL,C,1997-07-08,22.15,7.22,NA,NA,Chris Ballard
+2019,MIN,7,247,Olabisi Johnson,O,WR,WR,1997-03-17,22.46,8.17,NA,NA,Rick Spielman
+2019,ARI,7,248,Joshua Miles,O,OL,T,1996-01-04,23.66,5.41,NA,NA,Steve Keim
+2019,ARI,7,249,Michael Dogbe,D,DL,DE,1996-05-05,23.32,9.01,NA,NA,Steve Keim
+2019,MIN,7,250,Austin Cutting,S,LS,LS,1996-10-27,22.84,6.06,NA,NA,Rick Spielman
+2019,LA,7,251,Dakota Allen,D,LB,LB,1995-11-02,23.83,6.03,NA,NA,Les Snead
+2019,NE,7,252,Ken Webster,D,DB,CB,1996-06-19,23.2,9.83,NA,NA,Bill Belichick
+2019,WAS,7,253,Jordan Brailford,D,DL,DE,1995-10-09,23.9,8.49,NA,NA,Bruce Allen
+2019,ARI,7,254,Caleb Wilson,O,TE,TE,1996-07-15,23.13,5.71,NA,NA,Steve Keim
+2020,CIN,1,1,Joe Burrow,O,QB,QB,1996-12-10,23.73,NA,NA,NA,Duke Tobin
+2020,WAS,1,2,Chase Young,D,DL,DE,1999-04-14,21.39,NA,NA,NA,Ron Rivera
+2020,DET,1,3,Jeff Okudah,D,DB,CB,1999-02-02,21.58,8.97,NA,NA,Bob Quinn
+2020,NYG,1,4,Andrew Thomas,O,OL,T,1999-01-22,21.61,8.11,NA,NA,Dave Gettleman
+2020,MIA,1,5,Tua Tagovailoa,O,QB,QB,1998-03-02,22.5,NA,NA,NA,Chris Grier
+2020,LAC,1,6,Justin Herbert,O,QB,QB,1998-03-10,22.48,9.7,NA,NA,Tom Telesco
+2020,CAR,1,7,Derrick Brown,D,DL,DT,1998-04-15,22.38,5.9,NA,NA,Marty Hurney
+2020,ARI,1,8,Isaiah Simmons,D,LB,LB,1998-07-26,22.1,9.97,NA,NA,Steve Keim
+2020,JAX,1,9,C.J. Henderson,D,DB,CB,1998-09-30,21.92,9.97,NA,NA,David Caldwell
+2020,CLE,1,10,Jedrick Wills Jr.,O,OL,T,1999-05-17,21.3,8.44,NA,NA,Andrew Berry
+2020,NYJ,1,11,Mekhi Becton,O,OL,T,1999-04-18,21.37,9.85,NA,NA,Joe Douglas
+2020,LV,1,12,Henry Ruggs III,O,WR,WR,1999-01-24,21.6,9.55,NA,NA,Mike Mayock
+2020,TB,1,13,Tristan Wirfs,O,OL,T,1999-01-24,21.6,9.74,NA,NA,Jason Licht
+2020,SF,1,14,Javon Kinlaw,D,DL,DT,1997-10-03,22.91,NA,NA,NA,John Lynch
+2020,DEN,1,15,Jerry Jeudy,O,WR,WR,1999-04-24,21.36,6.77,NA,NA,John Elway
+2020,ATL,1,16,AJ Terrell,D,DB,CB,1998-09-23,21.94,8.74,NA,NA,Thomas Dimitroff
+2020,DAL,1,17,CeeDee Lamb,O,WR,WR,1999-04-08,21.4,7.45,NA,NA,Jerry Jones
+2020,MIA,1,18,Austin Jackson,O,OL,T,1999-08-11,21.06,9.5,NA,NA,Chris Grier
+2020,LV,1,19,Damon Arnette,D,DB,CB,1996-09-02,24,NA,NA,NA,Mike Mayock
+2020,JAX,1,20,K'Lavon Chaisson,D,DL,DE,1999-07-25,21.11,NA,NA,NA,David Caldwell
+2020,PHI,1,21,Jalen Reagor,O,WR,WR,1999-01-02,21.66,6.05,NA,NA,Howie Roseman
+2020,MIN,1,22,Justin Jefferson,O,WR,WR,1999-06-16,21.21,9.69,NA,NA,Rick Spielman
+2020,LAC,1,23,Kenneth Murray,D,LB,LB,1998-11-16,21.79,9.88,NA,NA,Tom Telesco
+2020,NO,1,24,Cesar Ruiz,O,OL,C,1999-06-14,21.22,9.07,NA,NA,Mickey Loomis
+2020,SF,1,25,Brandon Aiyuk,O,WR,WR,1998-03-17,22.46,8.46,NA,NA,John Lynch
+2020,GB,1,26,Jordan Love,O,QB,QB,1998-11-02,21.83,8.44,NA,NA,Brian Gutekunst
+2020,SEA,1,27,Jordyn Brooks,D,LB,LB,1997-10-21,22.86,NA,NA,NA,John Schneider
+2020,BAL,1,28,Patrick Queen,D,LB,LB,1999-08-13,21.05,7.99,NA,NA,Eric DeCosta
+2020,TEN,1,29,Isaiah Wilson,O,OL,T,1999-02-12,21.55,7.27,NA,NA,Jon Robinson
+2020,MIA,1,30,Noah Igbinoghene,D,DB,CB,1999-11-27,20.76,8.05,NA,NA,Chris Grier
+2020,MIN,1,31,Jeff Gladney,D,DB,CB,1996-12-12,23.72,6.15,NA,NA,Rick Spielman
+2020,KC,1,32,Clyde Edwards-Helaire,O,RB,RB,1999-04-11,21.39,5.45,NA,NA,Brett Veach
+2020,CIN,2,33,Tee Higgins,O,WR,WR,1999-01-18,21.62,4.16,NA,NA,Duke Tobin
+2020,IND,2,34,Michael Pittman Jr.,O,WR,WR,1997-10-05,22.91,8.29,NA,NA,Chris Ballard
+2020,DET,2,35,D'Andre Swift,O,RB,RB,1999-01-14,21.63,7.58,NA,NA,Bob Quinn
+2020,NYG,2,36,Xavier McKinney,D,DB,S,1999-08-09,21.07,5.87,NA,NA,Dave Gettleman
+2020,NE,2,37,Kyle Dugger,D,DB,S,1996-03-22,24.45,9.56,NA,NA,Bill Belichick
+2020,CAR,2,38,Yetur Gross-Matos,D,DL,DE,1998-02-26,22.51,NA,NA,NA,Marty Hurney
+2020,MIA,2,39,Robert Hunt,O,OL,G,1996-08-25,24.02,NA,NA,NA,Chris Grier
+2020,HOU,2,40,Ross Blacklock,D,DL,DT,1998-07-09,22.15,7.89,NA,NA,Bill O'Brien
+2020,IND,2,41,Jonathan Taylor,O,RB,RB,1999-01-19,21.62,9.53,NA,NA,Chris Ballard
+2020,JAX,2,42,Laviska Shenault Jr.,O,WR,WR,1998-10-05,21.91,6.97,NA,NA,David Caldwell
+2020,CHI,2,43,Cole Kmet,O,TE,TE,1999-03-10,21.48,8.93,NA,NA,Ryan Pace
+2020,CLE,2,44,Grant Delpit,D,DB,S,1998-09-20,21.95,NA,NA,NA,Andrew Berry
+2020,TB,2,45,Antoine Winfield Jr.,D,DB,S,1998-08-16,22.05,7.8,NA,NA,Jason Licht
+2020,DEN,2,46,KJ Hamler,O,WR,WR,1999-07-08,21.15,NA,NA,NA,John Elway
+2020,ATL,2,47,Marlon Davidson,D,DL,DE,1998-05-11,22.31,6.42,NA,NA,Thomas Dimitroff
+2020,SEA,2,48,Darrell Taylor,D,DL,DE,1997-03-24,23.44,NA,NA,NA,John Schneider
+2020,PIT,2,49,Chase Claypool,O,WR,WR,1998-07-07,22.15,9.98,NA,NA,Kevin Colbert
+2020,CHI,2,50,Jaylon Johnson,D,DB,CB,1999-04-19,21.37,7.79,NA,NA,Ryan Pace
+2020,DAL,2,51,Trevon Diggs,D,DB,CB,1998-09-20,21.95,NA,NA,NA,Jerry Jones
+2020,LA,2,52,Cam Akers,O,RB,RB,1999-06-22,21.2,8.81,NA,NA,Les Snead
+2020,PHI,2,53,Jalen Hurts,O,QB,QB,1998-08-07,22.07,9.53,NA,NA,Howie Roseman
+2020,BUF,2,54,A.J. Epenesa,D,DL,DE,1998-09-15,21.96,4.07,NA,NA,Brandon Beane
+2020,BAL,2,55,J.K. Dobbins,O,RB,RB,1998-12-17,21.71,NA,NA,NA,Eric DeCosta
+2020,MIA,2,56,Raekwon Davis,D,DL,DT,1997-06-10,23.23,6.06,NA,NA,Chris Grier
+2020,LA,2,57,Van Jefferson,O,WR,WR,1996-07-26,24.1,NA,NA,NA,Les Snead
+2020,MIN,2,58,Ezra Cleveland,O,OL,T,1998-05-08,22.32,9.93,NA,NA,Rick Spielman
+2020,NYJ,2,59,Denzel Mims,O,WR,WR,1997-10-10,22.89,9.77,NA,NA,Joe Douglas
+2020,NE,2,60,Josh Uche,D,LB,LB,1998-09-18,21.95,NA,NA,NA,Bill Belichick
+2020,TEN,2,61,Kristian Fulton,D,DB,CB,1998-09-03,22,7.98,NA,NA,Jon Robinson
+2020,GB,2,62,AJ Dillon,O,RB,RB,1998-05-02,22.34,9.16,NA,NA,Brian Gutekunst
+2020,KC,2,63,Willie Gay Jr.,D,LB,LB,1998-02-15,22.54,9.7,NA,NA,Brett Veach
+2020,CAR,2,64,Jeremy Chinn,D,DB,S,1998-02-26,22.51,10,NA,NA,Marty Hurney
+2020,CIN,3,65,Logan Wilson,D,LB,LB,1996-07-08,24.15,8.83,NA,NA,Duke Tobin
+2020,WAS,3,66,Antonio Gibson,O,RB,RB,1998-06-23,22.19,9.29,NA,NA,Ron Rivera
+2020,DET,3,67,Julian Okwara,D,DL,DE,1997-12-27,22.68,NA,NA,NA,Bob Quinn
+2020,NYJ,3,68,Ashtyn Davis,D,DB,S,1996-10-10,23.89,NA,NA,NA,Joe Douglas
+2020,SEA,3,69,Damien Lewis,O,OL,G,1997-03-21,23.45,7.96,NA,NA,John Schneider
+2020,MIA,3,70,Brandon Jones,D,DB,S,1998-04-02,22.42,NA,NA,NA,Chris Grier
+2020,BAL,3,71,Justin Madubuike,D,DL,DT,1997-11-17,22.79,9.32,NA,NA,Eric DeCosta
+2020,ARI,3,72,Josh Jones,O,OL,T,1997-06-22,23.2,7.82,NA,NA,Steve Keim
+2020,JAX,3,73,DaVon Hamilton,D,DL,DT,1997-02-01,23.58,7.22,NA,NA,David Caldwell
+2020,NO,3,74,Zack Baun,D,LB,LB,1996-12-30,23.67,7.85,NA,NA,Mickey Loomis
+2020,DET,3,75,Jonah Jackson,O,OL,G,1997-02-05,23.57,6.5,NA,NA,Bob Quinn
+2020,TB,3,76,Ke'Shawn Vaughn,O,RB,RB,1997-05-04,23.33,5.22,NA,NA,Jason Licht
+2020,DEN,3,77,Michael Ojemudia,D,DB,CB,1997-09-12,22.97,9.17,NA,NA,John Elway
+2020,ATL,3,78,Matt Hennessy,O,OL,C,1997-11-17,22.79,8.9,NA,NA,Thomas Dimitroff
+2020,NYJ,3,79,Jabari Zuniga,D,DL,DE,1997-08-14,23.05,9.74,NA,NA,Joe Douglas
+2020,LV,3,80,Lynn Bowden Jr.,O,WR,WR,1997-10-14,22.88,NA,NA,NA,Mike Mayock
+2020,LV,3,81,Bryan Edwards,O,WR,WR,1998-11-13,21.8,NA,NA,NA,Mike Mayock
+2020,DAL,3,82,Neville Gallimore,D,DL,DT,1997-01-17,23.62,7.11,NA,NA,Jerry Jones
+2020,DEN,3,83,Lloyd Cushenberry III,O,OL,C,1997-11-22,22.78,7.39,NA,NA,John Elway
+2020,LA,3,84,Terrell Lewis,D,LB,LB,1998-08-25,22.02,NA,NA,NA,Les Snead
+2020,IND,3,85,Julian Blackmon,D,DB,S,1998-08-24,22.02,NA,NA,NA,Chris Ballard
+2020,BUF,3,86,Zack Moss,O,RB,RB,1997-12-15,22.71,2.88,NA,NA,Brandon Beane
+2020,NE,3,87,Anfernee Jennings,D,LB,LB,1997-05-01,23.34,NA,NA,NA,Bill Belichick
+2020,CLE,3,88,Jordan Elliott,D,DL,DT,1997-11-23,22.77,7.42,NA,NA,Andrew Berry
+2020,MIN,3,89,Cameron Dantzler,D,DB,CB,1998-09-03,22,3.06,NA,NA,Rick Spielman
+2020,HOU,3,90,Jonathan Greenard,D,DL,DE,1997-05-25,23.27,5.49,NA,NA,Bill O'Brien
+2020,NE,3,91,Devin Asiasi,O,TE,TE,1997-08-14,23.05,6.13,NA,NA,Bill Belichick
+2020,BAL,3,92,Devin Duvernay,O,WR,WR,1997-09-12,22.97,7.87,NA,NA,Eric DeCosta
+2020,TEN,3,93,Darrynton Evans,O,RB,RB,1998-07-09,22.15,9.12,NA,NA,Jon Robinson
+2020,GB,3,94,Josiah Deguara,O,TE,TE,1997-02-14,23.55,8.52,NA,NA,Brian Gutekunst
+2020,DEN,3,95,McTelvin Agim,D,DL,DT,1997-09-25,22.93,8.56,NA,NA,John Elway
+2020,KC,3,96,Lucas Niang,O,OL,T,1998-08-18,22.04,NA,NA,NA,Brett Veach
+2020,CLE,3,97,Jacob Phillips,D,LB,LB,1999-04-01,21.42,8.2,NA,NA,Andrew Berry
+2020,BAL,3,98,Malik Harrison,D,LB,LB,1998-05-05,22.33,9.43,NA,NA,Eric DeCosta
+2020,NYG,3,99,Matt Peart,O,OL,T,1997-06-11,23.23,9.04,NA,NA,Dave Gettleman
+2020,LV,3,100,Tanner Muse,D,DB,S,1996-09-06,23.99,9.96,NA,NA,Mike Mayock
+2020,NE,3,101,Dalton Keene,O,TE,TE,1999-04-14,21.39,9.34,NA,NA,Bill Belichick
+2020,PIT,3,102,Alex Highsmith,D,LB,LB,1997-08-07,23.07,8.03,NA,NA,Kevin Colbert
+2020,PHI,3,103,Davion Taylor,D,LB,LB,1998-08-05,22.08,8.53,NA,NA,Howie Roseman
+2020,LA,3,104,Terrell Burgess,D,DB,S,1998-11-12,21.8,8.11,NA,NA,Les Snead
+2020,NO,3,105,Adam Trautman,O,TE,TE,1997-02-05,23.57,8.75,NA,NA,Mickey Loomis
+2020,BAL,3,106,Tyre Phillips,O,OL,T,1997-01-29,23.59,3.51,NA,NA,Eric DeCosta
+2020,CIN,4,107,Akeem Davis-Gaither,D,LB,LB,1997-09-21,22.95,NA,NA,NA,Duke Tobin
+2020,WAS,4,108,Saahdiq Charles,O,OL,T,1999-07-26,21.1,NA,NA,NA,Ron Rivera
+2020,LV,4,109,John Simpson,O,OL,G,1997-08-19,23.04,8.53,NA,NA,Mike Mayock
+2020,NYG,4,110,Darnay Holmes,D,DB,CB,1998-06-23,22.19,3.67,NA,NA,Dave Gettleman
+2020,MIA,4,111,Solomon Kindley,O,OL,G,1997-07-03,23.16,NA,NA,NA,Chris Grier
+2020,LAC,4,112,Joshua Kelley,O,RB,RB,1997-11-20,22.78,7.63,NA,NA,Tom Telesco
+2020,CAR,4,113,Troy Pride Jr.,D,DB,CB,1998-01-19,22.62,7.18,NA,NA,Marty Hurney
+2020,ARI,4,114,Leki Fotu,D,DL,DT,1998-08-23,22.03,6.59,NA,NA,Steve Keim
+2020,CLE,4,115,Harrison Bryant,O,TE,TE,1998-04-23,22.36,4.65,NA,NA,Andrew Berry
+2020,JAX,4,116,Ben Bartch,O,OL,G,1998-07-22,22.11,NA,NA,NA,David Caldwell
+2020,MIN,4,117,D.J. Wonnum,D,DL,DE,1997-10-31,22.84,8.04,NA,NA,Rick Spielman
+2020,DEN,4,118,Albert Okwuegbunam,O,TE,TE,1998-04-25,22.35,NA,NA,NA,John Elway
+2020,ATL,4,119,Mykal Walker,D,LB,LB,1997-08-28,23.01,8.15,NA,NA,Thomas Dimitroff
+2020,NYJ,4,120,La'Mical Perine,O,RB,RB,1998-01-30,22.59,5.31,NA,NA,Joe Douglas
+2020,DET,4,121,Logan Stenberg,O,OL,G,1997-04-18,23.37,6.17,NA,NA,Bob Quinn
+2020,IND,4,122,Jacob Eason,O,QB,QB,1997-11-17,22.79,3.45,NA,NA,Chris Ballard
+2020,DAL,4,123,Reggie Robinson II,D,DB,CB,1997-04-14,23.38,9.64,NA,NA,Jerry Jones
+2020,PIT,4,124,Anthony McFarland Jr.,O,RB,RB,1999-03-04,21.5,4.45,NA,NA,Kevin Colbert
+2020,NYJ,4,125,James Morgan,O,QB,QB,1997-02-28,23.51,3.88,NA,NA,Joe Douglas
+2020,HOU,4,126,Charlie Heck,O,OL,T,1996-11-20,23.78,7.66,NA,NA,Bill O'Brien
+2020,PHI,4,127,K'Von Wallace,D,DB,S,1997-07-25,23.1,9.41,NA,NA,Howie Roseman
+2020,BUF,4,128,Gabriel Davis,O,WR,WR,1999-04-01,21.42,6.88,NA,NA,Brandon Beane
+2020,NYJ,4,129,Cameron Clark,O,OL,T,1997-11-16,22.79,4.31,NA,NA,Joe Douglas
+2020,MIN,4,130,James Lynch,D,DL,DT,1999-01-20,21.62,8.49,NA,NA,Rick Spielman
+2020,ARI,4,131,Rashard Lawrence,D,DL,DT,1998-08-27,22.02,6.19,NA,NA,Steve Keim
+2020,MIN,4,132,Troy Dye,D,LB,LB,1996-09-18,23.95,NA,NA,NA,Rick Spielman
+2020,SEA,4,133,Colby Parkinson,O,TE,TE,1999-01-08,21.65,6.17,NA,NA,John Schneider
+2020,ATL,4,134,Jaylinn Hawkins,D,DB,S,1997-08-25,23.02,NA,NA,NA,Thomas Dimitroff
+2020,PIT,4,135,Kevin Dotson,O,OL,G,1996-09-18,23.95,NA,NA,NA,Kevin Colbert
+2020,LA,4,136,Brycen Hopkins,O,TE,TE,1997-03-27,23.43,8.19,NA,NA,Les Snead
+2020,JAX,4,137,Josiah Scott,D,DB,CB,1999-04-05,21.41,8.05,NA,NA,David Caldwell
+2020,KC,4,138,L'Jarius Sneed,D,DB,S,1997-01-21,23.61,9.44,NA,NA,Brett Veach
+2020,LV,4,139,Amik Robertson,D,DB,CB,1998-07-06,22.16,NA,NA,NA,Mike Mayock
+2020,JAX,4,140,Shaquille Quarterman,D,LB,LB,1997-10-28,22.84,4.77,NA,NA,David Caldwell
+2020,HOU,4,141,John Reid,D,DB,CB,1996-05-15,24.3,8.44,NA,NA,Bill O'Brien
+2020,WAS,4,142,Antonio Gandy-Golden,O,WR,WR,1998-04-11,22.39,6.15,NA,NA,Ron Rivera
+2020,BAL,4,143,Ben Bredeson,O,OL,G,1998-02-20,22.53,NA,NA,NA,Eric DeCosta
+2020,SEA,4,144,DeeJay Dallas,O,RB,RB,1998-09-16,21.96,5.13,NA,NA,John Schneider
+2020,PHI,4,145,Jack Driscoll,O,OL,G,1997-04-01,23.42,8.9,NA,NA,Howie Roseman
+2020,DAL,4,146,Tyler Biadasz,O,OL,C,1997-11-20,22.78,NA,NA,NA,Jerry Jones
+2020,CIN,5,147,Khalid Kareem,D,DL,DE,1998-04-28,22.35,NA,NA,NA,Duke Tobin
+2020,SEA,5,148,Alton Robinson,D,DL,DE,1998-06-02,22.25,8.94,NA,NA,John Schneider
+2020,IND,5,149,Danny Pinter,O,OL,G,1996-06-19,24.2,9.6,NA,NA,Chris Ballard
+2020,NYG,5,150,Shane Lemieux,O,OL,G,1997-05-12,23.31,6.64,NA,NA,Dave Gettleman
+2020,LAC,5,151,Joe Reed,O,WR,WR,1998-01-04,22.66,9.35,NA,NA,Tom Telesco
+2020,CAR,5,152,Kenny Robinson Jr.,D,DB,S,1999-01-08,21.65,NA,NA,NA,Marty Hurney
+2020,SF,5,153,Colton McKivitz,O,OL,T,1996-08-09,24.06,4.33,NA,NA,John Lynch
+2020,MIA,5,154,Jason Strowbridge,D,DL,DE,1996-09-10,23.98,9.47,NA,NA,Chris Grier
+2020,CHI,5,155,Trevis Gipson,D,DL,DE,1997-06-13,23.22,8.79,NA,NA,Ryan Pace
+2020,WAS,5,156,Keith Ismael,O,OL,C,1998-07-25,22.11,7.1,NA,NA,Ron Rivera
+2020,JAX,5,157,Daniel Thomas,D,DB,S,1998-07-01,22.17,8.4,NA,NA,David Caldwell
+2020,NYJ,5,158,Bryce Hall,D,DB,CB,1997-05-11,23.31,NA,NA,NA,Joe Douglas
+2020,NE,5,159,Justin Rohrwasser,S,K,K,1996-12-07,23.73,NA,NA,NA,Bill Belichick
+2020,CLE,5,160,Nick Harris,O,OL,C,1998-11-13,21.8,6.79,NA,NA,Andrew Berry
+2020,TB,5,161,Tyler Johnson,O,WR,WR,1998-08-25,22.02,2.89,NA,NA,Jason Licht
+2020,TB,5,161,Tyler Johnson,O,WR,WR,1998-08-25,22.02,NA,NA,NA,Jason Licht
+2020,WAS,5,162,Khaleke Hudson,D,LB,LB,1997-12-06,22.74,7.58,NA,NA,Ron Rivera
+2020,CHI,5,163,Kindle Vildor,D,DB,CB,1997-12-11,22.72,7.64,NA,NA,Ryan Pace
+2020,MIA,5,164,Curtis Weaver,D,DL,DE,1998-08-03,22.08,7.64,NA,NA,Chris Grier
+2020,JAX,5,165,Collin Johnson,O,WR,WR,1997-09-23,22.94,NA,NA,NA,David Caldwell
+2020,DET,5,166,Quintez Cephus,O,WR,WR,1998-04-01,22.42,4.53,NA,NA,Bob Quinn
+2020,BUF,5,167,Jake Fromm,O,QB,QB,1998-07-30,22.09,1.96,NA,NA,Brandon Beane
+2020,PHI,5,168,John Hightower,O,WR,WR,1996-05-31,24.25,8.02,NA,NA,Howie Roseman
+2020,MIN,5,169,Harrison Hand,D,DB,CB,1998-11-12,21.8,8.25,NA,NA,Rick Spielman
+2020,BAL,5,170,Broderick Washington Jr.,D,DL,DT,1996-12-04,23.74,NA,NA,NA,Eric DeCosta
+2020,HOU,5,171,Isaiah Coulter,O,WR,WR,1998-09-18,21.95,6.7,NA,NA,Bill O'Brien
+2020,DET,5,172,Jason Huntley,O,RB,RB,1998-04-20,22.37,8.09,NA,NA,Bob Quinn
+2020,CHI,5,173,Darnell Mooney,O,WR,WR,1997-10-29,22.84,7.03,NA,NA,Ryan Pace
+2020,TEN,5,174,Larrell Murchison,D,DL,DT,1997-04-24,23.36,7.12,NA,NA,Jon Robinson
+2020,GB,5,175,Kamal Martin,D,LB,LB,1998-06-17,22.21,NA,NA,NA,Brian Gutekunst
+2020,MIN,5,176,K.J. Osborn,O,WR,WR,1997-06-10,23.23,8,NA,NA,Rick Spielman
+2020,KC,5,177,Michael Danna,D,DL,DE,1997-12-04,22.74,NA,NA,NA,Brett Veach
+2020,DEN,5,178,Justin Strnad,D,LB,LB,1996-08-21,24.03,3.84,NA,NA,John Elway
+2020,DAL,5,179,Bradlee Anae,D,DL,DE,1998-10-17,21.88,4.99,NA,NA,Jerry Jones
+2020,CIN,6,180,Hakeem Adeniji,O,OL,T,1997-12-08,22.73,7.83,NA,NA,Duke Tobin
+2020,DEN,6,181,Netane Muti,O,OL,G,1999-03-27,21.43,NA,NA,NA,John Elway
+2020,NE,6,182,Michael Onwenu,O,OL,G,1997-12-10,22.73,NA,NA,NA,Bill Belichick
+2020,NYG,6,183,Cam Brown,D,LB,LB,1998-04-01,22.42,6.05,NA,NA,Dave Gettleman
+2020,CAR,6,184,Bravvion Roy,D,DL,DT,1996-10-18,23.87,NA,NA,NA,Marty Hurney
+2020,MIA,6,185,Blake Ferguson,S,LS,LS,1997-04-21,23.36,7.13,NA,NA,Chris Grier
+2020,LAC,6,186,Alohi Gilman,D,DB,S,1997-09-17,22.96,3.79,NA,NA,Tom Telesco
+2020,CLE,6,187,Donovan Peoples-Jones,O,WR,WR,1999-02-19,21.53,9.63,NA,NA,Andrew Berry
+2020,BUF,6,188,Tyler Bass,S,K,K,1997-02-14,23.55,NA,NA,NA,Brandon Beane
+2020,JAX,6,189,Jake Luton,O,QB,QB,1996-04-11,24.39,2,NA,NA,David Caldwell
+2020,SF,6,190,Charlie Woerner,O,TE,TE,1997-10-16,22.88,6.93,NA,NA,John Lynch
+2020,NYJ,6,191,Braden Mann,S,P,P,1997-11-24,22.77,7.19,NA,NA,Joe Douglas
+2020,GB,6,192,Jon Runyan,O,OL,T,1997-08-08,23.07,8.49,NA,NA,Brian Gutekunst
+2020,IND,6,193,Robert Windsor,D,DL,DT,1997-01-15,23.63,8.68,NA,NA,Chris Ballard
+2020,TB,6,194,Khalil Davis,D,DL,DT,1996-08-22,24.03,9.81,NA,NA,Jason Licht
+2020,NE,6,195,Justin Herron,O,OL,T,1995-11-27,24.76,3.99,NA,NA,Bill Belichick
+2020,PHI,6,196,Shaun Bradley,D,LB,LB,1997-04-08,23.4,7.74,NA,NA,Howie Roseman
+2020,DET,6,197,John Penisini,D,DL,DT,1997-05-31,23.26,NA,NA,NA,Bob Quinn
+2020,PIT,6,198,Antoine Brooks Jr.,D,DB,S,1998-10-28,21.85,6.29,NA,NA,Kevin Colbert
+2020,LA,6,199,Jordan Fuller,D,DB,S,1998-04-04,22.41,5.54,NA,NA,Les Snead
+2020,PHI,6,200,Quez Watkins,O,WR,WR,1998-06-09,22.23,7.41,NA,NA,Howie Roseman
+2020,BAL,6,201,James Proche,O,WR,WR,1996-09-21,23.95,4.07,NA,NA,Eric DeCosta
+2020,ARI,6,202,Evan Weaver,D,LB,LB,1998-08-11,22.06,6.26,NA,NA,Steve Keim
+2020,MIN,6,203,Blake Brandel,O,OL,T,1997-01-23,23.61,7.21,NA,NA,Rick Spielman
+2020,NE,6,204,Cassh Maluia,D,LB,LB,1998-10-03,21.91,NA,NA,NA,Bill Belichick
+2020,MIN,6,205,Josh Metellus,D,DB,S,1998-01-21,22.61,7.79,NA,NA,Rick Spielman
+2020,JAX,6,206,Tyler Davis,O,TE,TE,1997-04-02,23.42,7.91,NA,NA,David Caldwell
+2020,BUF,6,207,Isaiah Hodgins,O,WR,WR,1998-10-21,21.86,7.56,NA,NA,Brandon Beane
+2020,GB,6,208,Jake Hanson,O,OL,C,1997-04-29,23.34,3.75,NA,NA,Brian Gutekunst
+2020,GB,6,209,Simon Stepaniak,O,OL,T,1997-05-15,23.3,NA,NA,NA,Brian Gutekunst
+2020,PHI,6,210,Prince Tega Wanogho,O,OL,T,1997-11-22,22.78,NA,NA,NA,Howie Roseman
+2020,IND,6,211,Isaiah Rodgers,D,DB,CB,1998-01-07,22.65,NA,NA,NA,Chris Ballard
+2020,IND,6,212,Dezmon Patmon,O,WR,WR,1998-08-06,22.07,8.47,NA,NA,Chris Ballard
+2020,IND,6,213,Jordan Glasgow,D,LB,LB,1996-06-28,24.18,NA,NA,NA,Chris Ballard
+2020,SEA,6,214,Freddie Swain,O,WR,WR,1998-08-04,22.08,8.29,NA,NA,John Schneider
+2020,CIN,7,215,Markus Bailey,D,LB,LB,1997-03-07,23.49,NA,NA,NA,Duke Tobin
+2020,WAS,7,216,Kamren Curl,D,DB,S,1999-03-03,21.5,7.45,NA,NA,Ron Rivera
+2020,SF,7,217,Jauan Jennings,O,WR,WR,1997-07-10,23.15,2.73,NA,NA,John Lynch
+2020,NYG,7,218,Carter Coughlin,D,LB,LB,1997-07-21,23.12,9.81,NA,NA,Dave Gettleman
+2020,BAL,7,219,Geno Stone,D,DB,S,1999-04-19,21.37,3.73,NA,NA,Eric DeCosta
+2020,LAC,7,220,K.J. Hill,O,WR,WR,1997-09-15,22.96,3.92,NA,NA,Tom Telesco
+2020,CAR,7,221,Stantley Thomas-Oliver,D,DB,CB,1998-06-04,22.25,8.25,NA,NA,Marty Hurney
+2020,ARI,7,222,Eno Benjamin,O,RB,RB,1999-04-13,21.39,5.79,NA,NA,Steve Keim
+2020,JAX,7,223,Chris Claybrooks,D,DB,CB,1997-07-17,23.13,7.42,NA,NA,David Caldwell
+2020,TEN,7,224,Cole McDonald,O,QB,QB,1998-05-20,22.29,9,NA,NA,Jon Robinson
+2020,MIN,7,225,Kenny Willekes,D,DL,DE,1997-07-22,23.11,7.26,NA,NA,Rick Spielman
+2020,CHI,7,226,Arlington Hambright,O,OL,T,1996-01-30,24.59,9.65,NA,NA,Ryan Pace
+2020,CHI,7,227,Lachavious Simmons,O,OL,G,1996-09-12,23.97,NA,NA,NA,Ryan Pace
+2020,ATL,7,228,Sterling Hofrichter,S,P,P,1996-12-05,23.74,NA,NA,NA,Thomas Dimitroff
+2020,WAS,7,229,James Smith-Williams,D,DL,DE,1997-07-30,23.09,9.03,NA,NA,Ron Rivera
+2020,NE,7,230,Dustin Woodard,O,OL,C,1998-04-08,22.4,NA,NA,NA,Bill Belichick
+2020,DAL,7,231,Ben DiNucci,O,QB,QB,1996-11-24,23.77,NA,NA,NA,Jerry Jones
+2020,PIT,7,232,Carlos Davis,D,DL,DT,1996-08-22,24.03,8.64,NA,NA,Kevin Colbert
+2020,PHI,7,233,Casey Toohill,D,DL,DE,1996-08-22,24.03,9.7,NA,NA,Howie Roseman
+2020,LA,7,234,Clay Johnston,D,LB,LB,1996-08-08,24.07,NA,NA,NA,Les Snead
+2020,DET,7,235,Jashon Cornell,D,DL,DT,1996-12-30,23.67,NA,NA,NA,Bob Quinn
+2020,GB,7,236,Vernon Scott,D,DB,S,1997-09-11,22.97,NA,NA,NA,Brian Gutekunst
+2020,KC,7,237,Thakarius Keyes,D,DB,CB,1997-11-09,22.81,NA,NA,NA,Brett Veach
+2020,NYG,7,238,T.J. Brunson,D,LB,LB,1997-12-03,22.75,NA,NA,NA,Dave Gettleman
+2020,BUF,7,239,Dane Jackson,D,DB,CB,1996-11-29,23.76,4.44,NA,NA,Brandon Beane
+2020,NO,7,240,Tommy Stevens,O,QB,QB,1996-12-15,23.71,NA,NA,NA,Mickey Loomis
+2020,TB,7,241,Chapelle Russell,D,LB,LB,1997-01-20,23.61,6.79,NA,NA,Jason Licht
+2020,GB,7,242,Jonathan Garvin,D,DL,DE,1999-07-28,21.1,8.98,NA,NA,Brian Gutekunst
+2020,TEN,7,243,Chris Jackson,D,DB,S,1998-04-13,22.39,8.54,NA,NA,Jon Robinson
+2020,MIN,7,244,Nate Stanley,O,QB,QB,1997-08-26,23.02,5.95,NA,NA,Rick Spielman
+2020,TB,7,245,Raymond Calais,O,RB,RB,1998-04-02,22.42,7.61,NA,NA,Jason Licht
+2020,MIA,7,246,Malcolm Perry,O,RB,RB,1997-04-19,23.37,1.92,NA,NA,Chris Grier
+2020,NYG,7,247,Chris Williamson,D,DB,CB,1997-05-19,23.29,NA,NA,NA,Dave Gettleman
+2020,LA,7,248,Sam Sloman,S,K,K,1997-09-19,22.95,NA,NA,NA,Les Snead
+2020,MIN,7,249,Brian Cole II,D,DB,S,1997-04-03,23.41,NA,NA,NA,Rick Spielman
+2020,LA,7,250,Tremayne Anchrum,O,OL,G,1998-06-24,22.19,4.63,NA,NA,Les Snead
+2020,SEA,7,251,Stephen Sullivan,O,TE,TE,1996-11-28,23.76,7.44,NA,NA,John Schneider
+2020,DEN,7,252,Tyrie Cleveland,O,WR,WR,1997-09-20,22.95,9.65,NA,NA,John Elway
+2020,MIN,7,253,Kyle Hinton,O,OL,G,1998-02-27,22.51,9.44,NA,NA,Rick Spielman
+2020,DEN,7,254,Derrek Tuszka,D,LB,LB,1996-07-11,24.14,8.63,NA,NA,John Elway
+2020,NYG,7,255,Tae Crowder,D,LB,LB,1997-03-12,23.47,NA,NA,NA,Dave Gettleman
+2021,JAX,1,1,Trevor Lawrence,O,QB,QB,1999-10-06,21.91,NA,NA,NA,Trent Baalke
+2021,NYJ,1,2,Zach Wilson,O,QB,QB,1999-08-03,22.08,NA,NA,NA,Joe Douglas
+2021,SF,1,3,Trey Lance,O,QB,QB,2000-05-09,21.31,NA,NA,NA,John Lynch
+2021,ATL,1,4,Kyle Pitts,O,TE,TE,2000-10-06,20.9,9.66,NA,NA,Terry Fontenot
+2021,CIN,1,5,Ja'Marr Chase,O,WR,WR,2000-03-01,21.5,9.81,NA,NA,Duke Tobin
+2021,MIA,1,6,Jaylen Waddle,O,WR,WR,1998-11-25,22.77,NA,NA,NA,Chris Grier
+2021,DET,1,7,Penei Sewell,O,OL,OL,2000-10-09,20.9,8.99,NA,NA,Brad Holmes
+2021,CAR,1,8,Jaycee Horn,D,DB,DB,1999-11-26,21.77,9.99,NA,NA,Scott Fitterer
+2021,DEN,1,9,Patrick Surtain II,D,DB,DB,2000-04-14,21.38,9.96,NA,NA,George Paton
+2021,PHI,1,10,DeVonta Smith,O,WR,WR,1998-11-14,22.8,NA,NA,NA,Howie Roseman
+2021,CHI,1,11,Justin Fields,O,QB,QB,1999-03-05,22.49,NA,NA,NA,Ryan Pace
+2021,DAL,1,12,Micah Parsons,D,LB,LB,1999-05-26,22.27,9.59,NA,NA,Jerry Jones
+2021,LAC,1,13,Rashawn Slater,O,OL,OL,1999-03-26,22.44,9.71,NA,NA,Tom Telesco
+2021,NYJ,1,14,Alijah Vera-Tucker,O,OL,OL,1999-06-17,22.21,9.8,NA,NA,Joe Douglas
+2021,NE,1,15,Mac Jones,O,QB,QB,1998-09-05,22.99,7.18,NA,NA,Bill Belichick
+2021,ARI,1,16,Zaven Collins,D,LB,LB,1999-05-19,22.29,8.72,NA,NA,Steve Keim
+2021,LV,1,17,Alex Leatherwood,O,OL,OL,1999-01-05,22.66,9.69,NA,NA,Mike Mayock
+2021,MIA,1,18,Jaelan Phillips,D,DL,DL,1999-05-28,22.26,9.87,NA,NA,Chris Grier
+2021,WAS,1,19,Jamin Davis,D,LB,LB,1998-12-12,22.72,9.94,NA,NA,Martin Mayhew
+2021,NYG,1,20,Kadarius Toney,O,WR,WR,1999-01-27,22.6,9,NA,NA,Dave Gettleman
+2021,IND,1,21,Kwity Paye,D,DL,DL,1998-11-19,22.78,9.34,NA,NA,Chris Ballard
+2021,TEN,1,22,Caleb Farley,D,DB,DB,1998-11-02,22.83,NA,NA,NA,Jon Robinson
+2021,MIN,1,23,Christian Darrisaw,O,OL,OL,1999-06-02,22.25,NA,NA,NA,Rick Spielman
+2021,PIT,1,24,Najee Harris,O,RB,RB,1998-03-09,23.48,NA,NA,NA,Kevin Colbert
+2021,JAX,1,25,Travis Etienne,O,RB,RB,1999-01-26,22.6,9.14,NA,NA,Trent Baalke
+2021,CLE,1,26,Greg Newsome II,D,DB,DB,2000-05-18,21.29,9.66,NA,NA,Andrew Berry
+2021,BAL,1,27,Rashod Bateman,O,WR,WR,1999-11-29,21.76,8.05,NA,NA,Eric DeCosta
+2021,NO,1,28,Payton Turner,D,DL,DE,1998-01-07,23.65,9.74,NA,NA,Mickey Loomis
+2021,GB,1,29,Eric Stokes,D,DB,DB,1999-03-01,22.51,9.37,NA,NA,Brian Gutekunst
+2021,BUF,1,30,Gregory Rousseau,D,DL,DL,2000-04-05,21.41,7.75,NA,NA,Brandon Beane
+2021,BAL,1,31,Odafe Oweh,D,DL,DE,1998-12-15,22.71,9.92,NA,NA,Eric DeCosta
+2021,TB,1,32,Joe Tryon,D,LB,LB,1999-04-30,22.34,9.29,NA,NA,Jason Licht
+2021,JAX,2,33,Tyson Campbell,D,DB,DB,2000-03-17,21.46,7.53,NA,NA,Trent Baalke
+2021,NYJ,2,34,Elijah Moore,O,WR,WR,2000-03-27,21.43,8.68,NA,NA,Joe Douglas
+2021,DEN,2,35,Javonte Williams,O,RB,RB,2000-04-25,21.35,8.79,NA,NA,George Paton
+2021,MIA,2,36,Jevon Holland,D,DB,S,2000-03-03,21.5,9.54,NA,NA,Chris Grier
+2021,PHI,2,37,Landon Dickerson,O,OL,OL,1998-09-30,22.92,NA,NA,NA,Howie Roseman
+2021,NE,2,38,Christian Barmore,D,DL,DL,1999-07-28,22.1,8.21,NA,NA,Bill Belichick
+2021,CHI,2,39,Teven Jenkins,O,OL,OL,1998-03-03,23.5,9.74,NA,NA,Ryan Pace
+2021,ATL,2,40,Richie Grant,D,DB,DB,1997-11-09,23.81,7.8,NA,NA,Terry Fontenot
+2021,DET,2,41,Levi Onwuzurike,D,DL,DL,1998-03-02,23.5,8.72,NA,NA,Brad Holmes
+2021,MIA,2,42,Liam Eichenberg,O,OL,OL,1998-01-19,23.62,8.57,NA,NA,Chris Grier
+2021,LV,2,43,Trevon Moehrig,D,DB,S,1999-06-16,22.21,7.37,NA,NA,Mike Mayock
+2021,DAL,2,44,Kelvin Joseph,D,DB,DB,2000-11-11,20.8,9.02,NA,NA,Jerry Jones
+2021,JAX,2,45,Walker Little,O,OL,T,1999-04-01,22.42,8.92,NA,NA,Trent Baalke
+2021,CIN,2,46,Jackson Carman,O,OL,T,2000-01-22,21.61,NA,NA,NA,Duke Tobin
+2021,LAC,2,47,Asante Samuel Jr.,D,DB,DB,1999-10-03,21.91,7.47,NA,NA,Tom Telesco
+2021,SF,2,48,Aaron Banks,O,OL,OL,1997-09-03,23.99,7.2,NA,NA,John Lynch
+2021,ARI,2,49,Rondale Moore,O,WR,WR,2000-06-09,21.23,9.33,NA,NA,Steve Keim
+2021,NYG,2,50,Azeez Ojulari,D,LB,LB,2000-06-16,21.21,8.17,NA,NA,Dave Gettleman
+2021,WAS,2,51,Samuel Cosmi,O,OL,OL,1999-02-16,22.54,9.99,NA,NA,Martin Mayhew
+2021,CLE,2,52,Jeremiah Owusu-Koramoah,D,LB,LB,1999-11-04,21.83,8.71,NA,NA,Andrew Berry
+2021,TEN,2,53,Dillon Radunz,O,OL,T,1998-03-28,23.43,9.28,NA,NA,Jon Robinson
+2021,IND,2,54,Dayo Odeyingbo,D,DL,DL,1999-09-24,21.94,NA,NA,NA,Chris Ballard
+2021,PIT,2,55,Pat Freiermuth,O,TE,TE,1998-10-25,22.85,NA,NA,NA,Kevin Colbert
+2021,SEA,2,56,D'Wayne Eskridge,O,WR,WR,1997-03-23,24.44,6.73,NA,NA,John Schneider
+2021,LA,2,57,Tutu Atwell,O,WR,WR,1999-10-07,21.9,6.26,NA,NA,Les Snead
+2021,KC,2,58,Nick Bolton,D,LB,LB,2000-03-10,21.48,4.62,NA,NA,Brett Veach
+2021,CAR,2,59,Terrace Marshall Jr.,O,WR,WR,2000-06-09,21.23,9.77,NA,NA,Scott Fitterer
+2021,NO,2,60,Pete Werner,D,LB,LB,1999-06-05,22.24,9.52,NA,NA,Mickey Loomis
+2021,BUF,2,61,Carlos Basham Jr.,D,DL,DL,1997-12-16,23.71,9.38,NA,NA,Brandon Beane
+2021,GB,2,62,Josh Myers,O,OL,C,1998-07-16,23.13,NA,NA,NA,Brian Gutekunst
+2021,KC,2,63,Creed Humphrey,O,OL,OL,1999-06-28,22.18,10,NA,NA,Brett Veach
+2021,TB,2,64,Kyle Trask,O,QB,QB,1998-03-06,23.49,5.92,NA,NA,Jason Licht
+2021,JAX,3,65,Andre Cisco,D,DB,DB,2000-03-23,21.44,NA,NA,NA,Trent Baalke
+2021,MIN,3,66,Kellen Mond,O,QB,QB,1999-06-22,22.2,NA,NA,NA,Rick Spielman
+2021,HOU,3,67,Davis Mills,O,QB,QB,1998-10-21,22.86,6.59,NA,NA,Nick Caserio
+2021,ATL,3,68,Jalen Mayfield,O,OL,OL,2000-05-23,21.28,4.91,NA,NA,Terry Fontenot
+2021,CIN,3,69,Joseph Ossai,D,LB,LB,2000-04-13,21.39,9.49,NA,NA,Duke Tobin
+2021,CAR,3,70,Brady Christensen,O,OL,OL,1996-09-27,24.93,9.84,NA,NA,Scott Fitterer
+2021,NYG,3,71,Aaron Robinson,D,DB,DB,1997-11-10,23.81,8.39,NA,NA,Dave Gettleman
+2021,DET,3,72,Alim McNeill,D,DL,DT,2000-03-11,21.48,8.52,NA,NA,Brad Holmes
+2021,PHI,3,73,Milton Williams,D,DL,DL,1999-04-06,22.41,9.96,NA,NA,Howie Roseman
+2021,WAS,3,74,Benjamin St-Juste,D,DB,DB,1997-09-08,23.98,8.13,NA,NA,Martin Mayhew
+2021,DAL,3,75,Osa Odighizuwa,D,DL,DL,1998-08-13,23.05,7.64,NA,NA,Jerry Jones
+2021,NO,3,76,Paulson Adebo,D,DB,CB,1999-07-03,22.17,9.55,NA,NA,Mickey Loomis
+2021,LAC,3,77,Josh Palmer,O,WR,WR,1998-09-22,22.94,7.6,NA,NA,Tom Telesco
+2021,MIN,3,78,Chazz Surratt,D,LB,LB,1997-02-16,24.54,8.46,NA,NA,Rick Spielman
+2021,LV,3,79,Malcolm Koonce,D,DL,DE,1998-06-06,23.24,NA,NA,NA,Mike Mayock
+2021,LV,3,80,Divine Deablo,D,DB,DB,1998-08-17,23.04,8.03,NA,NA,Mike Mayock
+2021,MIA,3,81,Hunter Long,O,TE,TE,1998-08-19,23.04,8.6,NA,NA,Chris Grier
+2021,WAS,3,82,Dyami Brown,O,WR,WR,1999-11-01,21.83,8.38,NA,NA,Martin Mayhew
+2021,CAR,3,83,Tommy Tremble,O,TE,TE,2000-06-02,21.25,8.91,NA,NA,Scott Fitterer
+2021,DAL,3,84,Chauncey Golston,D,DL,DL,1998-02-10,23.56,7.59,NA,NA,Jerry Jones
+2021,GB,3,85,Amari Rodgers,O,WR,WR,1999-09-23,21.94,5.37,NA,NA,Brian Gutekunst
+2021,MIN,3,86,Wyatt Davis,O,OL,OL,1999-02-17,22.54,NA,NA,NA,Rick Spielman
+2021,PIT,3,87,Kendrick Green,O,OL,OL,1998-12-22,22.69,9.23,NA,NA,Kevin Colbert
+2021,SF,3,88,Trey Sermon,O,RB,RB,1999-01-30,22.59,9.67,NA,NA,John Lynch
+2021,HOU,3,89,Nico Collins,O,WR,WR,1999-03-19,22.46,9.57,NA,NA,Nick Caserio
+2021,MIN,3,90,Patrick Jones II,D,DL,DL,1998-09-29,22.92,6.29,NA,NA,Rick Spielman
+2021,CLE,3,91,Anthony Schwartz,O,WR,WR,2000-09-05,20.99,6.91,NA,NA,Andrew Berry
+2021,TEN,3,92,Monty Rice,D,LB,LB,1999-01-08,22.65,7.21,NA,NA,Jon Robinson
+2021,BUF,3,93,Spencer Brown,O,OL,OL,1998-02-28,23.51,10,NA,NA,Brandon Beane
+2021,BAL,3,94,Ben Cleveland,O,OL,OL,1998-08-25,23.02,9.63,NA,NA,Eric DeCosta
+2021,TB,3,95,Robert Hainsey,O,OL,OL,1998-08-12,23.06,8.08,NA,NA,Jason Licht
+2021,NE,3,96,Ronnie Perkins,D,DL,DE,1999-09-29,21.92,5.13,NA,NA,Bill Belichick
+2021,LAC,3,97,Tre' McKitty,O,TE,TE,1999-01-12,22.64,6.22,NA,NA,Tom Telesco
+2021,DEN,3,98,Quinn Meinerz,O,OL,C,1998-11-15,22.8,9.98,NA,NA,George Paton
+2021,DAL,3,99,Nahshon Wright,D,DB,DB,1998-09-23,22.94,2.47,NA,NA,Jerry Jones
+2021,TEN,3,100,Elijah Molden,D,DB,DB,1999-01-30,22.59,4.66,NA,NA,Jon Robinson
+2021,DET,3,101,Ifeatu Melifonwu,D,DB,DB,1999-05-02,22.34,9.69,NA,NA,Brad Holmes
+2021,SF,3,102,Ambry Thomas,D,DB,DB,1999-09-09,21.98,8.97,NA,NA,John Lynch
+2021,LA,3,103,Ernest Jones,D,LB,LB,1999-11-22,21.78,6.4,NA,NA,Les Snead
+2021,BAL,3,104,Brandon Stephens,D,DB,CB,1997-12-29,23.67,9.2,NA,NA,Eric DeCosta
+2021,DEN,3,105,Baron Browning,D,LB,LB,1999-02-19,22.53,9.98,NA,NA,George Paton
+2021,JAX,4,106,Jay Tufele,D,DL,DL,1999-07-25,22.11,6.46,NA,NA,Trent Baalke
+2021,NYJ,4,107,Michael Carter,O,RB,RB,1999-05-07,22.32,6.23,NA,NA,Joe Douglas
+2021,ATL,4,108,Darren Hall,D,DB,CB,2000-05-02,21.33,8.03,NA,NA,Terry Fontenot
+2021,TEN,4,109,Dez Fitzpatrick,O,WR,WR,1997-12-17,23.71,8.82,NA,NA,Jon Robinson
+2021,CLE,4,110,James Hudson,O,OL,OL,1999-05-13,22.31,3.85,NA,NA,Andrew Berry
+2021,CIN,4,111,Cameron Sample,D,DL,DE,1999-09-20,21.95,6.98,NA,NA,Duke Tobin
+2021,DET,4,112,Amon-Ra St. Brown,O,WR,WR,1999-10-24,21.86,7.14,NA,NA,Brad Holmes
+2021,DET,4,113,Derrick Barnes,D,DL,DE,1999-05-29,22.26,8.42,NA,NA,Brad Holmes
+2021,ATL,4,114,Drew Dalman,O,OL,C,1998-10-15,22.88,9.9,NA,NA,Terry Fontenot
+2021,DAL,4,115,Jabril Cox,D,LB,LB,1998-04-16,23.38,9.73,NA,NA,Jerry Jones
+2021,NYG,4,116,Elerson G. Smith,D,DL,DL,1998-07-17,23.13,9.72,NA,NA,Dave Gettleman
+2021,LA,4,117,Bobby Brown III,D,DL,DL,2000-08-07,21.07,9.82,NA,NA,Les Snead
+2021,LAC,4,118,Chris Rumph II,D,DL,DE,1998-10-19,22.87,5.11,NA,NA,Tom Telesco
+2021,MIN,4,119,Kene Nwangwu,O,RB,RB,1998-02-09,23.56,9.89,NA,NA,Rick Spielman
+2021,NE,4,120,Rhamondre Stevenson,O,RB,RB,1998-02-23,23.52,4.02,NA,NA,Bill Belichick
+2021,JAX,4,121,Jordan Smith,D,LB,LB,1998-04-10,23.39,2.96,NA,NA,Trent Baalke
+2021,CIN,4,122,Tyler Shelvin,D,DL,DT,1998-07-22,23.11,0.86,NA,NA,Duke Tobin
+2021,PHI,4,123,Zech McPhearson,D,DB,DB,1998-03-21,23.45,9.56,NA,NA,Howie Roseman
+2021,WAS,4,124,John Bates,O,TE,TE,1997-11-06,23.82,6.79,NA,NA,Martin Mayhew
+2021,MIN,4,125,Camryn Bynum,D,DB,CB,1998-07-19,23.12,7.82,NA,NA,Rick Spielman
+2021,CAR,4,126,Chuba Hubbard,O,RB,RB,1999-06-11,22.23,8.44,NA,NA,Scott Fitterer
+2021,IND,4,127,Kylen Granson,O,TE,TE,1998-03-27,23.43,7.72,NA,NA,Chris Ballard
+2021,PIT,4,128,Dan Moore Jr.,O,OL,OL,1998-09-28,22.93,8.98,NA,NA,Kevin Colbert
+2021,TB,4,129,Jaelon Darden,O,WR,WR,1999-01-14,22.63,7.15,NA,NA,Jason Licht
+2021,LA,4,130,Robert Rochell,D,DB,DB,1998-04-26,23.35,9.65,NA,NA,Les Snead
+2021,BAL,4,131,Tylan Wallace,O,WR,WR,1999-05-13,22.31,4.72,NA,NA,Eric DeCosta
+2021,CLE,4,132,Tommy Togiai,D,DL,DT,1999-09-19,21.95,8.57,NA,NA,Andrew Berry
+2021,NO,4,133,Ian Book,O,QB,QB,1998-03-30,23.43,7.37,NA,NA,Mickey Loomis
+2021,MIN,4,134,Janarius Robinson,D,DL,DE,1999-05-05,22.33,9.33,NA,NA,Rick Spielman
+2021,TEN,4,135,Rashad Weaver,D,DL,DL,1997-11-10,23.81,7.33,NA,NA,Jon Robinson
+2021,ARI,4,136,Marco Wilson,D,DB,CB,1999-03-03,22.5,9.99,NA,NA,Steve Keim
+2021,SEA,4,137,Tre Brown,D,DB,CB,1997-09-24,23.94,6.35,NA,NA,John Schneider
+2021,DAL,4,138,Josh Ball,O,OL,OL,1998-05-15,23.3,7.8,NA,NA,Jerry Jones
+2021,CIN,4,139,D'Ante Smith,O,OL,T,1998-06-09,23.23,6.17,NA,NA,Duke Tobin
+2021,PIT,4,140,Buddy Johnson,D,LB,LB,1999-02-27,22.51,9.22,NA,NA,Kevin Colbert
+2021,LA,4,141,Jacob Harris,O,WR,WR,1997-04-16,24.38,9.88,NA,NA,Les Snead
+2021,GB,4,142,Royce Newman,O,OL,G,1997-08-17,24.04,8.72,NA,NA,Brian Gutekunst
+2021,LV,4,143,Tyree Gillespie,D,DB,S,1998-09-05,22.99,6.03,NA,NA,Mike Mayock
+2021,KC,4,144,Joshua Kaindoh,D,DL,DE,1998-12-27,22.68,9.59,NA,NA,Brett Veach
+2021,JAX,5,145,Luke Farrell,O,TE,TE,1997-10-14,23.88,8.62,NA,NA,Trent Baalke
+2021,NYJ,5,146,Jamien Sherwood,D,DB,DB,2000-01-12,21.64,4.24,NA,NA,Joe Douglas
+2021,HOU,5,147,Brevin Jordan,O,TE,TE,2000-07-16,21.13,4.53,NA,NA,Nick Caserio
+2021,ATL,5,148,Ta'Quon Graham,D,DL,DL,1998-12-01,22.75,9.68,NA,NA,Terry Fontenot
+2021,CIN,5,149,Evan McPherson,S,K,K,1999-07-21,22.12,NA,NA,NA,Duke Tobin
+2021,PHI,5,150,Kenneth Gainwell,O,RB,RB,1999-03-14,22.47,5.71,NA,NA,Howie Roseman
+2021,CHI,5,151,Larry Borom,O,OL,OL,1999-03-30,22.43,8.65,NA,NA,Ryan Pace
+2021,DEN,5,152,Caden Sterns,D,DB,DB,1999-11-02,21.83,9.59,NA,NA,George Paton
+2021,CLE,5,153,Tony Fields II,D,LB,LB,1999-06-18,22.21,4.92,NA,NA,Andrew Berry
+2021,NYJ,5,154,Michael Carter II,D,DB,S,1999-03-08,22.49,5.73,NA,NA,Joe Douglas
+2021,SF,5,155,Jaylon Moore,O,OL,T,1998-01-09,23.64,7.49,NA,NA,John Lynch
+2021,PIT,5,156,Isaiahh Loudermilk,D,DL,DE,1997-10-10,23.89,3.63,NA,NA,Kevin Colbert
+2021,MIN,5,157,Ihmir Smith-Marsette,O,WR,WR,1999-08-29,22.01,6.81,NA,NA,Rick Spielman
+2021,CAR,5,158,Daviyon Nixon,D,DL,DT,1998-12-13,22.72,8.37,NA,NA,Scott Fitterer
+2021,LAC,5,159,Brenden Jaimes,O,OL,OL,1999-05-28,22.26,8.54,NA,NA,Tom Telesco
+2021,BAL,5,160,Shaun Wade,D,DB,CB,1998-09-15,22.96,9.6,NA,NA,Eric DeCosta
+2021,BUF,5,161,Tommy Doyle,O,OL,OL,1998-05-06,23.32,9.9,NA,NA,Brandon Beane
+2021,KC,5,162,Noah Gray,O,TE,TE,1999-04-30,22.34,6.98,NA,NA,Brett Veach
+2021,WAS,5,163,Darrick Forrest,D,DB,S,1999-05-22,22.28,9.69,NA,NA,Martin Mayhew
+2021,DEN,5,164,Jamar Johnson,D,DB,DB,1999-11-22,21.78,6.22,NA,NA,George Paton
+2021,IND,5,165,Shawn Davis,D,DB,DB,1998-12-24,22.69,NA,NA,NA,Chris Ballard
+2021,CAR,5,166,Keith Taylor,D,DB,DB,1998-11-20,22.78,6.54,NA,NA,Scott Fitterer
+2021,LV,5,167,Nate Hobbs,D,DB,CB,1999-06-24,22.19,9.62,NA,NA,Mike Mayock
+2021,MIN,5,168,Zach Davidson,O,TE,TE,1998-07-15,23.13,8.81,NA,NA,Rick Spielman
+2021,CLE,5,169,Richard LeCounte,D,DB,DB,1998-09-11,22.97,0.66,NA,NA,Andrew Berry
+2021,HOU,5,170,Garret Wallow,D,LB,LB,1999-01-25,22.6,8.12,NA,NA,Nick Caserio
+2021,BAL,5,171,Daelin Hayes,D,DL,DL,1998-05-16,23.3,7.93,NA,NA,Eric DeCosta
+2021,SF,5,172,Deommodore Lenoir,D,DB,CB,1999-10-06,21.91,7.59,NA,NA,John Lynch
+2021,GB,5,173,Tedarrell Slaton,D,DL,DL,1997-10-03,23.91,7.96,NA,NA,Brian Gutekunst
+2021,LA,5,174,Earnest Brown IV,D,DL,DE,1999-01-08,22.65,4.7,NA,NA,Les Snead
+2021,NYJ,5,175,Jason Pinnock,D,DB,CB,1999-06-30,22.17,9.78,NA,NA,Joe Douglas
+2021,TB,5,176,K.J. Britt,D,LB,LB,1998-09-19,22.95,4.69,NA,NA,Jason Licht
+2021,NE,5,177,Cameron McGrone,D,LB,LB,2000-06-22,21.19,NA,NA,NA,Bill Belichick
+2021,GB,5,178,Shemar Jean-Charles,D,DB,DB,1998-06-20,23.2,4.27,NA,NA,Brian Gutekunst
+2021,DAL,5,179,Simi Fehoko,O,WR,WR,1997-11-05,23.82,9.17,NA,NA,Jerry Jones
+2021,SF,5,180,Talanoa Hufanga,D,DB,S,1999-02-02,22.58,5.77,NA,NA,John Lynch
+2021,KC,5,181,Cornell Powell,O,WR,WR,1997-10-30,23.84,7.58,NA,NA,Brett Veach
+2021,ATL,5,182,Adetokunbo Ogundeji,D,DL,DL,1998-10-09,22.9,6.91,NA,NA,Terry Fontenot
+2021,ATL,5,183,Avery Williams,D,DB,CB,1998-07-15,23.13,7.77,NA,NA,Terry Fontenot
+2021,BAL,5,184,Ben Mason,O,RB,RB,1999-05-25,22.27,8.97,NA,NA,Eric DeCosta
+2021,LAC,6,185,Nick Niemann,D,LB,LB,1997-12-02,23.75,9.51,NA,NA,Tom Telesco
+2021,NYJ,6,186,Hamsah Nasirildeen,D,DB,DB,1999-01-17,22.62,7.78,NA,NA,Joe Douglas
+2021,ATL,6,187,Frank Darby,O,WR,WR,1997-09-08,23.98,5.92,NA,NA,Terry Fontenot
+2021,NE,6,188,Joshuah Bledsoe,D,DB,S,1998-12-30,22.67,NA,NA,NA,Bill Belichick
+2021,PHI,6,189,Marlon Tuipulotu,D,DL,DL,1999-05-31,22.26,6.78,NA,NA,Howie Roseman
+2021,CIN,6,190,Trey Hill,O,OL,OL,2000-01-23,21.61,2.02,NA,NA,Duke Tobin
+2021,PHI,6,191,Tarron Jackson,D,DL,DE,1998-06-22,23.2,5.67,NA,NA,Howie Roseman
+2021,DAL,6,192,Quinton Bohanna,D,DL,DT,1999-03-16,22.46,2.28,NA,NA,Jerry Jones
+2021,CAR,6,193,Deonte Brown,O,OL,OL,1998-01-15,23.63,1.48,NA,NA,Scott Fitterer
+2021,SF,6,194,Elijah Mitchell,O,RB,RB,1998-05-02,23.33,9.5,NA,NA,John Lynch
+2021,HOU,6,195,Roy Lopez,D,DL,DL,1997-08-07,24.07,7.49,NA,NA,Nick Caserio
+2021,NYG,6,196,Gary Brightwell,O,RB,RB,1999-02-28,22.51,4.62,NA,NA,Dave Gettleman
+2021,NE,6,197,William Sherman,O,OL,OL,1999-05-27,22.27,5.97,NA,NA,Bill Belichick
+2021,LAC,6,198,Larry Rountree III,O,RB,RB,1999-02-13,22.55,2.08,NA,NA,Tom Telesco
+2021,MIN,6,199,Jaylen Twyman,D,DL,DL,1999-07-19,22.12,4.42,NA,NA,Rick Spielman
+2021,NYJ,6,200,Brandin Echols,D,DB,CB,1997-10-16,23.88,9.15,NA,NA,Joe Douglas
+2021,NYG,6,201,Rodarius Williams,D,DB,CB,1996-09-12,24.97,8.14,NA,NA,Dave Gettleman
+2021,CIN,6,202,Chris Evans,O,RB,RB,1997-10-05,23.91,9.85,NA,NA,Duke Tobin
+2021,BUF,6,203,Marquez Stevenson,O,WR,WR,1998-03-26,23.44,5.39,NA,NA,Brandon Beane
+2021,CAR,6,204,Shi Smith,O,WR,WR,1998-10-26,22.85,6.79,NA,NA,Scott Fitterer
+2021,TEN,6,205,Racey McMath,O,WR,WR,1999-06-14,22.22,7.44,NA,NA,Jon Robinson
+2021,NO,6,206,Landon Young,O,OL,T,1997-08-21,24.03,9.18,NA,NA,Mickey Loomis
+2021,NYJ,6,207,Jonathan Marshall,D,DL,DL,1997-09-16,23.96,9.99,NA,NA,Joe Douglas
+2021,SEA,6,208,Stone Forsythe,O,OL,OL,1997-12-29,23.67,8.79,NA,NA,John Schneider
+2021,JAX,6,209,Jalen Camp,O,WR,WR,1998-07-10,23.15,9.75,NA,NA,Trent Baalke
+2021,ARI,6,210,Victor Dimukeje,D,DL,DE,1999-11-18,21.79,5.97,NA,NA,Steve Keim
+2021,CLE,6,211,Demetric Felton,O,RB,RB,1998-07-16,23.13,0.91,NA,NA,Andrew Berry
+2021,BUF,6,212,Damar Hamlin,D,DB,DB,1998-03-24,23.44,7,NA,NA,Brandon Beane
+2021,BUF,6,213,Rachad Wildgoose Jr.,D,DB,CB,2000-01-01,21.67,7.2,NA,NA,Brandon Beane
+2021,GB,6,214,Cole Van Lanen,O,OL,OL,1998-04-23,23.36,8.49,NA,NA,Brian Gutekunst
+2021,TEN,6,215,Brady Breeze,D,DB,S,1997-10-09,23.9,6.7,NA,NA,Jon Robinson
+2021,PIT,6,216,Quincy Roche,D,DL,DL,1998-02-10,23.56,6.4,NA,NA,Kevin Colbert
+2021,CHI,6,217,Khalil Herbert,O,RB,RB,1998-04-21,23.36,6.18,NA,NA,Ryan Pace
+2021,IND,6,218,Sam Ehlinger,O,QB,QB,1998-09-30,22.92,6.81,NA,NA,Chris Ballard
+2021,DEN,6,219,Seth Williams,O,WR,WR,2000-04-10,21.39,6.88,NA,NA,George Paton
+2021,GB,6,220,Isaiah McDuffie,D,LB,LB,1999-07-21,22.12,7.33,NA,NA,Brian Gutekunst
+2021,CHI,6,221,Dazz Newsome,O,WR,WR,1999-05-15,22.3,2.18,NA,NA,Ryan Pace
+2021,CAR,6,222,Thomas Fletcher,S,LS,LS,1998-10-01,22.92,6.74,NA,NA,Scott Fitterer
+2021,ARI,6,223,Tay Gowan,D,DB,DB,1998-01-07,23.65,7.65,NA,NA,Steve Keim
+2021,PHI,6,224,JaCoby Stevens,D,DB,S,1998-06-19,23.2,7.85,NA,NA,Howie Roseman
+2021,WAS,6,225,Camaron Cheeseman,S,LS,LS,1998-04-26,23.35,8.37,NA,NA,Martin Mayhew
+2021,KC,6,226,Trey Smith,O,OL,OL,1999-06-16,22.21,9.91,NA,NA,Brett Veach
+2021,DAL,6,227,Israel Mukuamu,D,DB,DB,1999-11-28,21.76,NA,NA,NA,Jerry Jones
+2021,CHI,6,228,Thomas Graham Jr.,D,DB,CB,1999-06-26,22.18,5.65,NA,NA,Ryan Pace
+2021,IND,7,229,Mike Strachan,O,WR,WR,1997-08-13,24.05,9.22,NA,NA,Chris Ballard
+2021,LV,7,230,Jimmy Morrissey,O,OL,OL,1998-06-09,23.23,9,NA,NA,Mike Mayock
+2021,MIA,7,231,Larnel Coleman,O,OL,T,1998-06-22,23.2,8.61,NA,NA,Chris Grier
+2021,CAR,7,232,Phil Hoskins,D,DL,DT,1997-01-02,24.66,6.67,NA,NA,Scott Fitterer
+2021,LA,7,233,Jake Funk,O,RB,RB,1998-01-11,23.64,9.76,NA,NA,Les Snead
+2021,PHI,7,234,Patrick Johnson,D,DL,DE,1998-01-10,23.64,7.25,NA,NA,Howie Roseman
+2021,CIN,7,235,Wyatt Hubert,D,DL,DE,1998-06-13,23.22,5.99,NA,NA,Duke Tobin
+2021,BUF,7,236,Jack Anderson,O,OL,OL,1998-10-12,22.89,8.58,NA,NA,Brandon Beane
+2021,DEN,7,237,Kary Vincent Jr.,D,DB,CB,1999-02-27,22.51,4.11,NA,NA,George Paton
+2021,DAL,7,238,Matt Farniok,O,OL,G,1997-09-26,23.93,9.9,NA,NA,Jerry Jones
+2021,DEN,7,239,Jonathon Cooper,D,DL,DE,1998-01-08,23.65,7.61,NA,NA,George Paton
+2021,WAS,7,240,William Bradley-King,D,LB,LB,1997-12-22,23.69,9.18,NA,NA,Martin Mayhew
+2021,LAC,7,241,Mark Webb,D,DB,DB,1998-09-10,22.98,6.31,NA,NA,Tom Telesco
+2021,NE,7,242,Tre Nixon,O,WR,WR,1998-01-26,23.6,8.98,NA,NA,Bill Belichick
+2021,ARI,7,243,James Wiggins,D,DB,S,1997-04-26,24.35,9.7,NA,NA,Steve Keim
+2021,MIA,7,244,Gerrid Doaks,O,RB,RB,1998-06-09,23.23,8.32,NA,NA,Chris Grier
+2021,PIT,7,245,Tre Norwood,D,DB,DB,1999-04-19,22.37,2.7,NA,NA,Kevin Colbert
+2021,WAS,7,246,Shaka Toney,D,DL,DE,1998-01-07,23.65,9.47,NA,NA,Martin Mayhew
+2021,ARI,7,247,Michal Menet,O,OL,OL,1997-08-08,24.07,NA,NA,NA,Steve Keim
+2021,IND,7,248,Will Fries,O,OL,OL,1998-04-04,23.41,8.51,NA,NA,Chris Ballard
+2021,LA,7,249,Ben Skowronek,O,WR,WR,1997-06-27,24.18,NA,NA,NA,Les Snead
+2021,CHI,7,250,Khyiris Tonga,D,DL,DL,1996-07-07,25.15,7.24,NA,NA,Ryan Pace
+2021,TB,7,251,Chris Wilcox,D,DB,DB,1997-10-30,23.84,8.8,NA,NA,Jason Licht
+2021,LA,7,252,Chris Garrett,D,DL,DE,1998-07-15,23.13,6.61,NA,NA,Les Snead
+2021,DEN,7,253,Marquiss Spencer,D,DL,DE,1997-07-16,24.13,9.06,NA,NA,George Paton
+2021,PIT,7,254,Pressley Harvin III,S,P,P,1998-09-17,22.96,NA,NA,NA,Kevin Colbert
+2021,NO,7,255,Kawaan Baker,O,WR,WR,1998-08-24,23.02,9.08,NA,NA,Mickey Loomis
+2021,GB,7,256,Kylin Hill,O,RB,RB,1998-08-18,23.04,7.31,NA,NA,Brian Gutekunst
+2021,DET,7,257,Jermar Jefferson,O,RB,RB,2000-04-15,21.38,2.28,NA,NA,Brad Holmes
+2021,WAS,7,258,Dax Milne,O,WR,WR,1999-06-23,22.19,4.59,NA,NA,Martin Mayhew
+2021,TB,7,259,Grant Stuard,D,LB,LB,1998-10-15,22.88,NA,NA,NA,Jason Licht
+2022,JAX,1,1,Travon Walker,NA,NA,DE,2000-12-18,21.7,NA,Georgia,SEC,Trent Baalke
+2022,DET,1,2,Aidan Hutchinson,NA,NA,DE,2000-08-09,22.06,NA,Michigan,Big Ten,Brad Holmes
+2022,HOU,1,3,Derek Stingley Jr.,NA,NA,CB,2001-06-20,21.2,NA,LSU,SEC,Nick Caserio
+2022,NYJ,1,4,Sauce Gardner,NA,NA,CB,2000-08-31,22,NA,Cincinnati,The American,Joe Douglas
+2022,NYG,1,5,Kayvon Thibodeaux,NA,NA,DE,2000-12-15,21.71,NA,Oregon,Pac-12,Joe Schoen
+2022,CAR,1,6,Ikem Ekwonu,NA,NA,OT,2000-10-31,21.83,NA,NC State,ACC,Scott Fitterer
+2022,NYG,1,7,Evan Neal,NA,NA,OT,2000-09-19,21.95,NA,Alabama,SEC,Joe Schoen
+2022,ATL,1,8,Drake London,NA,NA,WR,2001-07-24,21.11,NA,USC,Pac-12,Terry Fontenot
+2022,SEA,1,9,Charles Cross,NA,NA,OT,2000-11-25,21.77,NA,Mississippi State,SEC,John Schneider
+2022,NYJ,1,10,Garrett Wilson,NA,NA,WR,2000-07-22,22.11,NA,Ohio State,Big Ten,Joe Douglas
+2022,NO,1,11,Chris Olave,NA,NA,WR,2000-06-27,22.18,NA,Ohio State,Big Ten,Mickey Loomis
+2022,DET,1,12,Jameson Williams,NA,NA,WR,2001-03-26,21.43,NA,Alabama,SEC,Brad Holmes
+2022,PHI,1,13,Jordan Davis,NA,NA,DT,2000-01-12,22.64,NA,Georgia,SEC,Howie Roseman
+2022,BAL,1,14,Kyle Hamilton,NA,NA,S,2001-03-16,21.46,NA,Notre Dame,Ind. (FBS),Eric DeCosta
+2022,HOU,1,15,Kenyon Green,NA,NA,OG,2001-03-15,21.46,NA,Texas A&M,SEC,Nick Caserio
+2022,WAS,1,16,Jahan Dotson,NA,NA,WR,2000-03-22,22.44,NA,Penn State,Big Ten,Martin Mayhew
+2022,LAC,1,17,Zion Johnson,NA,NA,OG,1999-11-18,22.79,NA,Boston College,ACC,Tom Telesco
+2022,TEN,1,18,Treylon Burks,NA,NA,WR,2000-03-23,22.44,NA,Arkansas,SEC,Jon Robinson
+2022,NO,1,19,Trevor Penning,NA,NA,OT,1999-05-15,23.3,NA,Northern Iowa,MVFC,Mickey Loomis
+2022,PIT,1,20,Kenny Pickett,NA,NA,QB,1998-06-06,24.24,NA,Pittsburgh,ACC,Kevin Colbert
+2022,KC,1,21,Trent McDuffie,NA,NA,CB,2000-09-13,21.97,NA,Washington,Pac-12,Brett Veach
+2022,GB,1,22,Quay Walker,NA,NA,LB,2000-05-08,22.32,NA,Georgia,SEC,Brian Gutekunst
+2022,BUF,1,23,Kaiir Elam,NA,NA,CB,2001-05-05,21.33,NA,Florida,SEC,Brandon Beane
+2022,DAL,1,24,Tyler Smith,NA,NA,OT,2001-04-03,21.41,NA,Tulsa,The American,Jerry Jones
+2022,BAL,1,25,Tyler Linderbaum,NA,NA,C,2000-04-07,22.4,NA,Iowa,Big Ten,Eric DeCosta
+2022,NYJ,1,26,Jermaine Johnson II,NA,NA,DE,1999-01-07,23.65,NA,Florida State,ACC,Joe Douglas
+2022,JAX,1,27,Devin Lloyd,NA,NA,LB,1998-09-30,23.92,NA,Utah,Pac-12,Trent Baalke
+2022,GB,1,28,Devonte Wyatt,NA,NA,DT,1998-03-31,24.42,NA,Georgia,SEC,Brian Gutekunst
+2022,NE,1,29,Cole Strange,NA,NA,OG,1998-07-31,24.09,NA,Chattanooga,SoCon,Bill Belichick
+2022,KC,1,30,George Karlaftis,NA,NA,DE,2001-04-03,21.41,NA,Purdue,Big Ten,Brett Veach
+2022,CIN,1,31,Daxton Hill,NA,NA,S,2000-09-29,21.92,NA,Michigan,Big Ten,Duke Tobin
+2022,MIN,1,32,Lewis Cine,NA,NA,S,1999-10-05,22.91,NA,Georgia,SEC,Kwesi Adofo-Mensah
+2022,TB,2,33,Logan Hall,NA,NA,DE,2000-04-22,22.36,NA,Houston,The American,Jason Licht
+2022,GB,2,34,Christian Watson,NA,NA,WR,1999-05-12,23.31,NA,North Dakota State,MVFC,Brian Gutekunst
+2022,TEN,2,35,Roger McCreary,NA,NA,CB,2000-02-10,22.56,NA,Auburn,SEC,Jon Robinson
+2022,NYJ,2,36,Breece Hall,NA,NA,RB,2001-05-31,21.25,NA,Iowa State,Big 12,Joe Douglas
+2022,HOU,2,37,Jalen Pitre,NA,NA,S,1999-06-03,23.25,NA,Baylor,Big 12,Nick Caserio
+2022,ATL,2,38,Arnold Ebiketie,NA,NA,OLB,1999-01-23,23.61,NA,Penn State,Big Ten,Terry Fontenot
+2022,CHI,2,39,Kyler Gordon,NA,NA,CB,1999-12-17,22.71,NA,Washington,Pac-12,Ryan Poles
+2022,SEA,2,40,Boye Mafe,NA,NA,DE,1998-11-30,23.75,NA,Minnesota,Big Ten,John Schneider
+2022,SEA,2,41,Kenneth Walker III,NA,NA,RB,2000-10-20,21.86,NA,Michigan State,Big Ten,John Schneider
+2022,MIN,2,42,Andrew Booth Jr.,NA,NA,CB,2000-09-28,21.92,NA,Clemson,ACC,Kwesi Adofo-Mensah
+2022,NYG,2,43,Wan'Dale Robinson,NA,NA,WR,2001-01-05,21.65,NA,Kentucky,SEC,Joe Schoen
+2022,HOU,2,44,John Metchie III,NA,NA,WR,2000-07-18,22.12,NA,Alabama,SEC,Nick Caserio
+2022,BAL,2,45,David Ojabo,NA,NA,OLB,2000-05-17,22.29,NA,Michigan,Big Ten,Eric DeCosta
+2022,DET,2,46,Josh Paschal,NA,NA,DE,1999-12-17,22.71,NA,Kentucky,SEC,Brad Holmes
+2022,WAS,2,47,Phidarian Mathis,NA,NA,DT,1998-04-26,24.35,NA,Alabama,SEC,Martin Mayhew
+2022,CHI,2,48,Jaquan Brisker,NA,NA,S,1999-04-20,23.37,NA,Penn State,Big Ten,Ryan Poles
+2022,NO,2,49,Alontae Taylor,NA,NA,CB,1998-12-03,23.75,NA,Tennessee,SEC,Mickey Loomis
+2022,NE,2,50,Tyquan Thornton,NA,NA,WR,2000-08-07,22.07,NA,Baylor,Big 12,Bill Belichick
+2022,PHI,2,51,Cam Jurgens,NA,NA,C,1999-08-21,23.03,NA,Nebraska,Big Ten,Howie Roseman
+2022,PIT,2,52,George Pickens,NA,NA,WR,2001-03-04,21.49,NA,Georgia,SEC,Kevin Colbert
+2022,IND,2,53,Alec Pierce,NA,NA,WR,2000-05-02,22.33,NA,Cincinnati,The American,Chris Ballard
+2022,KC,2,54,Skyy Moore,NA,NA,WR,2000-09-10,21.97,NA,Western Michigan,MAC,Brett Veach
+2022,ARI,2,55,Trey McBride,NA,NA,TE,1999-11-22,22.78,NA,Colorado State,MW,Steve Keim
+2022,DAL,2,56,Sam Williams,NA,NA,DE,1999-03-31,23.42,NA,Ole Miss,SEC,Jerry Jones
+2022,TB,2,57,Luke Goedeke,NA,NA,OT,1998-11-21,23.78,NA,Central Michigan,MAC,Jason Licht
+2022,ATL,2,58,Troy Andersen,NA,NA,LB,1999-04-23,23.36,NA,Montana State,Big Sky,Terry Fontenot
+2022,MIN,2,59,Ed Ingram,NA,NA,OG,1999-02-11,23.55,NA,LSU,SEC,Kwesi Adofo-Mensah
+2022,CIN,2,60,Cam Taylor-Britt,NA,NA,CB,1999-10-15,22.88,NA,Nebraska,Big Ten,Duke Tobin
+2022,SF,2,61,Drake Jackson,NA,NA,DE,2001-04-12,21.39,NA,USC,Pac-12,John Lynch
+2022,KC,2,62,Bryan Cook,NA,NA,S,1999-09-07,22.98,NA,Cincinnati,The American,Brett Veach
+2022,BUF,2,63,James Cook,NA,NA,RB,1999-09-25,22.93,NA,Georgia,SEC,Brandon Beane
+2022,DEN,2,64,Nik Bonitto,NA,NA,LB,1999-09-26,22.93,NA,Oklahoma,Big 12,George Paton
+2022,JAX,3,65,Luke Fortner,NA,NA,C,1998-05-15,24.3,NA,Kentucky,SEC,Trent Baalke
+2022,MIN,3,66,Brian Asamoah,NA,NA,LB,2000-03-29,22.43,NA,Oklahoma,Big 12,Kwesi Adofo-Mensah
+2022,NYG,3,67,Joshua Ezeudu,NA,NA,OG,1999-09-19,22.95,NA,North Carolina,ACC,Joe Schoen
+2022,CLE,3,68,Martin Emerson,NA,NA,CB,2000-09-27,21.93,NA,Mississippi State,SEC,Andrew Berry
+2022,TEN,3,69,Nicholas Petit-Frere,NA,NA,OT,1999-09-15,22.96,NA,Ohio State,Big Ten,Jon Robinson
+2022,JAX,3,70,Chad Muma,NA,NA,LB,1999-08-18,23.04,NA,Wyoming,MW,Trent Baalke
+2022,CHI,3,71,Velus Jones Jr.,NA,NA,WR,1997-05-11,25.31,NA,Tennessee,SEC,Ryan Poles
+2022,SEA,3,72,Abraham Lucas,NA,NA,OT,1998-10-25,23.85,NA,Washington State,Pac-12,John Schneider
+2022,IND,3,73,Jelani Woods,NA,NA,TE,1998-10-09,23.9,NA,Virginia,ACC,Chris Ballard
+2022,ATL,3,74,Desmond Ridder,NA,NA,QB,1999-08-31,23,NA,Cincinnati,The American,Terry Fontenot
+2022,HOU,3,75,Christian Harris,NA,NA,LB,2001-01-16,21.62,NA,Alabama,SEC,Nick Caserio
+2022,BAL,3,76,Travis Jones,NA,NA,NT,1999-10-15,22.88,NA,UConn,Ind. (FBS),Eric DeCosta
+2022,IND,3,77,Bernhard Raimann,NA,NA,OT,1997-09-23,24.94,NA,Central Michigan,MAC,Chris Ballard
+2022,CLE,3,78,Alex Wright,NA,NA,DE,2000-09-05,21.99,NA,UAB,C-USA,Andrew Berry
+2022,LAC,3,79,JT Woods,NA,NA,S,2000-06-10,22.23,NA,Baylor,Big 12,Tom Telesco
+2022,DEN,3,80,Greg Dulcich,NA,NA,TE,2000-03-26,22.43,NA,UCLA,Pac-12,George Paton
+2022,NYG,3,81,Cordale Flott,NA,NA,CB,2001-08-24,21.02,NA,LSU,SEC,Joe Schoen
+2022,ATL,3,82,DeAngelo Malone,NA,NA,LB,1999-07-12,23.14,NA,Western Kentucky,C-USA,Terry Fontenot
+2022,PHI,3,83,Nakobe Dean,NA,NA,LB,2000-12-13,21.72,NA,Georgia,SEC,Howie Roseman
+2022,PIT,3,84,DeMarvin Leal,NA,NA,DE,2000-07-01,22.17,NA,Texas A&M,SEC,Kevin Colbert
+2022,NE,3,85,Marcus Jones,NA,NA,CB,1998-10-22,23.86,NA,Houston,The American,Bill Belichick
+2022,TEN,3,86,Malik Willis,NA,NA,QB,1999-05-25,23.27,NA,Liberty,Ind. (FBS),Jon Robinson
+2022,ARI,3,87,Cameron Thomas,NA,NA,DE,2000-01-07,22.65,NA,San Diego State,MW,Steve Keim
+2022,DAL,3,88,Jalen Tolbert,NA,NA,WR,1999-02-27,23.51,NA,South Alabama,Sun Belt,Jerry Jones
+2022,BUF,3,89,Terrel Bernard,NA,NA,LB,1999-05-07,23.32,NA,Baylor,Big 12,Brandon Beane
+2022,LV,3,90,Dylan Parham,NA,NA,OG,1999-08-24,23.02,NA,Memphis,The American,Dave Ziegler
+2022,TB,3,91,Rachaad White,NA,NA,RB,1999-04-22,23.36,NA,Arizona State,Pac-12,Jason Licht
+2022,GB,3,92,Sean Rhyan,NA,NA,OT,2000-09-15,21.96,NA,UCLA,Pac-12,Brian Gutekunst
+2022,SF,3,93,Tyrion Davis-Price,NA,NA,RB,2000-10-23,21.86,NA,LSU,SEC,John Lynch
+2022,CAR,3,94,Matt Corral,NA,NA,QB,1999-01-31,23.58,NA,Ole Miss,SEC,Scott Fitterer
+2022,CIN,3,95,Zachary Carter,NA,NA,DT,1999-04-07,23.4,NA,Florida,SEC,Duke Tobin
+2022,IND,3,96,Nick Cross,NA,NA,S,2001-09-10,20.97,NA,Maryland,Big Ten,Chris Ballard
+2022,DET,3,97,Kerby Joseph,NA,NA,S,2000-11-14,21.8,NA,Illinois,Big Ten,Brad Holmes
+2022,WAS,3,98,Brian Robinson Jr.,NA,NA,RB,1999-03-22,23.45,NA,Alabama,SEC,Martin Mayhew
+2022,CLE,3,99,David Bell,NA,NA,WR,2000-12-14,21.71,NA,Purdue,Big Ten,Andrew Berry
+2022,ARI,3,100,Myjai Sanders,NA,NA,DE,1998-07-12,24.14,NA,Cincinnati,The American,Steve Keim
+2022,NYJ,3,101,Jeremy Ruckert,NA,NA,TE,2000-08-11,22.06,NA,Ohio State,Big Ten,Joe Douglas
+2022,MIA,3,102,Channing Tindall,NA,NA,LB,2000-03-28,22.43,NA,Georgia,SEC,Chris Grier
+2022,KC,3,103,Leo Chenal,NA,NA,LB,2000-10-26,21.85,NA,Wisconsin,Big Ten,Brett Veach
+2022,LA,3,104,Logan Bruss,NA,NA,OG,1999-10-07,22.9,NA,Wisconsin,Big Ten,Les Snead
+2022,SF,3,105,Danny Gray,NA,NA,WR,1999-04-01,23.42,NA,SMU,The American,John Lynch
+2022,TB,4,106,Cade Otton,NA,NA,TE,1999-04-15,23.38,NA,Washington,Pac-12,Jason Licht
+2022,HOU,4,107,Dameon Pierce,NA,NA,RB,2000-02-19,22.53,NA,Florida,SEC,Nick Caserio
+2022,CLE,4,108,Perrion Winfrey,NA,NA,DT,2000-08-15,22.05,NA,Oklahoma,Big 12,Andrew Berry
+2022,SEA,4,109,Coby Bryant,NA,NA,CB,1999-03-29,23.43,NA,Cincinnati,The American,John Schneider
+2022,BAL,4,110,Daniel Faalele,NA,NA,OT,1999-11-09,22.81,NA,Minnesota,Big Ten,Eric DeCosta
+2022,NYJ,4,111,Max Mitchell,NA,NA,OT,1999-10-12,22.89,NA,Louisiana,Sun Belt,Joe Douglas
+2022,NYG,4,112,Daniel Bellinger,NA,NA,TE,2000-09-22,21.94,NA,San Diego State,MW,Joe Schoen
+2022,WAS,4,113,Percy Butler,NA,NA,S,2000-05-29,22.26,NA,Louisiana,Sun Belt,Martin Mayhew
+2022,NYG,4,114,Dane Belton,NA,NA,S,2000-12-07,21.73,NA,Iowa,Big Ten,Joe Schoen
+2022,DEN,4,115,Damarri Mathis,NA,NA,CB,1999-04-12,23.39,NA,Pittsburgh,ACC,George Paton
+2022,DEN,4,116,Eyioma Uwazurike,NA,NA,DT,1998-05-06,24.32,NA,Iowa State,Big 12,George Paton
+2022,NYJ,4,117,Micheal Clemons,NA,NA,DE,1997-08-21,25.03,NA,Texas A&M,SEC,Joe Douglas
+2022,MIN,4,118,Akayleb Evans,NA,NA,CB,1999-06-22,23.2,NA,Missouri,SEC,Kwesi Adofo-Mensah
+2022,BAL,4,119,Jalyn Armour-Davis,NA,NA,CB,1999-09-03,23,NA,Alabama,SEC,Eric DeCosta
+2022,CAR,4,120,Brandon Smith,NA,NA,LB,2001-04-12,21.39,NA,Penn State,Big Ten,Scott Fitterer
+2022,NE,4,121,Jack Jones,NA,NA,DB,1997-12-20,24.7,NA,Arizona State,Pac-12,Bill Belichick
+2022,LV,4,122,Zamir White,NA,NA,RB,1999-09-18,22.95,NA,Georgia,SEC,Dave Ziegler
+2022,LAC,4,123,Isaiah Spiller,NA,NA,RB,2001-08-09,21.06,NA,Texas A&M,SEC,Tom Telesco
+2022,CLE,4,124,Cade York,NA,NA,K,2001-01-27,21.59,NA,LSU,SEC,Andrew Berry
+2022,MIA,4,125,Erik Ezukanma,NA,NA,WR,2000-01-25,22.6,NA,Texas Tech,Big 12,Chris Grier
+2022,LV,4,126,Neil Farrell Jr.,NA,NA,DT,1998-09-09,23.98,NA,LSU,SEC,Dave Ziegler
+2022,NE,4,127,Pierre Strong Jr.,NA,NA,RB,1998-12-10,23.73,NA,South Dakota State,MVFC,Bill Belichick
+2022,BAL,4,128,Charlie Kolar,NA,NA,TE,1999-02-10,23.56,NA,Iowa State,Big 12,Eric DeCosta
+2022,DAL,4,129,Jake Ferguson,NA,NA,TE,1999-01-18,23.62,NA,Wisconsin,Big Ten,Jerry Jones
+2022,BAL,4,130,Jordan Stout,NA,NA,P,1998-08-04,24.08,NA,Penn State,Big Ten,Eric DeCosta
+2022,TEN,4,131,Hassan Haskins,NA,NA,RB,1999-11-26,22.77,NA,Michigan,Big Ten,Jon Robinson
+2022,GB,4,132,Romeo Doubs,NA,NA,WR,2000-04-13,22.38,NA,Nevada,MW,Brian Gutekunst
+2022,TB,4,133,Jake Camarda,NA,NA,P,1999-04-20,23.37,NA,Georgia,SEC,Jason Licht
+2022,SF,4,134,Spencer Burford,NA,NA,OT,2000-07-19,22.12,NA,UTSA,C-USA,John Lynch
+2022,KC,4,135,Joshua Williams,NA,NA,CB,1999-10-17,22.87,NA,Fayetteville State,CIAA,Brett Veach
+2022,CIN,4,136,Cordell Volson,NA,NA,OT,1998-07-20,24.12,NA,North Dakota State,MVFC,Duke Tobin
+2022,NE,4,137,Bailey Zappe,NA,NA,QB,1999-04-26,23.35,NA,Western Kentucky,C-USA,Bill Belichick
+2022,PIT,4,138,Calvin Austin,NA,NA,WR,1999-03-24,23.44,NA,Memphis,The American,Kevin Colbert
+2022,BAL,4,139,Isaiah Likely,NA,NA,TE,2000-04-18,22.37,NA,Coastal Carolina,Sun Belt,Eric DeCosta
+2022,GB,4,140,Zach Tom,NA,NA,OG,1999-03-26,23.44,NA,Wake Forest,ACC,Brian Gutekunst
+2022,BAL,4,141,Damarion Williams,NA,NA,CB,1998-07-15,24.13,NA,Houston,The American,Eric DeCosta
+2022,LA,4,142,Decobie Durant,NA,NA,CB,1998-02-09,24.56,NA,South Carolina State,MEAC,Les Snead
+2022,TEN,4,143,Chigoziem Okonkwo,NA,NA,TE,1999-09-08,22.98,NA,Maryland,Big Ten,Jon Robinson
+2022,WAS,5,144,Sam Howell,NA,NA,QB,2000-09-16,21.96,NA,North Carolina,ACC,Martin Mayhew
+2022,KC,5,145,Darian Kinnard,NA,NA,OT,1999-12-29,22.67,NA,Kentucky,SEC,Brett Veach
+2022,NYG,5,146,Micah McFadden,NA,NA,LB,2000-01-03,22.66,NA,Indiana,Big Ten,Joe Schoen
+2022,NYG,5,147,D. J. Davidson,NA,NA,DT,1999-12-16,22.71,NA,Arizona State,Pac-12,Joe Schoen
+2022,BUF,5,148,Khalil Shakir,NA,NA,WR,2000-02-03,22.58,NA,Boise State,MW,Brandon Beane
+2022,WAS,5,149,Cole Turner,NA,NA,TE,2000-03-16,22.46,NA,Nevada,MW,Martin Mayhew
+2022,HOU,5,150,Thomas Booker,NA,NA,DT,1999-11-11,22.81,NA,Stanford,Pac-12,Nick Caserio
+2022,ATL,5,151,Tyler Allgeier,NA,NA,RB,2000-04-15,22.38,NA,BYU,Ind. (FBS),Terry Fontenot
+2022,DEN,5,152,Delarrin Turner-Yell,NA,NA,S,1999-12-16,22.71,NA,Oklahoma,Big 12,George Paton
+2022,SEA,5,153,Tariq Woolen,NA,NA,CB,1999-05-02,23.33,NA,UTSA,C-USA,John Schneider
+2022,JAX,5,154,Snoop Conner,NA,NA,RB,2000-08-01,22.08,NA,Ole Miss,SEC,Trent Baalke
+2022,DAL,5,155,Matt Waletzko,NA,NA,OT,1999-12-15,22.71,NA,North Dakota,MVFC,Jerry Jones
+2022,CLE,5,156,Jerome Ford,NA,NA,RB,1999-09-12,22.97,NA,Cincinnati,The American,Andrew Berry
+2022,TB,5,157,Zyon McCollum,NA,NA,CB,1999-05-03,23.33,NA,Sam Houston State,WAC,Jason Licht
+2022,SEA,5,158,Tyreke Smith,NA,NA,DE,2000-02-14,22.55,NA,Ohio State,Big Ten,John Schneider
+2022,IND,5,159,Eric Johnson,NA,NA,DT,1998-07-16,24.13,NA,Missouri State,MVFC,Chris Ballard
+2022,LAC,5,160,Otito Ogbonnia,NA,NA,DT,2001-12-03,20.74,NA,UCLA,Pac-12,Tom Telesco
+2022,NO,5,161,D'Marco Jackson,NA,NA,LB,1998-07-20,24.12,NA,Appalachian State,Sun Belt,Mickey Loomis
+2022,DEN,5,162,Montrell Washington,NA,NA,WR,1999-03-14,23.47,NA,Samford,SoCon,George Paton
+2022,TEN,5,163,Kyle Philips,NA,NA,WR,1999-06-17,23.21,NA,UCLA,Pac-12,Jon Robinson
+2022,LA,5,164,Kyren Williams,NA,NA,RB,2000-08-26,22.02,NA,Notre Dame,Ind. (FBS),Les Snead
+2022,MIN,5,165,Esezi Otomewo,NA,NA,DE,1999-03-09,23.48,NA,Minnesota,Big Ten,Kwesi Adofo-Mensah
+2022,CIN,5,166,Tycen Anderson,NA,NA,S,1999-06-13,23.22,NA,Toledo,MAC,Duke Tobin
+2022,DAL,5,167,DaRon Bland,NA,NA,CB,1999-07-12,23.14,NA,Fresno State,MW,Jerry Jones
+2022,CHI,5,168,Braxton Jones,NA,NA,OT,1999-03-27,23.43,NA,Southern Utah,Big Sky,Ryan Poles
+2022,MIN,5,169,Ty Chandler,NA,NA,RB,1998-05-12,24.31,NA,North Carolina,ACC,Kwesi Adofo-Mensah
+2022,HOU,5,170,Teagan Quitoriano,NA,NA,TE,2000-03-15,22.46,NA,Oregon State,Pac-12,Nick Caserio
+2022,DEN,5,171,Luke Wattenberg,NA,NA,C,1997-09-10,24.97,NA,Washington,Pac-12,George Paton
+2022,SF,5,172,Samuel Womack,NA,NA,CB,1999-07-07,23.15,NA,Toledo,MAC,John Lynch
+2022,NYG,5,173,Marcus McKethan,NA,NA,OG,1999-05-19,23.29,NA,North Carolina,ACC,Joe Schoen
+2022,CHI,5,174,Dominique Robinson,NA,NA,DE,1998-07-02,24.17,NA,Miami (OH),MAC,Ryan Poles
+2022,LV,5,175,Matthew Butler,NA,NA,DT,1999-06-10,23.23,NA,Tennessee,SEC,Dave Ziegler
+2022,DAL,5,176,Damone Clark,NA,NA,LB,2000-06-28,22.18,NA,LSU,SEC,Jerry Jones
+2022,DET,5,177,James Mitchell,NA,NA,TE,1999-08-11,23.06,NA,Virginia Tech,ACC,Brad Holmes
+2022,DAL,5,178,John Ridgeway,NA,NA,DT,1999-05-07,23.32,NA,Arkansas,SEC,Jerry Jones
+2022,GB,5,179,Kingsley Enagbare,NA,NA,DE,2000-01-18,22.62,NA,South Carolina,SEC,Brian Gutekunst
+2022,BUF,6,180,Matt Araiza,NA,NA,P,2000-05-16,22.29,NA,San Diego State,MW,Brandon Beane
+2022,PHI,6,181,Kyron Johnson,NA,NA,LB,1998-07-24,24.11,NA,Kansas,Big 12,Howie Roseman
+2022,NYG,6,182,Darrian Beavers,NA,NA,LB,1999-07-05,23.16,NA,Cincinnati,The American,Joe Schoen
+2022,NE,6,183,Kevin Harris,NA,NA,RB,2000-11-17,21.79,NA,South Carolina,SEC,Bill Belichick
+2022,MIN,6,184,Vederian Lowe,NA,NA,OT,1999-04-17,23.38,NA,Illinois,Big Ten,Kwesi Adofo-Mensah
+2022,BUF,6,185,Christian Benford,NA,NA,CB,2000-09-21,21.94,NA,Villanova,CAA,Brandon Beane
+2022,CHI,6,186,Zachary Thomas,NA,NA,OT,1998-05-26,24.27,NA,San Diego State,MW,Ryan Poles
+2022,SF,6,187,Nick Zakelj,NA,NA,OT,1999-06-22,23.2,NA,Fordham,Patriot,John Lynch
+2022,DET,6,188,Malcolm Rodriguez,NA,NA,LB,1999-03-29,23.43,NA,Oklahoma State,Big 12,Brad Holmes
+2022,CAR,6,189,Amaré Barno,NA,NA,LB,1999-04-26,23.35,NA,Virginia Tech,ACC,Scott Fitterer
+2022,ATL,6,190,Justin Shaffer,NA,NA,OG,1998-06-20,24.2,NA,Georgia,SEC,Terry Fontenot
+2022,MIN,6,191,Jalen Nailor,NA,NA,WR,1999-03-02,23.5,NA,Michigan State,Big Ten,Kwesi Adofo-Mensah
+2022,IND,6,192,Andrew Ogletree,NA,NA,TE,1998-07-28,24.1,NA,Youngstown State,MVFC,Chris Ballard
+2022,DAL,6,193,Devin Harper,NA,NA,LB,1998-05-13,24.3,NA,Oklahoma State,Big 12,Jerry Jones
+2022,NO,6,194,Jordan Jackson,NA,NA,DT,1998-01-30,24.59,NA,Air Force,MW,Mickey Loomis
+2022,LAC,6,195,Jamaree Salyer,NA,NA,OG,2000-07-13,22.14,NA,Georgia,SEC,Tom Telesco
+2022,BAL,6,196,Tyler Badie,NA,NA,RB,2000-02-07,22.57,NA,Missouri,SEC,Eric DeCosta
+2022,JAX,6,197,Gregory Junior,NA,NA,CB,1999-06-21,23.2,NA,Ouachita Baptist,GAC,Trent Baalke
+2022,PHI,6,198,Grant Calcaterra,NA,NA,TE,1998-12-04,23.74,NA,SMU,The American,Howie Roseman
+2022,CAR,6,199,Cade Mays,NA,NA,OG,1999-04-26,23.35,NA,Tennessee,SEC,Scott Fitterer
+2022,NE,6,200,Sam Roberts,NA,NA,DE,1998-04-14,24.38,NA,Northwest Missouri State,MIAA,Bill Belichick
+2022,ARI,6,201,Keaontay Ingram,NA,NA,RB,1999-10-26,22.85,NA,USC,Pac-12,Steve Keim
+2022,CLE,6,202,Michael Woods II,NA,NA,WR,2000-03-19,22.45,NA,Oklahoma,Big 12,Andrew Berry
+2022,CHI,6,203,Trestan Ebner,NA,NA,RB,1999-01-02,23.66,NA,Baylor,Big 12,Ryan Poles
+2022,TEN,6,204,Theo Jackson,NA,NA,S,1998-10-02,23.92,NA,Tennessee,SEC,Jon Robinson
+2022,HOU,6,205,Austin Deculus,NA,NA,OT,1999-03-12,23.47,NA,LSU,SEC,Nick Caserio
+2022,DEN,6,206,Matt Henningsen,NA,NA,DT,1999-05-01,23.34,NA,Wisconsin,Big Ten,George Paton
+2022,CHI,6,207,Doug Kramer,NA,NA,C,1998-06-04,24.24,NA,Illinois,Big Ten,Ryan Poles
+2022,PIT,6,208,Connor Heyward,NA,NA,FB,1999-01-22,23.61,NA,Michigan State,Big Ten,Kevin Colbert
+2022,BUF,6,209,Luke Tenuta,NA,NA,OT,1999-09-01,23,NA,Virginia Tech,ACC,Brandon Beane
+2022,NE,6,210,Chasen Hines,NA,NA,OG,2000-04-03,22.41,NA,LSU,SEC,Bill Belichick
+2022,LA,6,211,Quentin Lake,NA,NA,S,1999-01-29,23.59,NA,UCLA,Pac-12,Les Snead
+2022,LA,6,212,Derion Kendrick,NA,NA,CB,2000-08-24,22.02,NA,Georgia,SEC,Les Snead
+2022,ATL,6,213,John FitzPatrick,NA,NA,TE,2000-03-09,22.48,NA,Georgia,SEC,Terry Fontenot
+2022,LAC,6,214,Ja'Sir Taylor,NA,NA,CB,1999-01-08,23.65,NA,Wake Forest,ACC,Tom Telesco
+2022,ARI,6,215,Lecitus Smith,NA,NA,OG,1998-07-13,24.14,NA,Virginia Tech,ACC,Steve Keim
+2022,IND,6,216,Curtis Brooks,NA,NA,DT,1998-02-06,24.57,NA,Cincinnati,The American,Chris Ballard
+2022,DET,6,217,James Houston IV,NA,NA,LB,1998-11-16,23.79,NA,Jackson State,SWAC,Brad Holmes
+2022,TB,6,218,Ko Kieft,NA,NA,TE,1998-01-20,24.61,NA,Minnesota,Big Ten,Jason Licht
+2022,TEN,6,219,Chance Campbell,NA,NA,LB,1999-10-08,22.9,NA,Ole Miss,SEC,Jon Robinson
+2022,SF,6,220,Kalia Davis,NA,NA,DT,1998-10-02,23.92,NA,UCF,The American,John Lynch
+2022,SF,6,221,Tariq Castro-Fields,NA,NA,CB,1999-01-14,23.63,NA,Penn State,Big Ten,John Lynch
+2022,JAX,7,222,Montaric Brown,NA,NA,CB,1999-08-24,23.02,NA,Arkansas,SEC,Trent Baalke
+2022,CLE,7,223,Isaiah Thomas,NA,NA,DE,1998-12-03,23.75,NA,Oklahoma,Big 12,Andrew Berry
+2022,MIA,7,224,Cameron Goode,NA,NA,LB,1998-04-15,24.38,NA,California,Pac-12,Chris Grier
+2022,PIT,7,225,Mark Robinson,NA,NA,LB,1999-08-14,23.05,NA,Ole Miss,SEC,Kevin Colbert
+2022,CHI,7,226,Ja'Tyre Carter,NA,NA,OG,1999-01-15,23.63,NA,Southern,SWAC,Ryan Poles
+2022,MIN,7,227,Nick Muse,NA,NA,TE,1998-11-25,23.77,NA,South Carolina,SEC,Kwesi Adofo-Mensah
+2022,GB,7,228,Tariq Carpenter,NA,NA,LB,1998-12-28,23.68,NA,Georgia Tech,ACC,Brian Gutekunst
+2022,SEA,7,229,Bo Melton,NA,NA,WR,1999-05-18,23.29,NA,Rutgers,Big Ten,John Schneider
+2022,WAS,7,230,Chris Paul,NA,NA,OG,1998-11-18,23.79,NA,Tulsa,The American,Martin Mayhew
+2022,BUF,7,231,Baylon Spector,NA,NA,LB,1998-10-20,23.87,NA,Clemson,ACC,Brandon Beane
+2022,DEN,7,232,Faion Hicks,NA,NA,DB,2000-09-02,22,NA,Wisconsin,Big Ten,George Paton
+2022,SEA,7,233,Dareke Young,NA,NA,WR,1999-06-04,23.24,NA,Lenoir–Rhyne,SAC,John Schneider
+2022,GB,7,234,Jonathan Ford,NA,NA,DT,1998-09-29,23.92,NA,Miami (FL),ACC,Brian Gutekunst
+2022,LA,7,235,Daniel Hardy,NA,NA,LB,1998-12-15,23.71,NA,Montana State,Big Sky,Les Snead
+2022,LAC,7,236,Deane Leonard,NA,NA,CB,1999-11-20,22.78,NA,Ole Miss,SEC,Tom Telesco
+2022,DET,7,237,Chase Lucas,NA,NA,CB,1997-03-04,25.49,NA,Arizona State,Pac-12,Brad Holmes
+2022,LV,7,238,Thayer Munford,NA,NA,OT,1999-09-18,22.95,NA,Ohio State,Big Ten,Dave Ziegler
+2022,IND,7,239,Rodney Thomas II,NA,NA,S,NA,NA,NA,Yale,Ivy,Chris Ballard
+2022,WAS,7,240,Christian Holmes,NA,NA,CB,1997-09-14,24.96,NA,Oklahoma State,Big 12,Martin Mayhew
+2022,PIT,7,241,Chris Oladokun,NA,NA,QB,1997-09-03,24.99,NA,South Dakota State,MVFC,Kevin Colbert
+2022,CAR,7,242,Kalon Barnes,NA,NA,CB,1998-12-16,23.71,NA,Baylor,Big 12,Scott Fitterer
+2022,KC,7,243,Jaylen Watson,NA,NA,CB,1998-09-17,23.96,NA,Washington State,Pac-12,Brett Veach
+2022,ARI,7,244,Christian Matthew,NA,NA,CB,1996-10-26,25.85,NA,Valdosta State,Gulf South,Steve Keim
+2022,NE,7,245,Andrew Stueber,NA,NA,OG,1999-07-01,23.17,NA,Michigan,Big Ten,Bill Belichick
+2022,CLE,7,246,Dawson Deaton,NA,NA,C,1999-05-06,23.32,NA,Texas Tech,Big 12,Andrew Berry
+2022,MIA,7,247,Skylar Thompson,NA,NA,QB,1997-06-04,25.24,NA,Kansas State,Big 12,Chris Grier
+2022,TB,7,248,Andre Anthony,NA,NA,DE,1996-11-21,25.78,NA,LSU,SEC,Jason Licht
+2022,GB,7,249,Rasheed Walker,NA,NA,OT,2000-02-13,22.55,NA,Penn State,Big Ten,Brian Gutekunst
+2022,LV,7,250,Brittain Brown,NA,NA,RB,1997-10-10,24.89,NA,UCLA,Pac-12,Dave Ziegler
+2022,KC,7,251,Isaih Pacheco,NA,NA,RB,1999-03-02,23.5,NA,Rutgers,Big Ten,Brett Veach
+2022,CIN,7,252,Jeffrey Gunter,NA,NA,DE,1999-05-31,23.26,NA,Coastal Carolina,Sun Belt,Duke Tobin
+2022,LA,7,253,Russ Yeast,NA,NA,S,1999-05-08,23.32,NA,Kansas State,Big 12,Les Snead
+2022,CHI,7,254,Elijah Hicks,NA,NA,S,1999-10-16,22.88,NA,California,Pac-12,Ryan Poles
+2022,CHI,7,255,Trenton Gill,NA,NA,P,NA,NA,NA,NC State,ACC,Ryan Poles
+2022,ARI,7,256,Jesse Luketa,NA,NA,LB,1999-01-15,23.63,NA,Penn State,Big Ten,Steve Keim
+2022,ARI,7,257,Marquis Hayes,NA,NA,OG,1999-02-14,23.55,NA,Oklahoma,Big 12,Steve Keim
+2022,GB,7,258,Samori Toure,NA,NA,WR,1998-03-24,24.44,NA,Nebraska,Big Ten,Brian Gutekunst
+2022,KC,7,259,Nazeeh Johnson,NA,NA,S,1998-07-17,24.13,NA,Marshall,C-USA,Brett Veach
+2022,LAC,7,260,Zander Horvath,NA,NA,FB,1998-12-10,23.73,NA,Purdue,Big Ten,Tom Telesco
+2022,LA,7,261,A. J. Arcuri,NA,NA,OT,1997-08-13,25.05,NA,Michigan State,Big Ten,Les Snead
+2022,SF,7,262,Brock Purdy,NA,NA,QB,1999-12-27,22.68,NA,Iowa State,Big 12,John Lynch
