@@ -92,7 +92,7 @@ q <- gm_draft_gain %>%
                      labels = scales::percent_format(accuracy = 1,
                                                      style_positive = "plus"))+
   labs(x = 'Average Gain in Expected AV',
-       title = 'Which GMs Gain The Most AV Due To Age ?',
+       title = 'Which GMs Gain The Most Expected AV Due To Age ?',
        subtitle = str_c('Average Gain in Expected AV In The First 5 Years Due To Difference Between Draftee Age ',
                         'And Expected Age At Pick ',
                         '\nDrafts 2017-2022 | Minimum 15 Picks'),
