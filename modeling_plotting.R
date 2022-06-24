@@ -44,7 +44,7 @@ plot_values <- plot_values %>% mutate(fit = predict.gam(model_te, newdata = plot
 p <- ggplot(plot_values, aes(x = age, y = fit_percentage, color = factor(pick)))+
   geom_line(size = 1.75)+
   scale_y_continuous(labels = scales::percent_format(accuracy = 1))+
-  labs(x = 'Age', y = 'AV as Percentage of Maximum', color = 'Pick',
+  labs(x = 'Age', y = 'Expected AV as Percentage of Maximum', color = 'Pick',
        title = 'Age Matters More Later In The Draft',
        subtitle = str_c('Dropoff in Expected AV in The First Five Years Depending on Age',
                         'AV = Approximate Value',
